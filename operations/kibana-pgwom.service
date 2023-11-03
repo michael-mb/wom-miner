@@ -1,0 +1,23 @@
+# Kibana service definition for systemd
+# Source: https://github.com/elastic/kibana/blob/73a540ffd3c37a61bc59b295a0bab5c89a9f85ab/src/dev/build/tasks/os_packages/service_templates/systemd/usr/lib/systemd/system/kibana.service
+
+[Unit]
+Description=Kibana 8.8.1 (PG WOM)
+Documentation=https://www.elastic.co/guide/en/kibana/8.8/index.html
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=pg-wom
+PrivateTmp=true
+ExecStart=/home/pg-wom/kibana-8.8.1/bin/kibana
+Restart=always
+RestartSec=3
+StartLimitBurst=3
+StartLimitInterval=60
+StandardOutput=journal
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target

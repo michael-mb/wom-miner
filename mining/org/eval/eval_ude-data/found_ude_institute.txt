@@ -1,0 +1,678 @@
+{'name': 'Institut für Theoretische Nachrichtentechnik und Informationsverarbeitung', 'link': 'None', 'upper': 'None'}
+{'name': 'Klausuren Institut für Sozioökonomie', 'link': 'https://campus.uni-due.de/lsf/rds?state=wsearchv&search=2&veranstaltung.veranstid=340142', 'upper': 'None'}
+{'name': 'Betriebswirtschaftliches Institut für Organisation und Automation', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für nachhaltige Abfall- und Ressourcennutzung', 'link': 'None', 'upper': 'None'}
+{'name': 'Studiengänge Institut für Soziologie', 'link': 'https://campus.uni-due.de/lsf/rds?state=wsearchv&search=2&veranstaltung.veranstid=377463', 'upper': 'None'}
+{'name': 'Anschrift Institut für Psychologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Siedlungswasserbau', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Föderalismus-Forschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Hörsäle Institut für Politikwissenschaft', 'link': 'https://campus.uni-due.de/lsf/rds?state=wsearchv&search=2&veranstaltung.veranstid=363367', 'upper': 'None'}
+{'name': 'Weihnachtsfeier Institut für Philosophie', 'link': 'https://campus.uni-due.de/lsf/rds?state=wsearchv&search=2&veranstaltung.veranstid=386563', 'upper': 'None'}
+{'name': 'Institute for Organic Chemistry', 'link': 'https://www.uni-due.de/chemie/ak_schrader', 'upper': 'None'}
+{'name': 'Hochschulnahes Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Balkan Studies', 'link': 'None', 'upper': 'None'}
+{'name': 'German Institute for Economic', 'link': 'None', 'upper': 'None'}
+{'name': 'Fraunhofer Institute for Industrial Engineering', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Photonic Microsystems', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Biomedical', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Interactive', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Numerik', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Wissen', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Bildungsconsulting', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Technische Mechanik', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Zentrum für Automobilwissenschaften', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für digitales Lernen', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Helmholtz-Zentrum für Ozeanforschung', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Kulturwissenschaften Essen', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Ostasien-Studien', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'International Institute for Social History', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Deutsche Internet-Institut', 'link': 'https://learninglab.uni-due.de/neuigkeit/6505', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Zoologisches Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Geisteswissenschaftliches Zentrum', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Urban Planning', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Vocational Training', 'link': 'http://www.uni-due.de/ibw/institut.php', 'upper': 'Institut für Psychologie'}
+{'name': 'Momentum Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Finanzierung', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Medizinische Informationsverarbeitung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Romanische Philologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Statistik', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Hochschul- und Wissenschaftsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Innere Medizin', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für partielle Differentialgleichungen', 'link': 'https://www.uni-due.de/mathematik/ruhrpad/ruhr.pad', 'upper': 'None'}
+{'name': 'Zentrum für seltene Erkrankungen', 'link': 'https://www.forschungsbericht.uni-due.de/2014/inhalt-2014/medizin/forschungshighlights/essener-zentrum-fuer-seltene-erkrankungen-gegruendet/', 'upper': 'None'}
+{'name': 'Institut für Immunologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Zelltherapeutische Forschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Bildungs- und Sozialreform', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Kompetenzentwicklung für Diversity Management', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Medizinische Biologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Forschungskolloquium Institut für Soziologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Mechatronik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Nachhaltige Technische Systeme', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Pädagogische Forschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Romanistik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Urbanistik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Weltwirtschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Forschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Wasser und Umweltforschung', 'link': 'https://www.uni-due.de/bena/zfwuumwelt.php', 'upper': 'None'}
+{'name': 'Institut für Sozialarbeit', 'link': 'http://www.uni-due.de/biwi/isp/', 'upper': 'None'}
+{'name': 'Institut für Stadt- und Regionalentwicklung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Wirtschaftspolitik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für schulische Fortbildung und schulpsychologische Beratung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Kinder- und Jugendmedizin', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Orthopädie und Unfallchirurgie', 'link': 'None', 'upper': 'None'}
+{'name': 'Fraunhofer-Institut für Materialfluss', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Allgemeine Didaktik und Schulforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Angewandte und Numerische Mathematik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Baustatik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Germanistische Sprachwissenschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Kultur und Sprache', 'link': 'http://www.uni-due.de/imperia/md/content/germanistik/lum/flyer_tagung_k__rper_final.pdf', 'upper': 'None'}
+{'name': 'Institut für Lasertechnik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Medizinische Soziologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Mikrobiologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Molekulare Physiologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Sozialwesen des Fachbereichs Humanwissenschaften', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Strukturelle und Medizinische Biochemie', 'link': 'https://www.uni-due.de/zmb/strukturelle-medizinische-biochemie/', 'upper': 'None'}
+{'name': 'Institut für interdisziplinäre Konflikt- und Gewaltforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Leibniz-Institut für lebenslanges Lernen', 'link': 'None', 'upper': 'None'}
+{'name': 'Leibniz-Institut für Wissen', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Neurologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Sprach- und Sozialforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Zukunftsstudien und Technologiebewertung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für chemische Energiekonversion', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für empirische Integrations- und Migrationsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Europäische Integrationsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für schulpraktische Lehrerbildung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Angewandte Wirtschaftsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Arbeit und Gesundheit', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Arbeitsphysiologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Deutsches', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Fernstudien', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Gesundheitsökonomie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Management', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Medienwissenschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Mittelstandsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Nanostrukturtechnik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Public Health', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Software Engineering', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für System- und Innovationsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Technologieentwicklung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Transdisziplinarität der Hochschule der Künste', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Umweltforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Verwaltungs- und Organisationswissenschaften', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für experimentelle Immunologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für IT-Sicherheit', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Pharmakologie', 'link': 'http://www.uni-due.de/pharmakologie/', 'upper': 'None'}
+{'name': 'Institut für Statik und Dynamik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Arbeitswissenschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Interdisziplinäre Arbeitswissenschaft der Leibniz', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Pharmakogenetik', 'link': 'https://www.uni-due.de/med/pharmakogenetik', 'upper': 'None'}
+{'name': 'Institut für Wasserchemie und Wassertechnologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für molekulare Physiologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Förderung und Beratung', 'link': 'https://www.uni-due.de/biwi/lls/wuz.php', 'upper': 'None'}
+{'name': 'Zentrum für Sozialpolitik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Physiologische Chemie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Anorganische Chemie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Didaktik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Sozialwissenschaften', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Logistik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Software- und Systemtechnik', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Europäische Sozialforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Normung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Elektrische Energie-und Steuerungstechnik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Landes- und Stadtentwicklungsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Sozialpolitik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Unternehmungsführung und Unternehmensforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Interdisziplinäre Forschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Neurodegenerative Erkrankungen', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Stahlbau', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Wettbewerbsökonomie', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Geoinformatik', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Interdisziplinäre Studien', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Rechtsmedizin', 'link': 'http://www.uni-due.de/rechtsmedizin', 'upper': 'None'}
+{'name': 'Institut für Produktionswirtschaft und Industrielle Informationswirtschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Stadtteilentwicklung', 'link': 'https://www.uni-due.de/biwi/issab', 'upper': 'None'}
+{'name': 'Institut für Pädagogik', 'link': 'https://www.forschungsbericht.uni-due.de/2008/bildungswissenschaften/institut-fuer-paedagogik/', 'upper': 'None'}
+{'name': 'Institut für Medizinische Informatik', 'link': 'http://www.uni-due.de/imibe/', 'upper': 'None'}
+{'name': 'Institut für Arbeitsmarkt- und Berufsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Mobilitäts- und Stadtplanung', 'link': 'https://www.uni-due.de/imobis', 'upper': 'None'}
+{'name': 'Zentrum für Europäische Wirtschaftsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Energiewirtschaft und Rationelle Energieanwendung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für ökonomische Bildung', 'link': 'None', 'upper': 'None'}
+{'name': 'Workshop Institut für Soziologie', 'link': 'https://campus.uni-due.de/lsf/rds?state=wsearchv&search=2&veranstaltung.veranstid=379982', 'upper': 'None'}
+{'name': 'Zentrum für Chirurgie', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Empirische Bildungsforschung', 'link': 'http://www.uni-due.de/zeb/', 'upper': 'None'}
+{'name': 'Zentrum für Entwicklungsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Molekulare Medizin', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für interdisziplinäre Studien', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für klinische Studien Essen', 'link': 'https://www.uni-due.de/med/meldung.php?id=815', 'upper': 'None'}
+{'name': 'Institut für Allgemeine Botanik', 'link': 'None', 'upper': 'None'}
+{'name': 'Internationales Institut für Arbeitsfragen', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Astronomie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Klinische Pharmakologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Neurowissenschaften und Medizin', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Ressourcenmanagement', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Sozialökonomie', 'link': 'None', 'upper': 'None'}
+{'name': 'Veranstaltung Institut für Soziologie', 'link': 'https://campus.uni-due.de/lsf/rds?state=wsearchv&search=2&veranstaltung.veranstid=387832', 'upper': 'None'}
+{'name': 'Westdeutsche Zentrum für Infektiologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Frauen- und Geschlechterforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Infektionsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Krebsregisterdaten', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Metropolenforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Nachhaltige Entwicklung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Computer', 'link': 'https://www.icb.wiwi.uni-due.de/en/', 'upper': 'None'}
+{'name': 'Institut für Produktion und Industrielles Informationsmanagement', 'link': 'https://www.pim.wiwi.uni-due.de/profil/', 'upper': 'None'}
+{'name': 'Institut für Optionale Studien', 'link': 'https://www.wi.wiwi.uni-due.de/studium/weitere-qualifikationsmoeglichkeiten/#c51522', 'upper': 'None'}
+{'name': 'Institut für Berufs- und Weiterbildung', 'link': 'https://www.uni-due.de/ibw/', 'upper': 'None'}
+{'name': 'Deutsches Institut für Interdisziplinäre Sozialpolitikforschung DIFIS', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Sport- und Bewegungswissenschaften', 'link': 'https://www.uni-due.de/sport-und-bewegungswissenschaften', 'upper': 'None'}
+{'name': 'Fritz-Hüser-Institut für Deutsche und Ausländische Arbeiterliteratur', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Kunst', 'link': 'https://www.uni-due.de/kunst-kuwiss/kuk_home.shtml', 'upper': 'None'}
+{'name': 'Zentrum für BrennstoffzellenTechnik', 'link': 'https://www.forschungsbericht.uni-due.de/2009/zentrum-fuer-brennstoffzellentechnik/', 'upper': 'None'}
+{'name': 'Zentrum für Logistik und Verkehr', 'link': 'https://www.uni-due.de/zlv', 'upper': 'None'}
+{'name': 'InZentIM Interdisziplinäres Zentrum für Integrations- und Migrationsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Energie- und Umweltverfahrenstechnik', 'link': 'https://www.uni-due.de/ieuv', 'upper': 'None'}
+{'name': 'Institut für Gesellschaftsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Diagnostische und Interventionelle Radiologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Organische Chemie', 'link': 'https://www.uni-due.de/chemie/ak_schrader/index', 'upper': 'None'}
+{'name': 'Institut für Sozialwissenschaftliche Forschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Altersfragen', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für optionale Studien', 'link': 'http://www.uni-due.de/ios/', 'upper': 'None'}
+{'name': 'Institut für Energie und Umwelttechnik', 'link': 'https://www.forschungsbericht.uni-due.de/2019/iuta-institut-fuer-energie-und-umwelttechnik/', 'upper': 'None'}
+{'name': 'Zentrum für Urbane Epidemiologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für HIV-Forschung', 'link': 'https://www.forschungsbericht.uni-due.de/2016/inhalt-2016/medizin/forschungshighlights/erstes-institut-fuer-hiv-forschung-in-deutschland/', 'upper': 'None'}
+{'name': 'Institut für Internationale Pädagogische Forschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Sonderpädagogik', 'link': 'https://www.uni-due.de/sonderpaedagogik', 'upper': 'None'}
+{'name': 'Institut für Medizinische Psychologie', 'link': 'https://www.uni-due.de/zentrales-tierlabor/tierschutzpreis1platz2022.php', 'upper': 'None'}
+{'name': 'Institut für Pathologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Materialfluss und Logistik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Humangenetik', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für schulpraktische Lehrerausbildung', 'link': 'https://www.uni-due.de/apps/rss.php?db=efl&id=38', 'upper': 'None'}
+{'name': 'Institut für Allgemeinmedizin', 'link': 'https://www.uni-due.de/med/meldung.php?id=483', 'upper': 'None'}
+{'name': 'Institut für Europäische Politik', 'link': 'None', 'upper': 'None'}
+{'name': 'Leibniz-Institut für Bildungsforschung und Bildungsinformation', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Mathematik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Neuropathologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Urban Public Health', 'link': 'https://www.uni-due.de/med/meldung.php?id=983', 'upper': 'None'}
+{'name': 'Zentrum für Studium und Beruf', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für empirische Bildungsforschung', 'link': 'http://www.uni-due.de/zeb/', 'upper': 'None'}
+{'name': 'Rhein-Ruhr-Institut für Sozialforschung', 'link': 'https://www.uni-due.de/risp/', 'upper': 'None'}
+{'name': 'Institut für Umweltschutz', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Höhere Studien', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Experimentelle Immunologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Mobil- und Satellitenfunktechnik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Betriebswirtschaftslehre', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Psychologische Therapie', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Sozialforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Arbeit', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Arbeitsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Schlaganfall- und Demenzforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Hochschulentwicklung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Filtrationsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Brennstoffzellen Technik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für experimentelle Mathematik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Technische Bildung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für ausländisches und internationales Sozialrecht', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für innovative Bildung', 'link': 'None', 'upper': 'None'}
+{'name': 'IN-EAST Institut für Ostasienwissenschaften', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Hochschuldidaktik', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für interdisziplinäre Forschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Chemische Energiekonversion', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Prävention und Arbeitsmedizin', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Informatik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Eisenforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Medizinische Biotechnologie', 'link': 'https://www.uni-due.de/zmb', 'upper': 'None'}
+{'name': 'Rheinisch-Westfälischen Institut für Wirtschaftsforschung Essen', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Kommunikationswissenschaft', 'link': 'https://www.uni-due.de/kowi', 'upper': 'None'}
+{'name': 'Zentrum für Gründungen', 'link': 'https://www.uni-due.de/guide/index.php', 'upper': 'None'}
+{'name': 'Institut für Sachunterricht', 'link': 'https://www.uni-due.de/isu', 'upper': 'None'}
+{'name': 'Institut für Mechanik', 'link': 'https://www.uni-due.de/mechanika/index.php', 'upper': 'None'}
+{'name': 'Zentrum für Hochschul- und Qualitätsentwicklung', 'link': 'http://www.uni-due.de/zfh', 'upper': 'None'}
+{'name': 'Institut für Geographie', 'link': 'https://www.uni-due.de/wigeo/', 'upper': 'None'}
+{'name': 'Institut für Metall- und Leichtbau', 'link': 'https://www.uni-due.de/iml', 'upper': 'None'}
+{'name': 'Zentrum für Hochschulqualitätsentwicklung', 'link': 'https://www.uni-due.de/zhqe', 'upper': 'None'}
+{'name': 'Institut für Produkt Engineering', 'link': 'https://www.uni-due.de/pep', 'upper': 'None'}
+{'name': 'Institut für Energie- und Umwelttechnik', 'link': 'https://www.forschungsbericht.uni-due.de/2009/institut-fuer-energie-und-umwelttechnik/', 'upper': 'None'}
+{'name': 'Institut für Turkistik', 'link': 'https://www.uni-due.de/turkistik', 'upper': 'None'}
+{'name': 'Institut für Romanische Sprachen', 'link': 'https://www.uni-due.de/romanistik', 'upper': 'None'}
+{'name': 'Institut für Germanistik', 'link': 'https://www.uni-due.de/germanistik/litdid/sekundarstufe.php', 'upper': 'None'}
+{'name': 'Institut für Soziale arbeit und Sozialpolitik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für deutsche Literatur', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für deutsche Sprache', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Arbeitsrecht', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Hochschulforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Kommunikationsforschung und Phonetik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Politische Wissenschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Schulpädagogik', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Lebenslanges Lernen', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Berufspädagogik', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Fremdsprachliche Philologien', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Gerontologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Makroökonomie und Konjunkturforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Anglophone Studien', 'link': 'https://www.uni-due.de/anglistik', 'upper': 'None'}
+{'name': 'Institut für Virologie', 'link': 'https://www.uni-due.de/virologie', 'upper': 'None'}
+{'name': 'Institut für Physiologie', 'link': 'https://www.uni-due.de/physiologie', 'upper': 'None'}
+{'name': 'Institut für Philosophie', 'link': 'https://www.uni-due.de/geisteswissenschaften/', 'upper': 'None'}
+{'name': 'Institut für niederrheinische Kulturgeschichte und Regionalentwicklung', 'link': 'https://www.uni-due.de/inkur/', 'upper': 'None'}
+{'name': 'Zentrum für Wasser- und Umweltforschung', 'link': 'https://www.uni-due.de/zwu', 'upper': 'None'}
+{'name': 'Institut für Schiffstechnik', 'link': 'https://www.uni-due.de/ISMT/index.shtml', 'upper': 'None'}
+{'name': 'Zentrum für Bildungsforschung', 'link': 'https://www.uni-due.de/izfb/', 'upper': 'None'}
+{'name': 'Institut für Sozioökonomie', 'link': 'https://www.uni-due.de/soziooekonomie', 'upper': 'None'}
+{'name': 'Institut für Erziehungswissenschaft', 'link': 'http://www.uni-due.de/biwi/paedagogik/', 'upper': 'None'}
+{'name': 'Institut für wissenschaftliche Schlüsselkompetenzen', 'link': 'https://www.uni-due.de/ios/', 'upper': 'None'}
+{'name': 'Institut für Psychologie', 'link': 'https://www.uni-due.de/biwi', 'upper': 'None'}
+{'name': 'Institut für Entwicklung und Frieden', 'link': 'https://www.uni-due.de/inef/index.php', 'upper': 'None'}
+{'name': 'Institut für Ostasienwissenschaften', 'link': 'https://www.uni-due.de/in-east/index.php?id=1&L=0', 'upper': 'None'}
+{'name': 'Institut für Soziale Arbeit', 'link': 'https://www.uni-due.de/biwi/isp', 'upper': 'None'}
+{'name': 'Institut für Soziologie', 'link': 'https://www.uni-due.de/soziologie', 'upper': 'None'}
+{'name': 'Institut für Handelsmanagement', 'link': 'None', 'upper': 'None'}
+{'name': 'Rheinisch-Westfälisches Institut für Wasserforschung gGmbH', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Experimentelle Mathematik', 'link': 'https://www.forschungsbericht.uni-due.de/2009/institut-fuer-experimentelle-mathematik/', 'upper': 'None'}
+{'name': 'Institut für interdisziplinäre Arbeitswissenschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Transfusionsmedizin', 'link': 'https://www.uni-due.de/med/meldung.php?id=925', 'upper': 'None'}
+{'name': 'Institut für Materialwissenschaft', 'link': 'https://www.uni-due.de/materials', 'upper': 'None'}
+{'name': 'Institut für Sozialforschung und Politikberatung', 'link': 'http://www.uni-due.de/risp/', 'upper': 'None'}
+{'name': 'Institut für soziale Arbeit', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Pathophysiologie', 'link': 'https://www.uni-due.de/pathophysio', 'upper': 'None'}
+{'name': 'Zentrum für Brennstoffzellentechnik', 'link': 'https://www.uni-due.de/apps/rss.php?id=83&db=zlv', 'upper': 'None'}
+{'name': 'Institut für Forensische Psychiatrie', 'link': 'https://www.uni-due.de/for-sex', 'upper': 'None'}
+{'name': 'Institut für Interne Revision', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Zellbiologie', 'link': 'https://www.uni-due.de/med/meldung.php?id=888', 'upper': 'None'}
+{'name': 'RWI-Leibniz Institut für Wirtschaftsforschung', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Medizinische Mikrobiologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Anatomie', 'link': 'https://www.uni-due.de/neuroanatomie/ag_duenker', 'upper': 'None'}
+{'name': 'Zentrum für Türkeistudien', 'link': 'https://www.forschungsbericht.uni-due.de/2019/zfti-zentrum-fuer-tuerkeistudien-und-integrationsforschung/', 'upper': 'None'}
+{'name': 'Institut für Betriebswirtschaft und Volkswirtschaft', 'link': 'https://www.wiwi.uni-due.de/organisation/institute/ibes/', 'upper': 'None'}
+{'name': 'Weierstrass-Institut für Angewandte Analysis und Stochastik', 'link': 'None', 'upper': 'None'}
+{'name': 'Zentrum für Luft- und Raumfahrt', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für Molekularbiologie', 'link': 'https://www.uni-due.de/institut-fuer-molekularbiologie', 'upper': 'None'}
+{'name': 'Institut für Künstliche Intelligenz', 'link': 'https://www.uni-due.de/med/meldung.php?id=779', 'upper': 'None'}
+{'name': 'Institut für Arbeit und Qualifikation', 'link': 'https://www.forschungsbericht.uni-due.de/2014/inhalt-2014/gesellschaftswissenschaften/institut-fuer-arbeit-und-qualifikation-iaq/', 'upper': 'None'}
+{'name': 'Institut für Länderkunde', 'link': 'None', 'upper': 'None'}
+{'name': 'Institut für deutsch-jüdische Geschichte', 'link': 'https://www.forschungsbericht.uni-due.de/2019/sti-salomon-ludwig-steinheim-institut-fuer-deutsch-juedische-geschichte/', 'upper': 'None'}
+{'name': 'Institut für Entwicklungspolitik', 'link': 'None', 'upper': 'None'}
+{'name': 'Mathematisches Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Essener Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Competition Economics', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Information', 'link': 'https://www.sitm.wiwi.uni-due.de/news/news/prof-ahlemann-appointed-to-the-advisory-board-of-the-institute-for-information-technology-at-volkswagen-12194/', 'upper': 'None'}
+{'name': 'Duisburger Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Robert Koch-Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Akademisches Beratungs- Zentrum', 'link': 'https://www.uni-due.de/abz/', 'upper': 'None'}
+{'name': 'Rheinisch-Westfälischen Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Security Studies', 'link': 'None', 'upper': 'None'}
+{'name': 'Mercator Institute for China Studies', 'link': 'None', 'upper': 'None'}
+{'name': 'Geographischen Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Abfahrt Essen-Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Deutsche Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Historische Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Bonner Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Computational', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Sociology', 'link': 'https://www.uni-due.de/soziologie/', 'upper': 'None'}
+{'name': 'European Institute for Gender Equality', 'link': 'None', 'upper': 'None'}
+{'name': 'Hamburger Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for European Politics', 'link': 'None', 'upper': 'None'}
+{'name': 'Schrodinger International Institute for Mathematical Physics', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for School', 'link': 'None', 'upper': 'None'}
+{'name': 'Schriftenreihe Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Bremer Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Comenius Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Europäisches Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Chemistry Education', 'link': 'http://www.uni-due.de/chemiedidaktik/09_personen_sekretariat_eng.php', 'upper': 'None'}
+{'name': 'Kunsthistorischen Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Duisburger Fraunhofer-Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Europäische Zentrum', 'link': 'https://www.uni-due.de/urbane-systeme/lebenslauf_klaus-krumme.php', 'upper': 'None'}
+{'name': 'Institute for Cultural', 'link': 'https://www.uni-due.de/imperia/md/content/geisteswissenschaften-praktikumsbuero/praktikumsangebote/cfa_for_internships.pdf', 'upper': 'None'}
+{'name': 'Institute for Employment Research', 'link': 'None', 'upper': 'None'}
+{'name': 'Physikalisch-Chemisches Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Rhein-Ruhr Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Rhine-Ruhr Institute for Social', 'link': 'None', 'upper': 'None'}
+{'name': 'Soziokulturelles Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Amsterdam Institute for Advanced Labour Studies', 'link': 'None', 'upper': 'None'}
+{'name': 'Horst Görtz Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Research Institute for Societal Development', 'link': 'None', 'upper': 'None'}
+{'name': 'Alfred Wegener Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Deutsch-Französisches Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Peter Grünberg Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Analytical Sciences', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Balkans Studies', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Integration', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Interdisciplinary Social Policy Research', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Lifelong Learning', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Social Policy', 'link': 'None', 'upper': 'None'}
+{'name': 'Isaac Newton Institute for Mathematical Sciences', 'link': 'None', 'upper': 'None'}
+{'name': 'Neues Institut', 'link': 'https://www.uni-due.de/med/meldung.php?id=983', 'upper': 'None'}
+{'name': 'Paluno Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Pädagogischen Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Religionspädagogisches Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Wissenschaftliches Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Alfred-Wegener Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Artificial Intelligence', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Human Genetics', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Socio-economics', 'link': 'https://www.uni-due.de/soziooekonomie/presseresonanz', 'upper': 'None'}
+{'name': 'Laser Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Psychologischen Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Frankfurt Institute for Transformation Studies', 'link': 'None', 'upper': 'None'}
+{'name': 'Georg Simmel-Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'German Institute for Adult Education', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Economies', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Pathophysiology', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Physiology', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Science', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Social Science Research', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Solid State', 'link': 'None', 'upper': 'None'}
+{'name': 'Internationalen Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Labour Institute for Economic Research', 'link': 'None', 'upper': 'None'}
+{'name': 'Namen Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Softwaretechnik Institut', 'link': 'https://paluno.uni-due.de/', 'upper': 'None'}
+{'name': 'Amsterdam Institute for Social Science Research', 'link': 'None', 'upper': 'None'}
+{'name': 'August Boekh Antike-Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Deutsch-Amerikanisches Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Richtung Essen Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Forschungskoordinator Öko-Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Applied International Studies', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Biological', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Industrial Production', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Mechanics', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Pathology', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Physical', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Positive Psychology', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Scientific Information', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for optional studies', 'link': 'https://www.uni-due.de/ios/', 'upper': 'None'}
+{'name': 'Karlsruhe Institut', 'link': 'https://www.uni-due.de/imperia/md/content/water-science/ss17/masterarbeitausschreibung_timm.pdf', 'upper': 'None'}
+{'name': 'Karolinska Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Medizinisches Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Swiss Federal Institute for Vocational Education', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Computing', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Educational', 'link': 'https://www.forschungsbericht.uni-due.de/en/meta-menu/archive/content-2016/content-2016/educational-sciences/institute-for-educational-science/', 'upper': 'None'}
+{'name': 'Institute for Production', 'link': 'http://www.pim.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Institute for Metal', 'link': 'None', 'upper': 'None'}
+{'name': 'Planck Institute for Molecular Physiology', 'link': 'None', 'upper': 'None'}
+{'name': 'Geographisches Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Hochschuldidaktisches Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Technik Zentrum', 'link': 'http://www.uni-due.de/cenide/netz.php', 'upper': 'None'}
+{'name': 'Essener Zentrum', 'link': 'https://www.forschungsbericht.uni-due.de/2014/inhalt-2014/medizin/forschungshighlights/essener-zentrum-fuer-seltene-erkrankungen-gegruendet/', 'upper': 'None'}
+{'name': 'Operatives Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Optional Studies', 'link': 'https://www.uni-due.de/ios/', 'upper': 'None'}
+{'name': 'Erstes Institut', 'link': 'https://www.forschungsbericht.uni-due.de/2016/inhalt-2016/medizin/forschungshighlights/erstes-institut-fuer-hiv-forschung-in-deutschland/', 'upper': 'None'}
+{'name': 'Weierstrass Institute for Applied Analysis', 'link': 'None', 'upper': 'None'}
+{'name': 'Goethe Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Business', 'link': 'None', 'upper': 'None'}
+{'name': 'Salomon-Ludwig-Steinheim Institut', 'link': 'https://www.uni-due.de/inkur/www.steinheim-institut.de', 'upper': 'None'}
+{'name': 'Institute for Mathematics', 'link': 'None', 'upper': 'None'}
+{'name': 'Mannheimer Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Rheinisch-Westfälische Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Gesellschaftswissenschaften Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Immunology', 'link': 'None', 'upper': 'None'}
+{'name': 'Didaktisches Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for optional Studies', 'link': 'http://www.uni-due.de/ios/', 'upper': 'None'}
+{'name': 'Feministisches Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Interdisziplinären Zentrum', 'link': 'https://www.uni-due.de/izfb/angebote', 'upper': 'None'}
+{'name': 'Institute for Peace', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Nanotechnology', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Transfusion Medicine', 'link': 'None', 'upper': 'None'}
+{'name': 'Ausfahrt Essen-Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Planck Institute for Human Development', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Product Engineering', 'link': 'https://www.uni-due.de/kkm/index-en.php', 'upper': 'None'}
+{'name': 'Kolloquium Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Berliner Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Germanistischen Institut', 'link': 'https://www.uni-due.de/imperia/md/content/perspicuitas/bein.pdf', 'upper': 'None'}
+{'name': 'Kunsthistorisches Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Sozialwissenschaftliche Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Max-Planck Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Richtung Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Geistliches Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Electronic Properties', 'link': 'None', 'upper': 'None'}
+{'name': 'Essener Rückenschmerz-Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Systems', 'link': 'None', 'upper': 'None'}
+{'name': 'Internationales Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Japan Institute for Labour Policy', 'link': 'None', 'upper': 'None'}
+{'name': 'Düsseldorf Institute for Competition', 'link': 'None', 'upper': 'None'}
+{'name': 'Frechener Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Germanistisches Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Helex Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Ludwig Steinheim Institute for German-Jewish History', 'link': 'https://www.forschungsbericht.uni-due.de/en/content-2019/salomon-ludwig-steinheim-institute-for-german-jewish-history/', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Psychology', 'link': 'https://www.forschungsbericht.uni-due.de/en/2010/educational-sciences/institute-for-psychology/', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'German Institute for Japanese Studies', 'link': 'None', 'upper': 'Institut für Philosophie'}
+{'name': 'National Institute for Oriental Languages', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Förderkreis Zentrum', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Kodirektor Konfuzius-Institut', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Federal Institute for Adult Education', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Turkish Studies', 'link': 'https://www.uni-due.de/turkistik/index_en.php', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Water Research', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Berliner Zentrum', 'link': 'https://www.uni-due.de/inzentim/2020-04-07-bim', 'upper': 'Institut für Philosophie'}
+{'name': 'Chinesischen Zentrum', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Coimbra Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Microelectronic', 'link': 'None', 'upper': 'Fakultät für Ingenieurwissenschaften'}
+{'name': 'Korea Institute for National Unification', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Westdeutsches Zentrum', 'link': 'https://www.forschungsbericht.uni-due.de/2014/inhalt-2014/medizin/forschungshighlights/westdeutsches-zentrum-fuer-infektiologie-geht-an-den-start/', 'upper': 'Fakultät für Biologie'}
+{'name': 'Regionales SchuMaS-Zentrum', 'link': 'https://www.uni-due.de/izfb/schumas/schumas-rz', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Rheinisches Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'BangNi Institute for Sino-German Interchange', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for Civil', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for Translational', 'link': 'https://www.uni-due.de/hiv/index_eng', 'upper': 'Institut für Psychologie'}
+{'name': 'Sino-German Virtual Institute for Viral', 'link': 'https://www.uni-due.de/sgvivi', 'upper': 'Fakultät für Biologie'}
+{'name': 'Institute for Economic Research', 'link': 'None', 'upper': 'Fakultät für Betriebswirtschaftslehre'}
+{'name': 'Institute for Socioeconomics', 'link': 'https://www.uni-due.de/imperia/md/content/soziooekonomie/institut_fuer_soziooekonomie_bericht_2019.pdf#page=20', 'upper': 'Institut für Psychologie'}
+{'name': 'Germanistisches Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Pädagogisches Institut', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Indian Institute for Technology Madras', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'CINCH Institut', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Freeman Spogli Institute for International Studies', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Waterloo Institute for Social Innovation', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for Software Engineering', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Mülheimer Max-Planck-Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Central Institute for Economic Management', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Deutsches Diabetes-Zentrum', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Essener Softwaretechnik-Institut', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institute for Creative Technologies', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Population Research', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for Future Strategy', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for Global', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for Soziologie', 'link': 'https://www.forschungsbericht.uni-due.de/en/content-2018/content-2018/faculty-of-social-sciences/institute-for-soziologie-ifs/', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institute for Political Science', 'link': 'https://www.uni-due.de/politik/', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for European Studies', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for Communication Studies', 'link': 'https://www.uni-due.de/kowi/', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Viral Immunology', 'link': 'https://www.uni-due.de/sgvivi', 'upper': 'Fakultät für Biologie'}
+{'name': 'Federal Institute for Materials Research', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Pedagogy', 'link': 'https://www.forschungsbericht.uni-due.de/en/2010/educational-sciences/institute-for-pedagogy/', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Asian', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for Philosophy', 'link': 'https://www.uni-due.de/philosophie/', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Akademische Zentrum', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Qualifizierung und Lernmedien', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Strahlenschutz', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Zentrum für Software-Technologie', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Bauphysik', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Biochemie', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Freiburger Öko-Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Willibald Gebhardt Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'INRIA Institut', 'link': 'https://www.syssec.wiwi.uni-due.de/aktuelles/einzelansicht/vortrag-zu-tees-am-inria-institut-in-rennes-frankreich-20734/', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institute for Ecological Economy Research', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institute for Environment', 'link': 'https://www.uni-due.de/2023-04-18-iuta-umbenennung', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Ergonomics', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Future Studies', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institute for Mechatronics', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for Primary', 'link': 'https://www.uni-due.de/isu/', 'upper': 'Institut für Psychologie'}
+{'name': 'Pädagogischen Institut', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Vortrag Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Buddhistisches Zentrum', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Building', 'link': 'http://www.uni-due.de/baubetrieb/index.php', 'upper': 'Fakultät für Medizin'}
+{'name': 'Institute for Catalysis', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'National Institute for Digital Learning', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institute for Hydraulic Engineering', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Interreligious Learning', 'link': 'https://www.uni-due.de/EvangelischeTheologie/AIL_English00start.shtml', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Management', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Kennedy-Institute for North American Studies', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Positive Computing der Hochschule', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institute for Studies', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for Turkistik', 'link': 'https://www.uni-due.de/turkistik/index_en.php', 'upper': 'Institut für Psychologie'}
+{'name': 'regionale SchuMaS-Zentrum', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Düsseldorfer Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Federal Institute for Population', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Dieses Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Donders Institute for Brain', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Finnischen Umwelt-Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'German Institute for Standardization', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Wuppertal Institute for Climate', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Lower Rhine Cultural History', 'link': 'https://www.uni-due.de/inkur/', 'upper': 'Institut für Psychologie'}
+{'name': 'National Institute for Medical', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Physikalisches Institut', 'link': 'None', 'upper': 'Fakultät für Chemie'}
+{'name': 'Rheinhausener Institut', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Vorstandssprecher Institut', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Westdeutschen Kopfschmerz-Zentrum', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Fraunhofer InHaus-Zentrum', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institute for Urban Public Health', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institute for Physics Education', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Massivbau', 'link': 'https://www.uni-due.de/massivbau', 'upper': 'Fakultät für Medizin'}
+{'name': 'Zentrum für Logistik & Verkehr', 'link': 'https://www.uni-due.de/zlv/portrait', 'upper': 'Fakultät für Geisteswissenschaften'}
+{'name': 'Institut für Kohlenforschung', 'link': 'None', 'upper': 'Fakultät für Chemie'}
+{'name': 'Frauenhofer Institut für Betriebsfestigkeit und Systemzuverlässigkeit', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Energie- und Materialprozesse', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Wirtschaftsinformatik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Sprachförderung', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Auslandsbeziehungen', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Katholische Theologie', 'link': 'https://www.uni-due.de/katheol/', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Feuerwehr- und Rettungstechnologie', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Geschichte', 'link': 'https://www.uni-due.de/inkur/links_forschung.php?TYP=&EINRICHTUNG=AMIGDJ', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Zentrum für Integrationsforschung', 'link': 'https://www.forschungsbericht.uni-due.de/2019/inzentim-interdisziplinaeres-zentrum-fuer-integrationsforschung/', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Parallele und Verteilte Systeme', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Seeverkehrswirtschaft und Logistik', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Zentrum für Nachhaltige Unternehmensführung', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Handelsforschung', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Virtuelle Realitäten', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Wissensmedien', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Verkehrsplanung und Transportsysteme', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Potsdam-Institut für Klimafolgenforschung', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für translationale HIV-Forschung', 'link': 'https://www.uni-due.de/hiv', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Metallurgie und Umformtechnik', 'link': 'https://www.uni-due.de/imu/', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Analytische Wissenschaften', 'link': 'None', 'upper': 'Fakultät für Biologie'}
+{'name': 'Schweizerisches Institut für Interne Revision', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Zentrum für Geisteswissenschaften', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Automation und Robotik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Hochfrequenztechnik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Medizinische Strahlenbiologie', 'link': 'http://www.uni-due.de/radiation-biology', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Zentrum für Umweltforschung', 'link': 'https://www.uni-due.de/imperia/md/content/water-science/WS1415/375_ausschreibung.pdf', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Akademischen Zentrum für Studium', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Asien-Studien', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Nachrichtentechnik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Qualität und Wirtschaftlichkeit', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Strömungsmechanik', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Verbrennund und Gasdynamik', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Zentrum für Informations- und Medientechnologie', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Zentrum für Medien', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Chemie', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Energiewirtschaft und Energiesystemtechnik', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Ergonomie und Designforschung', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Finanzen', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Fluiddynamik', 'link': 'None', 'upper': 'Fakultät für Chemie'}
+{'name': 'Institut für Integrations- und Migrationsforschung', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Migrationsforschung', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Orient- und Asienwissenschaften', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Schulentwicklungsforschung', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Sozialforschung und Politikwissenschaft', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Technologie und Biosystemtechnik', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Theoretische Elektrotechnik', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Zentrum für Brennstoffzellenforschung', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Zentrum für Informations- und Mediensysteme', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Zentrum für Lehrerausbildung', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Zentrum für Nanowissenschaften', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Zentrum für Qualitätssicherung und -entwicklung', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Zentrum für wissenschaftliche Weiterbildung', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Österreichisches Institut für Wirtschaftsforschung', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'CISPA Helmholtz-Zentrum für Informationssicherheit', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Molekulare Genetik', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Schiffs- und Meerestechnik', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Strahlenbiologie', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Umweltanalytik', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Wissenschaft', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Max-Planck-Institut für biologische Kybernetik', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Zentrum für Informationsdienste', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Duisburger Zentrum für BrennstoffzellenTechnik', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Fraunhofer-Institut für Experimentelles Software Engineering', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Abfallwirtschaft und Abfalltechnik', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Denkmalschutz und Denkmalpflege Essen', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Qualitätsentwicklung', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Technische Chemie', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Zentrum für Fernstudien', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Zentrum für Informationsverarbeitung', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Forschung', 'link': 'None', 'upper': 'Institut für Psychologie'}
+{'name': 'Institut für Systemforschung', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Baubetrieb', 'link': 'https://www.uni-due.de/baubetrieb', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Stadtplanung', 'link': 'None', 'upper': 'Fakultät für Geisteswissenschaften'}
+{'name': 'Deutschen Institut für Erwachsenenbildung Leibniz-Zentrum für Lebenslanges Lernen', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Zentrum für LehrerInnenbildung', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Zentrum für Migrations- und Integrationsforschung', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institute for Software Technology', 'link': 'https://paluno.uni-due.de', 'upper': 'Fakultät für Betriebswirtschaftslehre'}
+{'name': 'Akademische Beratungs-Zentrum', 'link': 'https://www.uni-due.de/metazentrum/abz.php', 'upper': 'Fakultät für Chemie'}
+{'name': 'Institute for Magnetic Resonance Imaging', 'link': 'https://www.forschungsbericht.uni-due.de/en/meta-menu/archive/content-2009/erwin-l-hahn-institute-for-magnetic-resonance-imaging/', 'upper': 'Fakultät für Biologie'}
+{'name': 'Institute for Health', 'link': 'https://www.mm.wiwi.uni-due.de/en/', 'upper': 'None'}
+{'name': 'Institut für Politikwissenschaft', 'link': 'https://www.uni-due.de/politik', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Hygiene und Arbeitsmedizin', 'link': 'None', 'upper': 'Fakultät für Chemie'}
+{'name': 'Institut für Sichere Informationstechnologie', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Evangelische Theologie', 'link': 'https://www.uni-due.de/EvangelischeTheologie/index.php', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für medizinische Strahlenbiologie', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Zentrum für Telekommunikations- und Medienwirtschaft', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Mikroelektronische Schaltungen und Systeme', 'link': 'None', 'upper': 'Fakultät für Chemie'}
+{'name': 'Institut für Land- und Seeverkehr', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Zentrum für Infektiologie', 'link': 'https://www.forschungsbericht.uni-due.de/2014/inhalt-2014/medizin/forschungshighlights/westdeutsches-zentrum-fuer-infektiologie-geht-an-den-start/', 'upper': 'Fakultät für Biologie'}
+{'name': 'Institut für Magnetresonanz', 'link': 'https://www.forschungsbericht.uni-due.de/2009/erwin-l-hahn-institut-fuer-magnetresonanz/', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Deutschen Institut für Japanstudien Tokyo', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Volkswirtschaftslehre', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Zentrum für Mikroskalige Umweltsysteme', 'link': 'https://www.forschungsbericht.uni-due.de/2007/urbane-systeme/zentrum-fuer-mikroskalige-umweltsysteme/', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Zentrum für Halbleitertechnik und Optoelektronik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Friedensforschung und Sicherheitspolitik', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Digitalisierung', 'link': 'https://www.uni-due.de/digibau', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Software-Technologie', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Zentrum für Klinische Epidemiologie', 'link': 'None', 'upper': 'Fakultät für Biologie'}
+{'name': 'Institut für Feldtheorie und Höchstfrequenztechnik', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Organisationsökonomik', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Institut für Ostasienstudien', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Physik', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Umwelt & Energie', 'link': 'https://www.uni-due.de/2023-04-18-iuta-umbenennung', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Verkehrssystemplanung und Verkehrstelematik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Zentrum für gesellschaftliches Lernen', 'link': 'https://www.uniaktiv.uni-due.de/', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Wasserbau und Wasserwirtschaft', 'link': 'https://www.uni-due.de/wasserbau', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Zentrum für Lehrkräftebildung', 'link': 'https://www.uni-due.de/erstsemester/mdm_zlb.php#zlb', 'upper': 'Fakultät für Geisteswissenschaften'}
+{'name': 'Historischen Institut', 'link': 'https://www.uni-due.de/de/presse/meldung.php?id=2507', 'upper': 'None'}
+{'name': 'Bridge Institute for Experimental Tumor Therapy', 'link': 'https://www.uni-due.de/zmb/members/jens-siveke.php', 'upper': 'None'}
+{'name': 'Institute for Combustion', 'link': 'https://www.uni-due.de/ivg/vg', 'upper': 'None'}
+{'name': 'Institute for Virology', 'link': 'http://www.uni-due.de/virologie', 'upper': 'None'}
+{'name': 'Karlsruher Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Virtuelles Institut', 'link': 'https://www.uni-due.de/aac/semconf.php', 'upper': 'None'}
+{'name': 'Akademischen Beratungs-Zentrum', 'link': 'https://www.uni-due.de/abz/kontakt.php#studienberatung', 'upper': 'None'}
+{'name': 'Deutsches Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Rheinisch-Westfälisches Institut', 'link': 'https://www.forschungsbericht.uni-due.de/2011/inhalt-2011/iww-rheinisch-westfaelisches-institut-fuer-wasserforschung/', 'upper': 'None'}
+{'name': 'Freiburg Institute for Advanced Studies', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Energy', 'link': 'https://www.uni-due.de/empi/', 'upper': 'None'}
+{'name': 'Institute for Technologies', 'link': 'https://www.uni-due.de/mfi', 'upper': 'None'}
+{'name': 'Konfuzius Institut', 'link': 'https://www.uni-due.de/konfuzius-institut/', 'upper': 'None'}
+{'name': 'Planck Institute for Chemical Energy Conversion', 'link': 'None', 'upper': 'None'}
+{'name': 'Fraunhofer Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Operativen Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Salomon Ludwig Steinheim-Institut', 'link': 'https://www.forschungsbericht.uni-due.de/2019/sti-salomon-ludwig-steinheim-institut-fuer-deutsch-juedische-geschichte/', 'upper': 'None'}
+{'name': 'Federal Institute for Vocational Education', 'link': 'None', 'upper': 'None'}
+{'name': 'Deutschen Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Wuppertal Institut', 'link': 'https://www.hemf-talks.wiwi.uni-due.de/fileadmin/fileupload/PROJEKT-HEMF-TALKS/Bilder/200825_presentation_Fischedick-INREC_2020_only_poicies_v2.pdf', 'upper': 'None'}
+{'name': 'Berlin Institute for Medical Systems Biology', 'link': 'None', 'upper': 'None'}
+{'name': 'International Institute for Labour Studies', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Socio-Economics', 'link': 'https://www.forschungsbericht.uni-due.de/en/content-2018/content-2018/faculty-of-social-sciences/institute-for-socio-economics-ifso/', 'upper': 'None'}
+{'name': 'Interdisziplinäre Zentrum', 'link': 'https://www.uni-due.de/izfb/', 'upper': 'None'}
+{'name': 'American Institute for Contemporary German Studies', 'link': 'None', 'upper': 'None'}
+{'name': 'Deutsche Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Royal Institute for International Relations', 'link': 'None', 'upper': 'None'}
+{'name': 'Kulturwissenschaftliche Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Helmholtz Zentrum', 'link': 'None', 'upper': 'None'}
+{'name': 'Institute for Research', 'link': 'https://inef.uni-due.de/', 'upper': 'None'}
+{'name': 'Sozialwissenschaftliches Institut', 'link': 'None', 'upper': 'None'}
+{'name': 'Deutsches Institut', 'link': 'https://www.uni-due.de/iaq/difis.php', 'upper': 'None'}
+{'name': 'Akademisches Beratungs-Zentrum', 'link': 'https://www.uni-due.de/abz', 'upper': 'None'}
+{'name': 'Institute for Development', 'link': 'https://www.uni-due.de/inef/', 'upper': 'None'}
+{'name': 'Historisches Institut', 'link': 'https://www.uni-due.de/geschichte', 'upper': 'None'}
+{'name': 'Kulturwissenschaftliches Institut', 'link': 'https://www.forschungsbericht.uni-due.de/2019/kwi-kulturwissenschaftliches-institut-essen/', 'upper': 'None'}
+{'name': 'Swedish Institute for European Policy Studies', 'link': 'None', 'upper': 'None'}
+{'name': 'Deutsche Zentrum für Lehrerbildung Mathematik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Verbrennung und Gasdynamik', 'link': 'https://www.uni-due.de/ivg', 'upper': 'Fakultät für Chemie'}
+{'name': 'Zentrum für Integrations- und Migrationsforschung', 'link': 'https://www.uni-due.de/inzentim', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für Technologien der Metalle', 'link': 'https://www.uni-due.de/itm', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Institut für wissenschaftliche Schlüsselqualifikationen', 'link': 'https://www.uniaktiv.uni-due.de/', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Institut für Energie- und Material-Prozesse', 'link': 'https://www.uni-due.de/empi', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Zentrum für Informations- und Mediendienste', 'link': 'https://www.uni-due.de/zim/', 'upper': 'None'}
+{'name': 'Institut für Informatik', 'link': 'https://www.icb.wiwi.uni-due.de', 'upper': 'None'}

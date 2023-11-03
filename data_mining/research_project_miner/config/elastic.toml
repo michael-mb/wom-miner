@@ -1,0 +1,8 @@
+instance = "https://localhost:9200"
+username = "elastic"
+password = "elastic"
+disable_security = true
+index_name = "crawl-rawdata-ude"
+batch_size = 100
+pre_index = "pre_index"
+research_project_index="research_project_ude"

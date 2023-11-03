@@ -1,0 +1,527 @@
+[
+    {
+        "name": "Prof. Dr. Barbara Albert",
+        "funktion": "Rektorin - Rektorat",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "0203 37 91870",
+        "email": "rektorin@uni-due.de",
+        "web": "https://www.uni-due.de/de/rektorat/",
+        "dienstzimmer": "LG 501 LG"
+    },
+    {
+        "name": "Jennifer Albuschat",
+        "funktion": "Sekretärin der Rektorin - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 1870",
+        "email": "office.rektorin@uni-due.de",
+        "web": "https://www.uni-due.de/de/hochschulmanagement/",
+        "dienstzimmer": "LG 502 LG"
+    },
+    {
+        "name": "Cathrin Becker",
+        "funktion": "Redakteur/-in im - Ressort Presse",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 1488",
+        "fax": "+49 203 379 2428",
+        "email": "cathrin.becker@uni-due.de",
+        "web": "https://www.uni-due.de/de/presse/",
+        "dienstzimmer": "LG 121 LG"
+    },
+    {
+        "name": "Mark Becker",
+        "funktion": "Lehrbeauftragte/r - Institut für Soziale Arbeit und Sozialpolitik - nicht mehr Uni Essen",
+        "dienstadresse": "Berliner Platz 6-8, 45127 Essen",
+        "email": "mark.becker@uni-due.de"
+    },
+    {
+        "name": "Astrid Bergmeister",
+        "funktion": "Leiterin - Ressort Presse",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 2430",
+        "email": "astrid.bergmeister@uni-due.de",
+        "web": "https://www.uni-due.de/de/presse/",
+        "dienstzimmer": "LG 120 LG"
+    },
+    {
+        "name": "Bianca Binzer M.A.",
+        "funktion": "Veranstaltungskoordinator/in - Ressort Veranstaltungen",
+        "dienstadresse": "Universitätsstr. 2, 45141 Essen",
+        "telefon": "+49 201 183 4962",
+        "email": "bianca.binzer@uni-due.de",
+        "web": "http://www.uni-due.de/de/event",
+        "dienstzimmer": "T03 R02 D08 T03R"
+    },
+    {
+        "name": "Ulrike Bohnsack",
+        "funktion": "Redakteur/-in im - Ressort Presse",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49203 379 2429",
+        "fax": "+49 203 379 2428",
+        "email": "ulrike.bohnsack@uni-due.de",
+        "web": "http://www.uni-due.de/de/presse/bohnsack.php",
+        "dienstzimmer": "LG 118 LG"
+    },
+    {
+        "name": "Skarlett Brune-Wawer",
+        "funktion": "Leiterin der - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 3165",
+        "fax": "+49 203 379 3500",
+        "email": "s.brune-wawer@uni-due.de",
+        "web": "https://www.uni-due.de/de/rektorat/stabsstelle.php",
+        "dienstzimmer": "LG 508 LG"
+    },
+    {
+        "name": "Pascal Collé",
+        "funktion": "Mitarbeiter/in - Ressort Marketing",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 1068",
+        "email": "pascal.colle@uni-due.de"
+    },
+    {
+        "name": "Dr. Mayannah Dahlheim",
+        "funktion": "Referentin des Prorektorats für Universitätskultur, Diversität und Internationales - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "sprechzeit": "n. V.",
+        "dienstadresse": "Universitätsstr. 2, 45141 Essen",
+        "telefon": "+49 201 183 6702",
+        "email": "mayannah.dahlheim@uni-due.de",
+        "web": "https://www.uni-due.de/de/hochschulmanagement/",
+        "dienstzimmer": "T01 S06 B28 T01S"
+    },
+    {
+        "name": "M.A. Rilana Decker",
+        "funktion": "Projektkoordinator/in UDE-Stipendien - Ressort Marketing",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 1887",
+        "fax": "+49 203 379 1559",
+        "email": "Rilana.Decker@uni-due.de",
+        "web": "https://www.uni-due.de/de/marketing",
+        "dienstzimmer": "LG 407 LG"
+    },
+    {
+        "name": "Dipl. Kffr. Christa Dinse",
+        "funktion": "Leiterin des Ressorts - Ressort Veranstaltungen",
+        "dienstadresse": "Universitätsstr 2, 45117 Essen",
+        "telefon": "+49 201 183 4534",
+        "fax": "+49 201 183 2626",
+        "email": "christa.dinse@uni-due.de",
+        "dienstzimmer": "T03 R02 D14 T03R"
+    },
+    {
+        "name": "Alexander Dorsch",
+        "funktion": "Mitarbeiter/in - Ressort Marketing",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 2469",
+        "email": "alexander.dorsch@uni-due.de",
+        "dienstzimmer": "LG 408 LG"
+    },
+    {
+        "name": "M. A. Ulrike Eichweber",
+        "funktion": "Webredakteur/in - Ressort Presse",
+        "sprechzeit": "Mo., Di. und Do. 9.00-15.00 Uhr, Mi. 9.00-16.30 Uhr",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 2461",
+        "email": "webredaktion@uni-due.de",
+        "web": "https://www.uni-due.de/de/presse/eichweber.php",
+        "dienstzimmer": "LG 122 LG"
+    },
+    {
+        "name": "Anne-Kristin Essers, B.A.",
+        "funktion": "Sachbearbeiter/in - Ressort Marketing",
+        "dienstadresse": "Forsthausweg 2, 47048 Duisburg",
+        "telefon": "+49 203 379 1802",
+        "fax": "+49 203 379 3500",
+        "email": "Anne-Kristin.Essers@uni-due.de",
+        "web": "https://www.uni-due.de/de/marketing/team.php",
+        "dienstzimmer": "LG 407 LG"
+    },
+    {
+        "name": "Dr. Mark Halawa-Sarholz",
+        "funktion": "Referentin des Prorektorats für Forschung und wissenschaftlichen Nachwuchs - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Goethestraße 31, 45128 Essen",
+        "telefon": "+49(0)201/183-8224",
+        "email": "mark.halawa-sarholz@kwi-nrw.de",
+        "web": "https://www.uaruhr.de/researchallianceruhr/collegeforsocialsciencesandhumanities.html.de"
+    },
+    {
+        "name": "Dr. Ute Haußmann",
+        "funktion": "Referentin der Rektorin - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Universitätsstraße 2, 45141 Essen",
+        "telefon": "+49 201 183 6906",
+        "fax": "+49 201 183 3536",
+        "email": "ute.haussmann@uni-due.de",
+        "web": "https://www.uni-due.de/de/hochschulmanagement/",
+        "dienstzimmer": "T01 S06 B23 T01S"
+    },
+    {
+        "name": "Susanne Hinsenkamp",
+        "funktion": "Sachbearbeiter/in - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "sprechzeit": "Montag bis Donnerstag vormittags",
+        "dienstadresse": "Forsthausweg 2, LG 409, 47057 Duisburg",
+        "telefon": "+49 203 379 2169",
+        "email": "susanne.hinsenkamp@uni-due.de",
+        "web": "https://www.uni-due.de/de/rektorat/stabsstelle.php"
+    },
+    {
+        "name": "M.A. Özlem Ipiv",
+        "funktion": "Lehrbeauftragte/r - Institut für Soziale Arbeit und Sozialpolitik - beendet",
+        "sprechzeit": "nach Vereinbarung",
+        "email": "oezlem.ipiv@uni-due.de"
+    },
+    {
+        "name": "Markus Jacobi",
+        "funktion": "Sekretär des Prorektorats für Studium, Lehre und Bildung - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation\n\nSekretär des Prorektorats für Transfer, Innovation und Digitalisierung - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Universitätsstraße 2, 45141 Essen",
+        "telefon": "0201-18-33800",
+        "fax": "0201-18-32150",
+        "email": "markus.jacobi@uni-due.de",
+        "web": "https://www.uni-due.de/de/hochschulmanagement/",
+        "dienstzimmer": "T01 S06 B43 T01S"
+    },
+    {
+        "name": "Dr. Olivia Jazwinski",
+        "funktion": "Leiterin - Ressort Marketing",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 4747",
+        "fax": "+49 203 379 3737",
+        "email": "olivia.jazwinski@uni-due.de",
+        "dienstzimmer": "LG 414 LG"
+    },
+    {
+        "name": "M.A. Maike Klothen",
+        "dienstadresse": "Universitätsstraße 2, 45141 Essen",
+        "telefon": "+49 (0)201 183 6702",
+        "email": "maike.klothen@uni-due.de"
+    },
+    {
+        "name": "Dr. Birgit Kunde",
+        "funktion": "Ombudsfrau für Studierende, Ansprechpartnerin bei Diskriminierung - Akademisches Beratungs-Zentrum Studium und Beruf",
+        "dienstadresse": "Geibelstraße, 47057 Duisburg",
+        "telefon": "0203-379 3801, 0201-183 2116, Mobil: 01729041367",
+        "fax": "+49 203 379 3660",
+        "email": "birgit.kunde@uni-due.de",
+        "web": "https://www.uni-due.de/de/studium/ombudsstelle/",
+        "dienstzimmer": "SG 092 SG"
+    },
+    {
+        "name": "Dipl. Soz.-Päd. Christeane Ladwig",
+        "funktion": "Mitarbeiter/-in im - Ressort Veranstaltungen",
+        "dienstadresse": "Geibelstr. 41, 47057 Duisburg",
+        "telefon": "+49 0203 379 5090",
+        "email": "christeane.ladwig@uni-due.de",
+        "dienstzimmer": "SG 088 SG"
+    },
+    {
+        "name": "Prof. Dr. Pedro José Marrón",
+        "funktion": "Universitätsprofessor/in - Networked Embedded Systems / Pervasive Computing\n\nGruppe der Hochschullehrerinnen und Hochschullehrer - Promotionsausschuss\n\nProrektor - Rektorat",
+        "dienstadresse": "Schützenbahn 70, 45127 Essen",
+        "telefon": "+49 201 18 34170 / 34260",
+        "fax": "+49 201 18 34176",
+        "email": "pjmarron@uni-due.de",
+        "web": "http://www.nes.uni-due.de/home/",
+        "dienstzimmer": "SA 123 S - A"
+    },
+    {
+        "name": "Dr. Katrin Matiss",
+        "funktion": "Referentin des Prorektorats für Forschung und wissenschaftlichen Nachwuchs - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Universitätsstr. 2, 45141 Essen",
+        "telefon": "0201/ 183-6651",
+        "email": "katrin.matiss@uni-due.de",
+        "web{"name": "Dr. Olivia Jazwinski",
+        "funktion": "Leiterin - Ressort Marketing",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 4747",
+        "fax": "+49 203 379 3737",
+        "email": "olivia.jazwinski@uni-due.de",
+        "dienstzimmer": "LG 414 LG"
+    },
+    {
+        "name": "M.A. Maike Klothen",
+        "dienstadresse": "Universitätsstraße 2, 45141 Essen",
+        "telefon": "+49 (0)201 183 6702",
+        "email": "maike.klothen@uni-due.de"
+    },
+    {
+        "name": "Dr. Birgit Kunde",
+        "funktion": "Ombudsfrau für Studierende, Ansprechpartnerin bei Diskriminierung - Akademisches Beratungs-Zentrum Studium und Beruf",
+        "dienstadresse": "Geibelstraße, 47057 Duisburg",
+        "telefon": "0203-379 3801, 0201-183 2116, Mobil: 01729041367",
+        "fax": "+49 203 379 3660",
+        "email": "birgit.kunde@uni-due.de",
+        "web": "https://www.uni-due.de/de/studium/ombudsstelle/",
+        "dienstzimmer": "SG 092 SG"
+    },
+    {
+        "name": "Dipl. Soz.-Päd. Christeane Ladwig",
+        "funktion": "Mitarbeiter/-in im - Ressort Veranstaltungen",
+        "dienstadresse": "Geibelstr. 41, 47057 Duisburg",
+        "telefon": "+49 0203 379 5090",
+        "email": "christeane.ladwig@uni-due.de",
+        "dienstzimmer": "SG 088 SG"
+    },
+    {
+        "name": "Prof. Dr. Pedro José Marrón",
+        "funktion": "Universitätsprofessor/in - Networked Embedded Systems / Pervasive Computing\n\nGruppe der Hochschullehrerinnen und Hochschullehrer - Promotionsausschuss\n\nProrektor - Rektorat",
+        "dienstadresse": "Schützenbahn 70, 45127 Essen",
+        "telefon": "+49 201 18 34170 / 34260",
+        "fax": "+49 201 18 34176",
+        "email": "pjmarron@uni-due.de",
+        "web": "http://www.nes.uni-due.de/home/",
+        "dienstzimmer": "SA 123 S - A"
+    },
+    {
+        "name": "Dr. Katrin Matiss",
+        "funktion": "Referentin des Prorektorats für Forschung und wissenschaftlichen Nachwuchs - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Universitätsstr. 2, 45141 Essen",
+        "telefon": "0201/ 183-6651",
+        "email": "katrin.matiss@uni-due.de",
+    },
+    {
+        "name": "Jennifer Meina",
+        "funktion": "Redakteur/-in im - Ressort Presse",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 37 91205",
+        "email": "jennifer.meina@uni-due.de",
+        "web": "https://www.uni-due.de/de/presse/",
+        "dienstzimmer": "LG 124 LG"
+    },
+    {
+        "name": "Irene Metzen",
+        "funktion": "Sekretärin der Rektorin - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Universitätsstr. 2, 45141 Essen",
+        "telefon": "+49 201 183 2069",
+        "fax": "+49 201 183 3536",
+        "email": "office.rektorin@uni-due.de",
+        "web": "https://www.uni-due.de/de/hochschulmanagement/",
+        "dienstzimmer": "T01 R06 C02 T03R"
+    },
+    {
+        "name": "M.Sc. Mirco Michel",
+        "funktion": "Webredakteur/in - Ressort Presse\n\nReferent für Marketing - Ressort Marketing",
+        "sprechzeit": "nach Vereinbarung",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "email": "mirco.michel@uni-due.de"
+    },
+    {
+        "name": "Manuela Münch",
+        "funktion": "Sachbearbeiter/-in im - Ressort Presse",
+        "sprechzeit": "vormittags",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203/37-91482",
+        "fax": "+49 203/37-92428",
+        "email": "manuela.muench@uni-due.de",
+        "web": "https://www.uni-due.de/de/presse/muench.php",
+        "dienstzimmer": "LG 116 LG"
+    },
+    {
+        "name": "Dr. Alexandra Nießen",
+        "funktion": "Sachbearbeiter/in - Ressort Presse",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "(0203) 379-1487",
+        "fax": "(0203) 379-2428",
+        "email": "alexandra.niessen@uni-due.de",
+        "web": "https://www.uni-due.de/de/presse/niessen.php",
+        "dienstzimmer": "LG 016 LG"
+    },
+    {
+        "name": "Francine Poschmann",
+        "funktion": "Mitarbeiter/in - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Universitätsstraße 2, 45141 Essen",
+        "telefon": "+49 201 183 3529",
+        "fax": "+49 201 183 2150",
+        "email": "francine.poschmann@uni-due.de",
+        "dienstzimmer": "T01 S06 B28   T01S"
+    },
+    {
+        "name": "Dr. Friederike Preiß",
+        "funktion": "Projektkoordinatorin Marketing & Fundraising - Ressort Marketing",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 (0)203 379 1569",
+        "fax": "+49 (0)203 379 3500",
+        "email": "friederike.preiss@uni-due.de",
+        "dienstzimmer": "LG 408 LG"
+    },
+    {
+        "name": "Prof. Dr. rer. nat. Ulrich Radtke",
+        "funktion": "Beratendes Mitglied - Senat"
+    },
+    {
+        "name": "Susanne Rauschen",
+        "funktion": "Mitarbeiter/-in im - Ressort Veranstaltungen",
+        "dienstadresse": "Universitätsstr. 2, 45141 Essen",
+        "telefon": "+49 201 183 2066",
+        "fax": "+49 201 183 2626",
+        "email": "susanne.rauschen@uni-due.de",
+        "dienstzimmer": "T03 R02 D15 T03R"
+    },
+    {
+        "name": "Martina Rendel",
+        "funktion": "Referentin des Prorektorats für Transfer, Innovation und Digitalisierung - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Universitätsstraße 2, 45141 Essen",
+        "telefon": "0201-18-33740",
+        "fax": "0201-18-32150",
+        "email": "martina.rendel@uni-due.de",
+        "web": "https://www.uni-due.de/de/hochschulmanagement/",
+        "dienstzimmer": "T01 S06 B25 T01S"
+    },
+    {
+        "name": "M.A. Arne Rensing",
+        "funktion": "Webredakteur/-in im - Ressort Presse",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 1481",
+        "email": "arne.rensing@uni-due.de",
+        "web": "http://www.uni-duisburg-essen.de/de/presse/rensing.php",
+        "dienstzimmer": "LG 117 LG"
+    },
+    {
+        "name": "Prof. Dr. rer. nat. Stefan Rumann",
+        "funktion": "Universitätsprofessor/in - Didaktik der Chemie\n\nMitglied - Institut für wissenschaftliche Schlüsselkompetenzen IwiS\n\nProrektor - Rektorat",
+        "sprechzeit": "nach Vereinbarung",
+        "telefon": "+49(0)201/183-3760",
+        "email": "stefan.rumann@uni-due.de",
+        "web": "http://www.uni-due.de/chemiedidaktik/09_personen_zurperson_rumann_stefan.shtml",
+        "dienstzimmer": "SL 207 S - L"
+    },
+    {
+        "name": "Sabine Salewski",
+        "funktion": "Mitarbeiter/in - Sachgebiet Akademische und hochschulpolitische Angelegenheiten",
+        "dienstadresse": "Universitätsstraße 2, 45141 Essen",
+        "telefon": "+49 201 183 2001",
+        "fax": "+49 201 183 3139",
+        "email": "sabine.salewski@uni-due.de",
+        "dienstzimmer": "T01 S04 B11 T01S"
+    },
+    {
+        "name": "Dipl.-Kfm. Stefan Schäfer",
+        "funktion": "Projektmitglied - Institut für Soziale Arbeit und Sozialpolitik",
+        "dienstadresse": "Universitätsstraße 15, 45141 Essen",
+        "telefon": "+49 201 183 4962",
+        "fax": "+49 201 183 2626",
+        "email": "Stefan.Schaefer@uni-due.de",
+        "dienstzimmer": "V15 S04 C14 V15S"
+    },
+    {
+        "name": "Claudia Schmitz",
+        "email": "claudia.schmitz@stud.uni-due.de"
+    },
+    {
+        "name": "Claudia Schmitz",
+        "funktion": "Veranstaltungskoordinator/in - Ressort Veranstaltungen",
+        "dienstadresse": "Universitätsstr. 2, 45141 Essen",
+        "telefon": "0201 18 33410",
+        "email": "claudia.u.schmitz@uni-due.de",
+        "web": "https://www.uni-due.de/de/event/",
+        "dienstzimmer": "T03 R02 D14 T03R"
+    },
+    {
+        "name": "Judith Schneider-Jochim",
+        "dienstadresse": "Universitätsstraße 2, 45141 Essen",
+        "telefon": "+49 201 183 3683",
+        "email": "j.schneider-jochim@uni-due.de",
+        "dienstzimmer": "T01 S06 B43 T01S"
+    },
+    {
+        "name": "Nina Schramm",
+        "funktion": "Veranstaltungskoordinator/in - Ressort Veranstaltungen",
+        "dienstadresse": "Universitätsstr 2, 45117 Essen",
+        "telefon": "+49 201 183 3773",
+        "email": "nina.schramm@uni-due.de",
+        "web": "https://www.uni-due.de/de/event/",
+        "dienstzimmer": "T03 R02 D10 T03R"
+    },
+    {
+        "name": "Prof. PhD Karen Shire",
+        "funktion": "Universitätsprofessor/in - Institut für Soziologie",
+        "dienstadresse": "",
+        "telefon": "+49 203 379 4048",
+        "fax": "+49 203 379 18 29",
+        "email": "karen.shire@uni-duisburg-essen.de",
+        "web": "http://www.uni-due.de/soziologie/shire.php",
+        "dienstzimmer": "LE 715 LE"
+    },
+    {
+        "name": "Gabriele Spengler",
+        "funktion": "Lehrbeauftragte/r - Institut für Soziale Arbeit und Sozialpolitik",
+        "dienstadresse": "Berliner Platz 6 - 8, 45127 Essen",
+        "telefon": "+49 201 183 6281",
+        "email": "gabriele.spengler@uni-due.de",
+        "web": "http://www.chancehoch2.de/",
+        "dienstzimmer": "WST-A.14.04 Weststadttürme"
+    },
+    {
+        "name": "M.A. Judith Spickers",
+        "funktion": "Wissenschaftliche/r Mitarbeiter/in - Akademisches Beratungs-Zentrum Studium und Beruf",
+        "dienstadresse": "Geibelstr. 41, 47057 Duisburg",
+        "telefon": "+49 203 37 95027",
+        "fax": "+49 203 37 93660",
+        "email": "judith.spickers@uni-due.de",
+        "web": "https://www.uni-due.de/abz/",
+        "dienstzimmer": "SG 058 SG"
+    },
+    {
+        "name": "Linda Stahlschmidt",
+        "funktion": "Sekretariat des Rektorats (Campus Essen) im - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Universitätsstr. 2, 45141 Essen",
+        "telefon": "0201 - 18 36648",
+        "email": "linda.stahlschmidt@uni-due.de",
+        "web": "https://www.uni-due.de/de/hochschulmanagement/",
+        "dienstzimmer": "T01 S06 B28 T01S"
+    },
+    {
+        "name": "Michael Steinmetz",
+        "funktion": "Referent der Rektorin - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "0203 - 37 94749",
+        "email": "michael.steinmetz@uni-due.de",
+        "web": "https://www.uni-due.de/de/hochschulmanagement/",
+        "dienstzimmer": "LG 502   LG"
+    },
+    {
+        "name": "Lena Tillman",
+        "funktion": "Projektkoordinatorin UDE-Stipendienprogramm im - Ressort Marketing",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "+49 203 379 1887",
+        "email": "lena.tillman@uni-due.de",
+        "web": "https://www.uni-due.de/de/marketing/",
+        "dienstzimmer": "LG 409 LG"
+      },
+      {
+        "name": "M.A. Natalie Velibeyoglu",
+        "funktion": "Referentin des Prorektorats für Studium, Lehre und Bildung - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": "Universitätsstr. 2, 45141 Essen",
+        "telefon": "+49 201 183 3526 (E) / +49 203 379 1060 (DU)",
+        "email": "natalie.velibeyoglu@uni-due.de",
+        "web": "https://www.uni-due.de/de/hochschulmanagement/",
+        "dienstzimmer": "T01 S06 B20 T01S"
+      },
+      {
+        "name": "Birte Vierjahn",
+        "funktion": "Redakteur/-in im - Ressort Presse",
+        "dienstadresse": "Forsthausweg 2, 47057 Duisburg",
+        "telefon": "0203 37 92427",
+        "web": "https://www.uni-due.de/de/presse/",
+        "dienstzimmer": "LG 123 LG"
+      },
+      {
+        "name": "Lea von Bargen",
+        "funktion": "Veranstaltungskoordinator/in - Ressort Veranstaltungen",
+        "dienstadresse": "Universitätsstr. 2, 45141 Essen",
+        "telefon": "0201 18 34590",
+        "email": "lea.von-bargen@uni-due.de",
+        "web": "https://www.uni-due.de/de/event/",
+        "dienstzimmer": "T03 R02 D14 T03R"
+      },
+      {
+        "name": "Prof. Dr. rer. nat. Astrid Westendorf",
+        "funktion": "Universitätsprofessor/in - Institut für Medizinische Mikrobiologie",
+        "dienstadresse": "Hufelandstr. 55, 45122 Essen",
+        "telefon": "0201/723 1826",
+        "email": "astrid.westendorf@uk-essen.de",
+        "web": "http://www.uni-due.de/zmb/members/westendorf/overview.shtml"
+      },
+      {
+        "name": "Dr. Sabine Zix",
+        "funktion": "Referentin des Hochschulrats - Stabsstelle des Rektorats Hochschulmanagement und Kommunikation",
+        "dienstadresse": ""
+      }
+]

@@ -1,0 +1,16 @@
+Fakultät für Wirtschaftswissenschaften   (25307)   https://www.wiwi.uni-due.de   (8113)
+Fakultät für Bildungswissenschaften   (9575)   https://www.uni-due.de/biwi/   (5685)
+Fakultät für Gesellschaftswissenschaften   (5683)   https://www.uni-due.de/iaq/   (2731)
+Fakultät für Ingenieurwissenschaften   (3597)   https://www.uni-due.de/iw/de   (632)
+Fakultät für Biologie   (3513)   https://www.uni-due.de/biologie   (1265)
+Fakultät für Geisteswissenschaften   (2718)   https://www.uni-due.de/geisteswissenschaften/   (498)
+Fakultät für Chemie   (2126)   https://www.uni-due.de/chemie   (536)
+Fakultät für Mathematik   (2116)   https://www.uni-due.de/mathematik   (285)
+Fakultät für Physik   (1673)   https://www.uni-due.de/physik   (161)
+Fakultät für Betriebswirtschaftslehre   (1583)   https://www.msm.uni-due.de/mercator-school-of-management/   (587)
+Fakultät für Medizin   (1519)   https://www.uni-due.de/imperia/md/content/diversity/felderhoof_müser_preisträger2014.pdf   (2)
+Fakultät für Sozialwissenschaft   (861)   None   (0)
+Medizinische Fakultät   (768)   https://www.uni-due.de/med   (2155)
+Number of found faculties: 13
+---------------------------------
+Number of extra found faculties: 0

@@ -1,0 +1,252 @@
+Fakultäten:
+
+Tatsächlich existierend: 21
+Gefunden: 22
+
+Namen:
+
+Korrekt gefunden: 15
+Halb-korrekt gefunden (Name ist unvollständig, aber vorhanden): 7
+Doppelt gefunden, davon einer mindestens halb-korrekt: 1
+Nicht korrekt gefunden: 0
+
+% mit doppelten (gemessen an den gefundenen):
+Korrekt gefunden: 68.18181818181819%
+Halb-korrekt gefunden: 31.81818181818182%
+Nicht korrekt gefunden: 0.0%
+
+% ohne doppelten (gemessen an den existierenden):
+Korrekt gefunden: 71.42857142857143%
+Halb-korrekt gefunden: 28.57142857142857%
+Nicht korrekt gefunden: 0.0%
+
+Zusatz zu den halb-korrekten Namen:
+truth: Fakultät für Geschichtswissenschaften
+halb-korrekt: Fakultät für Geschichte
+halb-korrekt: Fakultät für Geschichtswissenschaft
+
+Links (automatisch):
+
+Korrekt gefunden: 11
+Halb-korrekt gefunden (Link ist vorhanden, aber hat hinten zu viel): 4
+Nicht korrekt gefunden: 7
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 50.00000000000001%
+Halb-korrekt gefunden: 18.181818181818183%
+Nicht korrekt gefunden: 31.81818181818182%
+
+Zusatz zu den nicht korrekten Links:
+Link kann hier als nicht korrekt angezeigt werden und dennoch korrekt sein.
+Mehrere Links können auf die selbe Seite zeigen.
+Beispiel:
+https://dev.kath.ruhr-uni-bochum.de/ / https://www.kath.ruhr-uni-bochum.de/
+Nicht korrekte Links müssen noch einmal manuell überprüft werden.
+
+Zusatz zu den halb-korrekten Links:
+truth: https://www2.wiwi.rub.de
+found: https://www2.wiwi.rub.de/dekanat
+
+Links (manuelle Nachüberprüfung):
+
+Links zur Überprüfung:
+Halb-korrekt:
+Nicht korrekt:
+
+Ergebnisse manueller Überprüfung:
+Korrekt gefunden: 18
+Halb-korrekt gefunden (Link ist vorhanden, aber hat hinten zu viel): 3
+Nicht korrekt gefunden: 0
+Nicht mehr aktuell: 1
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 81.81818181818183%
+Halb-korrekt gefunden: 13.636363636363637%
+Nicht korrekt gefunden: 0.0%
+Nicht mehr aktuell: 4.545454545454546%
+
+---------------------------------
+
+Lehrstühle:
+
+Tatsächlich existierend: 377
+Gefunden: 360
+
+Namen (automatisch):
+
+Korrekt gefunden: 135
+Halb-korrekt gefunden (Name ist unvollständig, aber vorhanden): 58
+Nicht korrekt gefunden: 167
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 37.5%
+Halb-korrekt gefunden: 16.11111111111111%
+Nicht korrekt gefunden: 46.38888888888889%
+
+Namen (manuelle Nachkontrolle):
+
+Halb:
+Ganz:
+
+Korrekt gefunden: 267
+Halb-korrekt gefunden: 89
+Nicht korrekt gefunden: 9
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 74.16666666666667%
+Halb-korrekt gefunden: 24.722222222222225%
+Nicht korrekt gefunden: 2.5%
+
+5 Lehrstühle wurden bei den halb-korrekten doppelt gezählt, da diese nicht klar zuordnenbar waren
+Beispiel:
+Truth: Lehrstuhl für X und Y
+Truth: Lehrstuhl für X und Z
+Gefunden: Lehrstuhl für X
+"Lehrstuhl für X" existiert, der Name ist allerdings nicht komplett gefunden worden. Da es zwei mögliche Vollständige Namen gibt, wurde dieser Name doppelt als halb-korrekt gezählt.
+
+% (gemessen an den tatsächlichen):
+Korrekt gefunden: 70.82228116710876%
+Halb-korrekt gefunden: 22.28116710875332%
+Nicht gefunden: 6.8965517241379315%
+
+Links:
+
+Lehrstühle ohne Link: 169 (46.94444444444445%)
+Lehrstühle mit Link: 191 (53.05555555555556%)
+
+Links (automatisch von den gefundenen Links):
+
+Korrekt gefunden: 81
+Halb-korrekt gefunden (Link ist vorhanden, aber hat hinten zu viel): 19
+Nicht korrekt gefunden: 92
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 42.40837696335078%
+Halb-korrekt gefunden: 9.947643979057592%
+Nicht korrekt gefunden: 48.167539267015705%
+
+Links (manuelle Nachüberprüfung von den gefundenen Links):
+
+Links zur Überprüfung:
+Halb-korrekt:
+Nicht korrekt:
+
+Ergebnisse manueller Überprüfung:
+Korrekt gefunden: 140
+Halb-korrekt gefunden (Link ist vorhanden, aber hat hinten zu viel): 31
+Nicht korrekt gefunden: 20
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 73.29842931937172%
+Halb-korrekt gefunden: 16.230366492146597%
+Nicht korrekt gefunden: 10.471204188481675%
+
+Uppers:
+
+Lehrstühle ohne Upper: 163 (45.27777777777778%)
+Lehrstühle mit Upper: 197 (54.72222222222222%)
+
+Manuelle Evaluation der Uppers (der gefundenen Uppers):
+
+Korrekt gefunden: 26
+Nicht korrekt gefunden: 171
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 13.197969543147208%
+Nicht korrekt gefunden: 86.80203045685279%
+
+---------------------------------
+
+Institute:
+
+Tatsächlich existierend: 73
+Gefunden: 755
+
+Namen (automatisch):
+
+Korrekt gefunden: 27
+Halb-korrekt gefunden (Name ist unvollständig, aber vorhanden): 16
+Nicht korrekt gefunden: 712
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 3.5761589403973515%
+Halb-korrekt gefunden: 2.119205298013245%
+Nicht korrekt gefunden: 94.30463576158941%
+
+Namen (manuelle Nachkontrolle):
+
+Halb:
+Ganz:
+
+Korrekt gefunden: 380
+Halb-korrekt gefunden: 238
+Nicht korrekt gefunden: 137
+Von den korrekten und halb-korrekten doppelt: 358
+Von den korrekten und halb-korrekten An-Insitute: 340
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 50.331125827814574%
+Halb-korrekt gefunden: 31.523178807947023%
+Nicht korrekt gefunden: 18.145695364238414%
+Doppelte unter den korrekten und halb-korrekten: 57.92880258899676%
+An-Institute unter den korrekten und halb-korrekten: 55.01618122977346%
+
+Zusatz:
+Zählt als Halb:
+Truth: Max-Planck-Institut für Sicherheit und Privatsphäre
+Gefunden: Institut für Sicherheit und Privatsphäre
+
+Weiterer Zusatz:
+Im Ground Truth sind nur eigene Institute. Keine An-Institute.
+
+% (gemessen an den tatsächlichen):
+Korrekt gefunden: 91.78082191780821%
+Halb-korrekt gefunden: 1.36986301369863%
+Nicht gefunden: 6.8493150684931505%
+
+Links:
+
+Institute ohne Link: 553 (73.24503311258279%)
+Institute mit Link: 202 (26.754966887417222%)
+
+Links (automatisch von den gefundenen Links):
+
+Korrekt gefunden: 35
+Halb-korrekt gefunden (Link ist vorhanden, aber hat hinten zu viel): 15
+Nicht korrekt gefunden: 152
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 17.326732673267326%
+Halb-korrekt gefunden: 7.425742574257425%
+Nicht korrekt gefunden: 75.24752475247524%
+
+Links (manuelle Nachüberprüfung von den gefundenen Links):
+
+Links zur Überprüfung:
+Halb-korrekt:
+Nicht korrekt:
+
+Ergebnisse manueller Überprüfung:
+Korrekt gefunden: 99
+Halb-korrekt gefunden (Link ist vorhanden, aber hat hinten zu viel): 48
+Nicht korrekt gefunden: 54
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 49.00990099009901%
+Halb-korrekt gefunden: 23.762376237623762%
+Nicht korrekt gefunden: 26.73267326732673%
+
+Uppers:
+
+Institute ohne Upper: 277 (36.688741721854306%)
+Institute mit Upper: 478 (63.3112582781457%)
+
+Manuelle Evaluation der Uppers (der gefundenen Uppers):
+
+Korrekt gefunden: 59
+Nicht korrekt gefunden: 419
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 12.343096234309623%
+Nicht korrekt gefunden: 87.65690376569037%
+

@@ -1,0 +1,377 @@
+{'name': ' "Lehrstuhl für Praktische Theologie - Homiletik, Liturgik, Poimenik', 'link': ' "http://www.ev.ruhr-uni-bochum.de/pt-karle/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Exegese und Theologie des Alten Testaments', 'link': ' "http://www.ev.ruhr-uni-bochum.de/at-ego/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Religion und Literatur des Alten Testaments', 'link': ' "http://www.ev.ruhr-uni-bochum.de/at-buehrer/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Altes Testament und Hebräisch', 'link': ' "http://www.ev.ruhr-uni-bochum.de/mommer/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Literaturgeschichte des Alten Testaments', 'link': ' "http://www.ev.ruhr-uni-bochum.de/heisenberg-professur-at/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Exegese und Theologie des Neuen Testaments, Geschichte des Urchristentums', 'link': ' "http://www.ev.ruhr-uni-bochum.de/nt-wick/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Neues Testament und Judentumskunde', 'link': ' "http://www.ev.ruhr-uni-bochum.de/nt-vonbendemann/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Reformation und Neuere Kirchengeschichte', 'link': ' "http://www.ev.ruhr-uni-bochum.de/reformationsgeschichte/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Kirchen- und Christentumsgeschichte (Alte Kirche und Mittelalter)', 'link': ' "http://www.ev.ruhr-uni-bochum.de/akm-greschat/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Christliche Gesellschaftslehre', 'link': ' "http://www.ev.ruhr-uni-bochum.de/cg-jaehnichen/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Ethik und Fundamentaltheologie', 'link': ' "http://www.ev.ruhr-uni-bochum.de/systheol/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Ökumene und Dogmatik', 'link': ' "http://www.ev.ruhr-uni-bochum.de/st-oekumene/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Praktische Theologie, Religionspädagogik', 'link': ' "http://www.ev.ruhr-uni-bochum.de/religionspaedagogik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Interkulturelle Theologie und Körperlichkeit', 'link': ' "http://www.ev.ruhr-uni-bochum.de/it-jahnel/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Altes Testament', 'link': ' "https://www.kath.ruhr-uni-bochum.de/at/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Neues Testament', 'link': ' "https://www.kath.ruhr-uni-bochum.de/nt/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Alte Kirchengeschichte, Patrologie und Christliche Archäologie', 'link': ' "https://www.kath.ruhr-uni-bochum.de/akg/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Kirchengeschichte des Mittelalters und der Neuzeit', 'link': ' "https://www.kath.ruhr-uni-bochum.de/mnkg/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Dogmatik und Dogmengeschichte', 'link': ' "https://www.kath.ruhr-uni-bochum.de/dogmatik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Fundamentaltheologie', 'link': ' "https://www.kath.ruhr-uni-bochum.de/fund-theol/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Theologische Ethik', 'link': ' "https://www.kath.ruhr-uni-bochum.de/theoleth/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Sozialethik', 'link': ' "https://www.kath.ruhr-uni-bochum.de/sozialethik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Philosophisch-Theologische Grenzfragen', 'link': ' "https://www.kath.ruhr-uni-bochum.de/ph-th/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Religionsphilosophie & Wissenschaftstheorie', 'link': ' "https://www.kath.ruhr-uni-bochum.de/wissenschaftstheorie/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Liturgiewissenschaft', 'link': ' "https://www.kath.ruhr-uni-bochum.de/liturgiewissenschaft/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Kirchenrecht', 'link': ' "https://www.kath.ruhr-uni-bochum.de/kirchenrecht/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Pastoraltheologie', 'link': ' "https://www.kath.ruhr-uni-bochum.de/pastoral/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Lehrstuhl für Religionspädagogik', 'link': ' "https://www.kath.ruhr-uni-bochum.de/relipaed/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': ' "Allgemeine Wissenschaftstheorie und -geschichte', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/i/wtundwg/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Angewandte Ethik', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/i/angewandte_ethik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Ethik der digitalen Methoden und Techniken', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/i/edmt/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Ethik und Ästhetik', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/i/ethik_aesthetik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Ethik und Philosophie der Emotionen', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/i/phil-ethik-emotion/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Klassische Deutsche Philosophie', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/i/kdp/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Logik und Erkenntnistheorie', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/i/logic/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Metaphysik und Philosophie der Logik', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/i/metaphysics/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Philosophiedidaktik und praktische Philosophie', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/i/didaktik_prakt/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Politische Philosophie und Rechtsphilosophie', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/i/politik_recht/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Wissenschaftstheorie und -geschichte der Biologie', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/i/wtwg/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Metaphilosophie und Experimentelle Philosophie', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/ii/mep/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Nicht-Monotone Logik und Formale Argumentationstheorie', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/ii/nml/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Philosopie der Antike und des Mittelalters', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/ii/antikeundma/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Philosophie des Bewusstseins und der Kognition', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/ii/bewusstsein/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Philosophie des Geistes', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/ii/newen/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Philosophie der Information und Kommunikation', 'link': ' "https://www.ruhr-uni-bochum.de/phil-inf/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Philosophie der Sprache und Kognition', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/ii/phil-lang/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Philosophie der Wahrnehmung und des Wissens', 'link': ' "https://www.pe.ruhr-uni-bochum.de/philosophie/ii/ww/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Bildungspsychologie', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/bildungspsychologie/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Bildungssoziologie und Sozialisationsforschung', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/bilsoz/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Educational Data Science', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/eds/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Historische Bildungsforschung', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/hist-bildung/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Kompetenzentwicklung und Kompetenzmodellierung', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/kom-kom/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Lebenslanges Lernen', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/leb/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Lehrstuhl für Lehr-Lernforschung', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/lllf/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Pädagogische Psychologie und Bildungstechnologie', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/pp/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Quantitative Forschungsmethoden', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/qua-for/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Soziale Räume und Orte des non-formalen und informellen Lernens', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/sro/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Theorien der Erziehung und Erziehungswissenschaft', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/tew/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Vergleichende Erziehungswissenschaft', 'link': ' "https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/ve/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': ' "Geschichte Japans', 'link': ' "https://www.ruhr-uni-bochum.de/gj/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Ostasienwissenschaften'}
+{'name': ' "Geschichte Chinas', 'link': ' "https://www.ruhr-uni-bochum.de/gpc/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Ostasienwissenschaften'}
+{'name': ' "Internationale Politische Ökonomie Ostasiens', 'link': ' "https://www.ipea.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Ostasienwissenschaften'}
+{'name': ' "Politik Ostasiens', 'link': ' "https://www.ruhr-uni-bochum.de/poa/de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Ostasienwissenschaften'}
+{'name': ' "Religionen Ostasiens', 'link': ' "https://www.ruhr-uni-bochum.de/oaw/roa/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Ostasienwissenschaften'}
+{'name': ' "Religionen Zentralasiens', 'link': ' "https://khk.ceres.rub.de/de/personen/carmen-meinert/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Ostasienwissenschaften'}
+{'name': ' "Sprache und Kultur Koreas', 'link': ' "https://www.ruhr-uni-bochum.de/skk/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Ostasienwissenschaften'}
+{'name': ' "Sprache Und Literatur Chinas', 'link': ' "https://www.ruhr-uni-bochum.de/oaw/slc/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Ostasienwissenschaften'}
+{'name': ' "Sprache und Literatur Japans', 'link': ' "https://www.ruhr-uni-bochum.de/sulj/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Ostasienwissenschaften'}
+{'name': ' "Bewegungswissenschaft', 'link': ' "https://sport.ruhr-uni-bochum.de/de/bewegungswissenschaft', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sportwissenschaft'}
+{'name': ' "eHealth und Sports Analytics', 'link': ' "https://sport.ruhr-uni-bochum.de/de/ehealth-und-sports-analytics', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sportwissenschaft'}
+{'name': ' "Sportarten und Bewegungsfelder', 'link': ' "https://sport.ruhr-uni-bochum.de/de/sportarten-und-bewegungsfelder', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sportwissenschaft'}
+{'name': ' "Sportgeschichte und Sportsoziologie', 'link': ' "https://sport.ruhr-uni-bochum.de/de/sportgeschichte-und-sportsoziologie', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sportwissenschaft'}
+{'name': ' "Sportmanagement und Sportconsulting', 'link': ' "https://sport.ruhr-uni-bochum.de/de/sportmanagement-und-sportconsulting', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sportwissenschaft'}
+{'name': ' "Sportmedizin und Sporternährung', 'link': ' "https://sport.ruhr-uni-bochum.de/de/sportmedizin-und-sporternaehrung', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sportwissenschaft'}
+{'name': ' "Sportpsychologie', 'link': ' "https://sport.ruhr-uni-bochum.de/de/sportpsychologie', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sportwissenschaft'}
+{'name': ' "Trainingswissenschaft', 'link': ' "https://sport.ruhr-uni-bochum.de/de/trainingswissenschaft', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sportwissenschaft'}
+{'name': ' "Sportpädagogik', 'link': ' "https://sport.ruhr-uni-bochum.de/de/sportpaedagogik', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sportwissenschaft'}
+{'name': ' "Arbeits-, Organisations- und Wirtschaftspsychologie', 'link': ' "http://www.aow.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Behavioral and Clinical Neuroscience', 'link': ' "http://bcn.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Biopsychologie', 'link': ' "http://www.bio.psy.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Clinical Psychology and Digital Psychotherapy', 'link': ' "https://digital.psy.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Entwicklungspsychologie', 'link': ' "http://www.epsy.psy.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Klinische Kinder- und Jugendpsychologie', 'link': ' "http://www.kli.psy.ruhr-uni-bochum.de/kkjp/kkjp.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Klinische Psychologie und Psychotherapie', 'link': ' "http://www.kli.psy.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Kognitionspsychologie', 'link': ' "http://www.cog.psy.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Neuronale Grundlagen des Lernens', 'link': ' "https://www.ngl.psy.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Neuropsychologie', 'link': ' "http://www.ruhr-uni-bochum.de/neuropsy/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Psychologische Methodenlehre', 'link': ' "http://www.pml.psy.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Social Neuroscience', 'link': ' "https://www.psy.ruhr-uni-bochum.de/lehrstuehle/SocNeuro.html.en', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Sozialpsychologie', 'link': ' "http://www.soc.psy.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Soziale Kognition', 'link': ' "https://www.soco.ruhr-uni-bochum.de/soco/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': ' "Lehrstuhl für Bürgerliches Recht im digitalen Zeitalter', 'link': ' "https://www.jura.rub.de/juniorprofessur-fuer-buergerliches-recht-im-digitalen-zeitalter', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Bürgerliches Recht und Gesellschaftsrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-fuer-buergerliches-recht-und-gesellschaftsrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Bürgerliches Recht, Arbeitsrecht, Internationales Privatrecht und Rechtsvergleichung', 'link': ' "https://www.jura.rub.de/lehrstuhl-fuer-buergerliches-recht-arbeitsrecht-internationales-privatrecht-und-rechtsvergleichung', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Bürgerliches Recht, Deutsches und Europäisches Arbeitsrecht und Sozialrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-fuer-buergerliches-recht-deutsches-und-europaeisches-arbeitsrecht-und-sozialrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Bürgerliches Recht, Deutsche und Europäische Rechtsgeschichte', 'link': ' "https://www.jura.rub.de/lehrstuhl-fuer-buergerliches-recht-deutsche-und-europaeische-rechtsgeschichte', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Bürgerliches Recht, Römisches Recht und Zivilverfahrensrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-buergerliches-recht-roemisches-recht-und-zivilverfahrensrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Bürgerliches Recht, Handels- und Wirtschaftsrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-buergerliches-recht-handels-und-wirtschaftsrecht-einschliesslich-berg-und-energierecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Bürgerliches Recht, Deutsches und Europäisches Handels- und Wirtschaftsrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-buergerliches-recht-deutsches-und-europaeisches-handels-und-wirtschaftsrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Bürgerliches Recht, Internationales Privatrecht und Rechtsvergleichung, Handels- und Wirtschaftsrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-buergerliches-recht-internationales-privatrecht-und-rechtsvergleichung-handels-und', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Bürgerliches Recht, Unternehmensrecht und Recht der Familienunternehmen', 'link': ' "https://www.jura.rub.de/lehrstuhl-fuer-buergerliches-recht-unternehmensrecht-und-recht-der-familienunternehmen', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Prozessrecht und Bürgerliches Recht', 'link': ' "https://www.jura.rub.de/lehrstuhl-prozessrecht-und-buergerliches-recht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Bürgerliches Recht, Wirtschafts- und Sportrecht', 'link': ' "https://www.jura.rub.de/professur-fuer-buergerliches-recht-wirtschafts-und-sportrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Strafrecht und Strafprozessrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-strafrecht-und-strafprozessrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Strafrecht und Strafprozessrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-strafrecht-und-strafprozessrecht-1', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Strafrecht und Strafprozessrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-strafrecht-und-strafprozessrecht-0', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Kriminologie', 'link': ' "https://www.jura.rub.de/lehrstuhl-kriminologie', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Strafrecht, Strafprozessrecht und Internationales Strafrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-strafrecht-strafprozessrecht-und-internationales-strafrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Strafrecht und Strafprozessrecht, Wirtschaftsrecht und internationales Strafrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-strafrecht-und-strafprozessrecht-wirtschaftsrecht-und-internationales-strafrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Kriminologie, Strafrecht und Sicherheitsforschung im digitalen Zeitalter', 'link': ' "https://www.jura.rub.de/jpkrim', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Öffentliches Recht und Europarecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-oeffentliches-recht-und-europarecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Öffentliches Recht, insbesondere Verwaltungsrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-fuer-oeffentliches-recht-insbesondere-verwaltungsrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Öffentliches Recht, Sozial- und Gesundheitsrecht und Rechtsphilosophie', 'link': ' "https://www.oer.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Öffentliches Recht, Finanzverfassungs- und Gesundheitsrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-oeffentliches-recht-finanzverfassungs-und-gesundheitsrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Öffentliches Recht, Verfassungstheorie und Interdisziplinäre Rechtsforschung', 'link': ' "https://www.jura.rub.de/verfassungstheorie', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Öffentliches Recht, Rechtsphilosophie und Rechtsökonomik', 'link': ' "https://www.jura.rub.de/lehrstuhl-fuer-oeffentliches-recht-rechtsphilosophie-und-rechtsoekonomik', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Öffentliches Recht, insbesondere Europarecht, Völkerrecht und Internationales Wirtschaftsrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-oeffentliches-recht-insbesondere-europarecht-voelkerrecht-und-internationales', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl Steuerrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-steuerrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Öffentliches Recht und Völkerrecht, insbes. Friedenssicherungsrecht und Humanitäres Völkerrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-fuer-oeffentliches-recht-und-voelkerrecht-insbes-friedenssicherungsrecht-und-humanitaeres', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Öffentliches Recht, Wirtschaftsrecht und Steuerrecht', 'link': ' "https://www.jura.rub.de/lehrstuhl-fuer-oeffentliches-recht-wirtschaftsrecht-und-steuerrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "kooptiert: Raumplanungs- und Umweltrecht', 'link': ' "https://www.jura.rub.de/kooptiert-raumplanungs-und-umweltrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "kooptiert: Recht der Wirtschaft', 'link': ' "https://www.jura.rub.de/kooptiert-recht-der-wirtschaft', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Lehrstuhl für Öffentliches Recht und Steuerrecht', 'link': ' "https://www.jura.rub.de/juniorprofessorin-fuer-oeffentliches-recht-und-steuerrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Juristische Fakultät'}
+{'name': ' "Betriebswirtschaftliche Steuerlehre', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/betriebswirtschaftliche-steuerlehre/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Controlling', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/controlling/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Corporate Governance, Auditing und Accounting', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/corporate-governance-auditing-und-accounting/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Energieökonomik und -politik', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/energieoekonomik-und-politik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Empirische Wirtschaftsforschung', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/empirische-wirtschaftsforschung/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Applied Microeconomics', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/applied-microeconomics/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Data Science in Economics', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/dse/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Empirische Makroökonomik', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/empirische-makrooekonomik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Energieökonomik und angewandte Ökonometrie', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/energieoekonomik-und-angewandte-oekonometrie/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Energierecht und -wirtschaft', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/energierecht-und-wirtschaft/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Entrepreneurship und innovative Geschäftsmodelle', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/eship/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Entwicklungsforschung / IEE', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/entwicklungsforschung-iee/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Financial Accounting', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/financial-accounting/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Finanzierung und Kreditwirtschaft', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/finanzierung-und-kreditwirtschaft/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Finanzwissenschaft und Regionalökonomik', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/finanzwissenschaft-und-regionaloekonomik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Health Economics and Health Policy', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/health-economics/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Human Resource Management', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/human-resource-management/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Internationale Unternehmensrechnung', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/internationale-unternehmensrechnung/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Internationale Wirtschaftsbeziehungen', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/internationale-wirtschaftsbeziehungen/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Makroökonomik', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/juniorprofessur-makrooekonomik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Klimawandel und Entwicklung', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/cce/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Makroökonomik', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/makrooekonomik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Produktionswirtschaft', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/prowi/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Rechnungslegung und Wirtschaftsprüfung', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/rechnungslegung-und-wirtschaftspruefung-schwieters/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Rechnungslegung und Wirtschaftsprüfung', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/honorarprofessur-fuer-rechnungslegung-und-wirtschaftspruefung/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Recht der Wirtschaft', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/recht-der-wirtschaft/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Sales Management Department', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/sales-management-department/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Sozialpolitik und öffentliche Finanzen', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/sozialpolitik-und-oeffentliche-finanzen/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Statistik / Ökonometrie', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/statistik-oekonometrie/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Umwelt- und Innovationspolitik', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/umwelt-und-innovationspolitik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Umwelt-/Ressourcenökonomik und Nachhaltigkeit', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/ceresus/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Unternehmensforschung und Rechnungswesen', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/unternehmensforschung-und-rechnungswesen/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Wirtschaftspolitik und Angewandte Ökonometrie', 'link': ' "https://www2.wiwi.rub.de/lehrstuehle/wirtschaftspolitik-und-angewandte-oekonometrie/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': ' "Professur für Gender Studies', 'link': ' "https://www.sowi.ruhr-uni-bochum.de/gender/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Lehrstuhl für Arbeit, Personal und Führung', 'link': ' "https://www.apf.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Lehrstuhl für Soziologie der digitalen Transformation', 'link': ' "https://www.sdt.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Lehrstuhl für Soziotechnisches Systemdesign und Künstliche Intelligenz', 'link': ' "https://sski.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Fachgebiet für Personalwirtschaft und Qualifizierung', 'link': ' "http://www.puq.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Didaktik der sozialwissenschaftlichen Bildung', 'link': ' "https://www.sowi.ruhr-uni-bochum.de/sowifd/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Sozialpolitik und öffentliche Finanzen', 'link': ' "https://www.sowi2.ruhr-uni-bochum.de/sozialpolitik/oekonomik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Sozialpolitik und öffentliche Wirtschaft', 'link': ' "https://www.sowi2.ruhr-uni-bochum.de/sozialpolitik/wirtschaft/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Juniorprofessur Gesundheit und E-Health', 'link': ' "https://www.sowi2.ruhr-uni-bochum.de/ehealth/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Politikwissenschaft / Öffentliche Verwaltung, Stadt- und Regionalpolitik', 'link': ' "https://www.sowi.ruhr-uni-bochum.de/regionalpolitik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Politikwissenschaft / Vergleichende Politikwissenschaft', 'link': ' "https://www.sowi2.ruhr-uni-bochum.de/pw2/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Politikwissenschaft / Politisches System Deutschlands', 'link': ' "https://www.sowi2.ruhr-uni-bochum.de/pw1/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Politikwissenschaft / Internationale Politik', 'link': ' "https://www.sowi.ruhr-uni-bochum.de/lsip/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Ethnologie', 'link': ' "https://www.sowi.ruhr-uni-bochum.de/ethno/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Kulturpsychologie und Wissensanthropologie', 'link': ' "https://www.sowi.ruhr-uni-bochum.de/cupak/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Sozialtheorie und Sozialpsychologie', 'link': ' "https://www.sowi.ruhr-uni-bochum.de/soztheo/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Soziologie / Arbeit, Wirtschaft und Wohlfahrt', 'link': ' "https://www.sowi.ruhr-uni-bochum.de/sozaww/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Soziologie / Soziale Ungleichheit und Geschlecht', 'link': ' "https://www.sowi.ruhr-uni-bochum.de/sozsug/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Soziologie der digitalen Transformation', 'link': ' "https://www.sdt.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Soziologie / Stadt und Region', 'link': ' "https://www.sowi.ruhr-uni-bochum.de/staresoz/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Soziologie / Transnationalisierung, Migration und Arbeit', 'link': ' "https://www.sowi.ruhr-uni-bochum.de/soztrans/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Empirische Sozialforschung', 'link': ' "https://www.methoden.ruhr-uni-bochum.de/empirische-sozialforschung.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Sozialwissenschaftliche Datenanalyse', 'link': ' "https://www.methoden.ruhr-uni-bochum.de/sozialwissenschaftliche-datenanalyse.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Qualitative Methoden der Sozialwissenschaft', 'link': ' "https://www.methoden.ruhr-uni-bochum.de/qualitative-methoden-der-sozialwissenschaft.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': ' "Baustofftechnik', 'link': ' "http://www.ruhr-uni-bochum.de/baustoffe/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Bodenmechanik, Grundbau und Umweltgeotechnik', 'link': ' "http://www.bgu.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Massivbau', 'link': ' "http://www.kib1.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Stahl-, Leicht- und Verbundbau', 'link': ' "http://www.ruhr-uni-bochum.de/stahlbau/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Tunnelbau, Leitungsbau und Baubetrieb', 'link': ' "http://www.tlb.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Windingenieurwesen und Strömungsmechanik', 'link': ' "http://www.ruhr-uni-bochum.de/wist/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Baukonstruktionen und Bauphysik', 'link': ' "http://www.ruhr-uni-bochum.de/bauko/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Informatik im Bauwesen', 'link': ' "https://www.inf.bi.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Mechanik - Kontinuumsmechanik', 'link': ' "http://www.lkm.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Mechanik - Materialtheorie', 'link': ' "http://mechmat.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Statik und Dynamik', 'link': ' "http://www.sd.rub.de/de/Home.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "High Performance Computing', 'link': ' "http://hpc.bi.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Mechanik adaptiver Systeme', 'link': ' "http://www.ruhr-uni-bochum.de/mas/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Ingenieurhydrologie und Wasserwirtschaft', 'link': ' "http://www.hydrology.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Ressourceneffizientes Bauen', 'link': ' "http://www.ruhr-uni-bochum.de/reb/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Siedlungswasserwirtschaft und Umwelttechnik', 'link': ' "http://www.ruhr-uni-bochum.de/siwawi/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Verkehrswegebau', 'link': ' "http://www.lvw.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Verkehrswesen - Planung und Management', 'link': ' "http://www.ruhr-uni-bochum.de/verkehrswesen/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Umweltinformatik', 'link': ' "https://www.fbi.ruhr-uni-bochum.de/fbi/fakultaet/lehrstuehle-arbeitsgruppen.html.de#', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Hydrologie, Wasserwirtschaft und Umwelttechnik', 'link': ' "https://www.spate.ruhr-uni-bochum.de/spate/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Umwelttechnik und Ökologie im Bauwesen', 'link': ' "http://www.ruhr-uni-bochum.de/ecology/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': ' "Industrial Sales and Service Engineering', 'link': ' "http://www.isse.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Laseranwendungstechnik', 'link': ' "https://www.lat.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Produktentwicklung', 'link': ' "https://www.lpe.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Industrie- und Fahrzeugantriebstechnik', 'link': ' "https://www.ifa.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Digital Engineering', 'link': ' "https://www.lde.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Produktionssysteme', 'link': ' "https://www.lps.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Regelungstechnik und Systemtheorie', 'link': ' "https://www.rus.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Baumaschinen- und Fördertechnik', 'link': ' "http://www.bmft.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Hybrid Additive Manufacturing', 'link': ' "https://www.ham.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Soziotechnisches Systemdesign und Künstliche Intelligenz', 'link': ' "https://sski.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Energieanlagen und Energieprozesstechnik', 'link': ' "http://www.leat.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Energiesysteme und Energiewirtschaft', 'link': ' "https://www.ee.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Antriebstechnik – DLR', 'link': ' "https://www.dlr.de/AT', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Thermische Turbomaschinen und Flugtriebwerke', 'link': ' "https://www.ttf.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Verbrennungsmotoren', 'link': ' "https://www.lvm.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Plant Simulation and Safety', 'link': ' "https://www.pss.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Geothermische Energiesysteme/Fraunhofer IEG', 'link': ' "https://www.ieg.fraunhofer.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Feststoffverfahrenstechnik', 'link': ' "http://www.fvt.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Fluidverfahrenstechnik', 'link': ' "https://fluidvt.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Hydraulische Strömungsmaschinen', 'link': ' "https://www.hsm.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Thermodynamik', 'link': ' "https://www.thermo.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Carbon Sources and Conversion', 'link': ' "https://ls-csc.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Cross Energy Systems', 'link': ' "https://www.ruhr-uni-bochum.de/ls-ces/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Responsible Process Engineering', 'link': ' "https://rpe.ruhr-uni-bochum.de/author/rpe-admin/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Werkstoffwissenschaft', 'link': ' "https://dbs-lin.ruhr-uni-bochum.de/ww/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Neue Materialien und Grenzflächen', 'link': ' "https://www.mdi.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Atomic-Scale Characterisation', 'link': ' "https://www.ruhr-uni-bochum.de/atomic-characterisation/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Werkstofftechnik', 'link': ' "https://www.wtech.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Skalenübergreifende thermodynamische und kinetische Simulation- ICAMS', 'link': ' "http://www.icams.de/content/departments/scale-bridging-thermodynamic-and-kinetic-simulations/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Mikromechanische und makroskopische Simulation – ICAMS', 'link': ' "http://www.icams.de/content/departments/micromechanical-and-macroscopic-modelling/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Werkstoffe der Luft- und Raumfahrt – DLR', 'link': ' "https://www.dlr.de/wf/desktopdefault.aspx/tabid-2446/3623_read-51317/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Werkstoffoberflächen und Grenzflächen – MPI Düsseldorf', 'link': ' "https://www.mpie.de/2702090/interface_chemistry_and_surface_engineering', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Werkstoffe für Hochtemperaturtechnologien – FZ Jülich', 'link': ' "https://www.fz-juelich.de/iek/iek-1/DE/Forschung/Abteilung_WerkstoffefuerHochtemperaturtechnologien/Ansprechpartner/_node.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "High-Performance Computing – ICAMS', 'link': ' "http://www.icams.de/content/people/icams-staff-members/?detail=681', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Mikrostruktur von Werkstoffen', 'link': ' "https://dbs-lin.ruhr-uni-bochum.de/ww/team/laplanche.php', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Werkstoffprocessing', 'link': ' "https://dbs-lin.ruhr-uni-bochum.de/ww/team/frenzel.php', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Lehrstuhl für Kontinuumsmechanik', 'link': ' "http://www.lkm.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Lehrstuhl für Allgemeine Mechanik', 'link': ' "http://mechmat.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': ' "Eingebettete Systme der Informationstechnik ', 'link': ' "', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Lehrstuhl für Angewandte Elektrodynamik und Plasmatechnik', 'link': ' "https://www.aept.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Automatisierungstechnik und Prozessinformatik', 'link': ' "https://www.atp.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Digitale Kommunikations Systeme', 'link': ' "https://www.dks.ruhr-uni-bochum.de/de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Lehrstuhl für Elektronische Schaltungstechnik', 'link': ' "https://etit.ruhr-uni-bochum.de/est/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Energiesystemtechnik und Leistungsmechatronik', 'link': ' "http://www.enesys.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Lehrstuhl für Hochfrequenzsysteme', 'link': ' "https://etit.ruhr-uni-bochum.de/hfs/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Lehrstuhl für Integrierte Systeme', 'link': ' "https://etit.ruhr-uni-bochum.de/insys/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Lehrstuhl für Medizintechnik', 'link': ' "https://www.mt.rub.de/de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Lehrstuhl für Mikrosystemtechnik', 'link': ' "https://etit.ruhr-uni-bochum.de/mst/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Lehrstuhl Photonics and Ultrafast Laser Science', 'link': ' "https://www.puls.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Lehrstuhl für Photonik und Terahertztechnologie', 'link': ' "https://etit.ruhr-uni-bochum.de/ptt/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Lehrstuhl für Theoretische Elektrotechnik', 'link': ' "https://etit.ruhr-uni-bochum.de/tet/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': ' "Computational Neuroscience', 'link': ' "https://www.ini.rub.de/research/groups/computational_neuroscience/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Theory of Cognitive Systems', 'link': ' "https://www.ini.rub.de/the_institute/people/gregor-schoner/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Theory of Machine Learning', 'link': ' "https://www.ini.rub.de/research/groups/optimization_of_adaptive_systems/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Theory of Neural Systems', 'link': ' "https://www.ini.rub.de/research/groups/theory_of_neural_systems/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Cryptography', 'link': ' "https://informatik.rub.de/crypto/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Kryptologie und IT Sicherheit', 'link': ' "https://informatik.rub.de/cits/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Datenbanken und Informationssysteme', 'link': ' "https://informatik.rub.de/dbis/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Developer Centered Security', 'link': ' "https://informatik.rub.de/dcs/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Distributed & Networked Systems', 'link': ' "https://dnet.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Embedded Security', 'link': ' "https://informatik.rub.de/emsec/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Human-Centred Security', 'link': ' "https://informatik.rub.de/hcs/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Implementation Security', 'link': ' "https://informatik.rub.de/impsec/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "CHAIR FORfor INFORMATION SECURITY', 'link': ' "https://informatik.rub.de/infsec/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Logik und Formale Verifikation', 'link': ' "https://informatik.rub.de/logic-and-fv/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Machine Learning', 'link': ' "https://informatik.rub.de/ml/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Mobile Security', 'link': ' "https://informatik.rub.de/mobsec/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Netz- und Datensicherheit', 'link': ' "https://informatik.rub.de/nds/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Bochum Operating Systems and System Software', 'link': ' "https://informatik.rub.de/boss/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Chair for Quantum Information', 'link': ' "https://qi.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Lehrstuhl für Security Engineering', 'link': ' "https://informatik.rub.de/seceng/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Chair of Software Engineering', 'link': ' "https://se.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Software Security', 'link': ' "https://informatik.rub.de/softsec/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Symmetric Cryptography', 'link': ' "https://informatik.rub.de/symcrypt/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Lehrstuhl für Systemsicherheit', 'link': ' "https://informatik.rub.de/syssec/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Theoretische Informatik / Algorithmik', 'link': ' "https://informatik.rub.de/algo/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Theoretical Cryptography', 'link': ' "https://informatik.rub.de/theoretical-crypto/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Digital Sovereignty Lab', 'link': ' "https://informatik.rub.de/digisoul/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Computer Security', 'link': ' "https://informatik.rub.de/yarom/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Informatik'}
+{'name': ' "Stochastik/Didaktik', 'link': ' "https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/stochastik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Didaktik der Mathematik', 'link': ' "https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Rolka/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Statistik, insbesondere angewandte statistische und inverse Probleme ', 'link': ' "', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Stochastik, insbes. Wahrscheinlichkeitstheorie und Anwendungen', 'link': ' "http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-XII/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Stochastik, insbes. Statistik', 'link': ' "https://www.ruhr-uni-bochum.de/mathematik3/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Mathematische Physik/Stochastik', 'link': ' "http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Kuelske/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Mathematische Statistik', 'link': ' "', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Stochastik', 'link': ' "http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Thaele/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Numerik', 'link': ' "', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Analysis', 'link': ' "http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-VII/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Geometrie', 'link': ' "', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Analysis und Geometrie', 'link': ' "', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Transformationsgruppen', 'link': ' "http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/transformationsgruppen/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Analysis, insbes. Differentialgeometrie und Dynamische Systeme', 'link': ' "http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-X/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Topologie', 'link': ' "http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-XIII/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Komplexe Geometrie', 'link': ' "http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-II/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Symplektische Geometrie', 'link': ' "https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Zehmisch/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Algebra', 'link': ' "http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Algebra, insbes. Lie Theorie / Algebraische Gruppen / Darstellungstheorie', 'link': ' "http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-VI/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Algebraische Kombinatorik', 'link': ' "https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebraische_Kombinatorik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': ' "Astronomie', 'link': ' "https://www.astro.ruhr-uni-bochum.de/Astronomie/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Beobachtende Kosmologie', 'link': ' "https://www.optics.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Multiwellenlängen-Astrophysik', 'link': ' "https://www-zeuthen.desy.de/~afrancko/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Hadronen und Kerne', 'link': ' "https://www.ep1.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Plasmaphysik', 'link': ' "https://www.ep2.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Experimentelle Festkörperphysik', 'link': ' "https://www.ep4.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Plasma- und Atomphysik', 'link': ' "https://www.ep5.ruhr-uni-bochum.de/index.php/en/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Angewandte Festkörperphysik', 'link': ' "http://www.afp.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Plasma-Astro-Teilchenphysik', 'link': ' "http://www.tp4.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Theoretische Festkörperphysik', 'link': ' "https://tp3.physik.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Hadronen- und Teilchenphysik', 'link': ' "http://www.tp2.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Plasma-, Laser- und Atomphysik', 'link': ' "https://www.tp1.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Didaktik der Physik', 'link': ' "https://dp.physik.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': ' "Ingenieurgeologie/Felsmechanik', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/ingenieurgeologie-felsmechanik', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Physikalische Geodäsie', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/physikalische-geodaesie/mitarbeiter/prof-jonathan-bedford', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Petrologie und Geochemie', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/arbeitsrichtungen/petrologie-und-geochemie/personal/prof-sumit-chakraborty', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Tektonik und Rohstoffe', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/tektonik-und-rohstoffe', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Petrologie und Geochemie', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/arbeitsrichtungen/petrologie-und-geochemie/personal/prof-raul-fonseca', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Seismologie', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/seismologie', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Sediment-& Isotopengeologie', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/arbeitsrichtungen/exogene-geologie/mitarbeiter-sediment-und-isotopengeologie', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Experimentelle Geophysik', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/experimentelle-geophysik/mitarbeitende/prof-dr-joerg-renner', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Erdbebenprozesse', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/prof-rebecca-harrington', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Hydrogeochemie / Hydrogeologie', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/arbeitsrichtungen/angewandte-geologie/arbeitsgruppe-0/prof-dr-tobias-licha', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Strukturgeologie', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/arbeitsrichtungen/endogene-geologie', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Kristallographie', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/kristallographie/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Hydrogeochemie / Hydrogeologie', 'link': ' "https://www.gmg.ruhr-uni-bochum.de/prof-dr-stefan-wohnlich', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': ' "Elektroanalytik und Sensorik', 'link': ' "https://www.anachem.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Analytische Chemie II', 'link': ' "https://nanoec.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Bioanorganische Chemie', 'link': ' "https://www.chemie.ruhr-uni-bochum.de/ac1/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Metallorganische Chemie und Katalyse', 'link': ' "https://www.gessnerlab.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Rezeptorbiochemie', 'link': ' "https://www.ruhr-uni-bochum.de/bc1/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Molekulare Biochemie', 'link': ' "https://www.ruhr-uni-bochum.de/bc2/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Didaktik der Chemie', 'link': ' "https://www.ruhr-uni-bochum.de/didachem/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Organische Chemie I', 'link': ' "https://www.ruhr-uni-bochum.de/oc1/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Physikalisch-Organische Chemie', 'link': ' "https://www.ruhr-uni-bochum.de/oc2/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Atomare und molekulare Prozesse an Grenzflächen', 'link': ' "https://www.ruhr-uni-bochum.de/pc1/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Hochauflösende Laserspektroskopie', 'link': ' "https://www.ruhr-uni-bochum.de/pc2/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Industrielle Redoxkatalyse', 'link': ' "https://www.techem.ruhr-uni-bochum.de/home/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Ab initio Simulationen', 'link': ' "https://www.theochem.ruhr-uni-bochum.de/de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Atomistic Simulations und LS Theoretische Chemie II der RUB', 'link': ' "https://www.theochem2.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': ' "Molecular & Cellular Botany', 'link': ' "https://www.botanik.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Lehrstuhl für Molekulargenetik und Physiologie der Pflanzen', 'link': ' "https://www.ruhr-uni-bochum.de/mgpp/Seiten_dt/index_d.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Molecular Biology of Plant Organelles', 'link': ' "https://www.molbiol.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Pflanzliche Zellbiologie', 'link': ' "', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Lehrstuhl für Zellmorphologie und Molekulare Neurobiologie', 'link': ' "https://www.ruhr-uni-bochum.de/zellmorphologie/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Cellular Neurobiology', 'link': ' "https://www.ruhr-uni-bochum.de/cellneuro/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Lehrstuhl für Allgemeine Zoologie und Neurobiologie', 'link': ' "https://www.ruhr-uni-bochum.de/neurobiol/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Lehrstuhl für Evolutionsökologie und Biodiversität der Tiere', 'link': ' "https://www.ruhr-uni-bochum.de/spezzoo/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Molekulare Evolution der Pflanzen', 'link': ' "https://www.mep.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Lehrstuhl für Biophysik', 'link': ' "http://www.bph.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Biologie der Mikroorganismen', 'link': ' "https://www.mikrobiologie.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Angewandte Mikrobiologie', 'link': ' "https://www.applmicrobiol.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Biochemie der Pflanzen', 'link': ' "https://www.bpf.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': ' "Abt. für Systemphysiologie', 'link': ' "https://www.sysphys.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Neurophysiologie', 'link': ' "https://www.ruhr-uni-bochum.de/neurophys/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Systemische Neurowissenschaften', 'link': ' "https://www.ruhr-uni-bochum.de/sysnw/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Zelluläre Physiologie', 'link': ' "https://www.zellphys.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Molekulare Zellbiologie', 'link': ' "https://www.winklhoferlab.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Systembiochemie', 'link': ' "https://www.ruhr-uni-bochum.de/biochem/system/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Zellbiochemie', 'link': ' "https://www.ruhr-uni-bochum.de/physiolchem/zellbiochemie/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Biochemie neurodegenerativer Erkrankungen', 'link': ' "https://www.tatzeltlab.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Biochemie der Mikroorganismen', 'link': ' "https://www.microbiochem.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Pharmakologie und Toxikologie', 'link': ' "https://www.ruhr-uni-bochum.de/pharma/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Klinische Pharmakologie ', 'link': ' "', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Hygiene, Sozial- und Umweltmedizin', 'link': ' "https://www.ruhr-uni-bochum.de/umweltmedizin/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Medizinische Mikrobiologie', 'link': ' "https://memiserf.medmikro.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Molekulare und Medizinische Virologie', 'link': ' "https://virologie-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Medizinische Psychologie und Medizinische Soziologie', 'link': ' "https://www.medpsych.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Medizinische Ethik und Geschichte der Medizin', 'link': ' "https://ethik.geschichte.med.blogs.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Anatomie und Molekulare Embryologie', 'link': ' "https://www.anatomie.ruhr-uni-bochum.de/en/start-2/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Neuroanatomie und Molekulare Hirnforschung', 'link': ' "http://neuroanatomie.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Cytologie', 'link': ' "https://www.cytologie.ruhr-uni-bochum.de/de/start/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Humangenetik', 'link': ' "https://www.ruhr-uni-bochum.de/mhg/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Allgemeinmedizin', 'link': ' "https://amrub.nrw/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Molekulare Gastroenterologische Onkologie', 'link': ' "https://www.ruhr-uni-bochum.de/mgo/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Medizinische Informatik, Biometrie und Epidemiologie', 'link': ' "https://www.amib.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}
+{'name': ' "Abt. für Molekulare Immunologie', 'link': ' "https://www.molimmu.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Medizinische Fakultät'}

@@ -1,0 +1,13 @@
+{'name': 'Fakultät für Medizin', 'link': 'https://www.uni-due.de/imperia/md/content/diversity/felderhoof_muöser_preistraöger2014.pdf', 'upper': 'ude'}
+{'name': 'Fakultät für Sozialwissenschaft', 'link': 'None', 'upper': 'ude'}
+{'name': 'Medizinische Fakultät', 'link': 'https://www.uni-due.de/med', 'upper': 'ude'}
+{'name': 'Fakultät für Wirtschaftswissenschaften', 'link': 'https://www.wiwi.uni-due.de', 'upper': 'ude'}
+{'name': 'Fakultät für Bildungswissenschaften', 'link': 'https://www.uni-due.de/biwi/', 'upper': 'ude'}
+{'name': 'Fakultät für Gesellschaftswissenschaften', 'link': 'https://www.uni-due.de/iaq/', 'upper': 'ude'}
+{'name': 'Fakultät für Ingenieurwissenschaften', 'link': 'https://www.uni-due.de/iw/de', 'upper': 'ude'}
+{'name': 'Fakultät für Biologie', 'link': 'https://www.uni-due.de/biologie', 'upper': 'ude'}
+{'name': 'Fakultät für Geisteswissenschaften', 'link': 'https://www.uni-due.de/geisteswissenschaften/', 'upper': 'ude'}
+{'name': 'Fakultät für Chemie', 'link': 'https://www.uni-due.de/chemie', 'upper': 'ude'}
+{'name': 'Fakultät für Mathematik', 'link': 'https://www.uni-due.de/mathematik', 'upper': 'ude'}
+{'name': 'Fakultät für Physik', 'link': 'https://www.uni-due.de/physik', 'upper': 'ude'}
+{'name': 'Fakultät für Betriebswirtschaftslehre', 'link': 'https://www.msm.uni-due.de/mercator-school-of-management/', 'upper': 'ude'}

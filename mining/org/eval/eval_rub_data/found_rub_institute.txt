@@ -1,0 +1,755 @@
+{'name': 'Institut für Neuroinformatik', 'link': 'https://www.ini.rub.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für ökonomische Bildung', 'link': 'https://www2.wiwi.rub.de/zfoeb/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Arbeitswissenschaft', 'link': 'https://www.iaw.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für IT-Sicherheit', 'link': 'https://hgi.rub.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Geologie', 'link': 'https://www.gmg.ruhr-uni-bochum.de/institut-geologie-mineralogie-und-geophysik', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Mechanik', 'link': 'https://www.ruhr-uni-bochum.de/mechanik/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Fremdsprachenausbildung', 'link': 'http://www.zfa.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Religion und Gesellschaft', 'link': 'http://www.ev.ruhr-uni-bochum.de/pt-karle/ifrg.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Erziehungswissenschaft', 'link': 'https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/index.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Werkstoffe', 'link': 'http://www.iw.rub.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Unternehmensführung', 'link': 'https://www.ifu.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für interdisziplinäre Regionalforschung', 'link': 'http://www.zefir.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Freiburg Karlsruher Institut für Technologie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Experimentalphysik', 'link': 'https://www.ep1.ruhr-uni-bochum.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Berg- und Energierecht', 'link': 'https://news.rub.de/wissenschaft/2021-05-17-digitale-jahrestagung-rechtsrahmen-fuer-die-wasserstoffwirtschaft', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Technologie', 'link': 'https://sfb1475.ruhr-uni-bochum.de/de/person/dtonne/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Luft- und Raumfahrt', 'link': 'https://www.geographie.rub.de/projekte/00251-nachtlichter.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Physiologie', 'link': 'http://www.py.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Biochemie', 'link': 'http://www.ruhr-uni-bochum.de/biochem/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Thermo- und Fluiddynamik', 'link': 'https://www.itf.ruhr-uni-bochum.de/index.html', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Anatomie', 'link': 'http://www.ruhr-uni-bochum.de/anatomie/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Medizinische Lehre', 'link': 'http://www.zml.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Mittelmeerstudien', 'link': 'http://www.zms.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Sicherheit und Privatsphäre', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Fremd-sprachenausbildung', 'link': 'https://www.zfa.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Eisenforschung', 'link': 'https://news.rub.de/english/press-releases/2020-05-14-materials-science-how-interstitial-ordering-affects-high-strength-steels', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Hygiene', 'link': 'https://www.medizin.ruhr-uni-bochum.de/institute/index.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Medizinische Psychologie', 'link': 'https://www.medizin.ruhr-uni-bochum.de/institute/medpsy.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Pharmakologie', 'link': 'http://www.ruhr-uni-bochum.de/pharma/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Theoretische Physik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Wirtschaftsforschung', 'link': 'https://news.rub.de/leute/2023-01-12-wirtschaftswissenschaft-kati-kraehnert-sucht-antworten-auf-dringende-fragen-des-klimawandels', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für soziale Bewegungen', 'link': 'http://www.isb.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Hochschuldidaktik', 'link': 'https://news.rub.de/studium/2018-07-06-lehre-zentrum-fuer-hochschuldidaktik-der-mathematik-eroeffnet', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für angewandte Pastoralforschung', 'link': 'https://news.rub.de/vermischtes/2023-02-22-ausschreibung-innovative-pastorale-konzepte-gesucht', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Pathologie', 'link': 'https://www.bionet.ruhr-uni-bochum.de/biodb/partner/pathologie.html', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Energiesystemtechnik und Leistungsmechatronik', 'link': 'https://etit.ruhr-uni-bochum.de/news/detail/enesys/workshop-windegration/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Forschungseinrichtungen Leibniz-Institut für Angewandte Geowissenschaften', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Grenzflächendominierte Höchstleistungswerkstoffe', 'link': 'http://zgh.rub.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Entwicklungsforschung', 'link': 'https://forschung.ruhr-uni-bochum.de/de/institut-fuer-entwicklungsforschung-und-entwicklungspolitik-iee', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Forschung und Lehre', 'link': 'https://news.rub.de/hochschulpolitik/2019-12-11-einweihung-das-institut-fuer-forschung-und-lehre-ist-eroeffnet', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Germanistik', 'link': 'https://germanistik.blogs.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Prävention und Arbeitsmedizin', 'link': 'http://www.ipa.ruhr-uni-bochum.de/ipa/index.php', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Kirche und Gesellschaft', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Mineralogie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Deutsche', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Soziale Bewegungen', 'link': 'http://www.isb.ruhr-uni-bochum.de/isb/index.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Geschichte', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Interdisziplinäre Zentrum für Geoinformationen', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Geographie', 'link': 'https://www.geographie.rub.de/projekte/00033-lelina.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Windenergiesysteme', 'link': 'https://news.rub.de/hochschulpolitik/2021-06-24-kooperation-die-rub-errichtet-ein-kompetenzzentrum-fuer-windenergie', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Laboratoriums- und Transfusionsmedizin', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Geowissenschaften', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Energietechnik', 'link': 'https://www.ie.ruhr-uni-bochum.de/ie/index.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Landes- und Stadtentwicklungsforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Chemie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Physik', 'link': 'https://www.ruhr-uni-bochum.de/for2982/Research Team TP 4.html', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Proteinforschung', 'link': 'https://studra.ruhr-uni-bochum.de/?p=159&lang=de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Medienkultur und Theater', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Kommunikationsakustik', 'link': 'https://www.ruhr-uni-bochum.de/ika/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Psychologie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Pädagogik', 'link': 'http://www.ife.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Seelische Gesundheit', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für medizinische Lehre', 'link': 'http://www.zml.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für angewandte Geophysik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für schulpraktische Lehrerausbildung', 'link': 'https://www.pse.rub.de/informationsveranstaltung-zum-referendariat-2/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Journalistik', 'link': 'https://sechuman.ruhr-uni-bochum.de/team/promovierende/jan-rensinghoff', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Astronomie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Kirchliches Arbeitsrecht', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Agrarlandschaftsforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Umweltphysik', 'link': 'https://www.geographie.rub.de/projekte/00161-clim4edu.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Umweltforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Max-Planck-Institut für Chemische EnergiekonversionStiftstrasse', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Zellbiologie und Biophysik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Kernphysik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Klima', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Diagnostik und Intervention', 'link': 'http://www.sport.ruhr-uni-bochum.de/de/zentrum-fuer-diagnostik-und-intervention-zedi', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Interdisziplinäre Regionalforschung', 'link': 'http://www.ruhr-uni-bochum.de/zefir/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Christliche', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Innovation', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Interdisziplinäre Ruhrgebietsforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Aufbereitung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Planetenforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Angewandte', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Kredit- und Finanzwirtschaft', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Plasmaphysik', 'link': 'https://www.aept.ruhr-uni-bochum.de/en/team/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Informatik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Ostasienwissenschaften', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für deutsche Literatur', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für medizinische Ethik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Brandenburgisches Zentrum für Medienwissenschaften', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Archäologie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Sportpsychologie', 'link': 'http://sport.ruhr-uni-bochum.de/de/zentrum-fuer-sportpsychologie', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für interdisziplinäre Forschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Evangelische Theologie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Festkörperphysik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Lebensmittel- und Ressourcenökonomik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Medizinische Ethik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Angewandte Theaterwissenschaft', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Katholische Theologie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Soziologie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Angewandte Geophysik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Geomatik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Internationale Pädagogische Forschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Marketing', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Radioastronomie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Theologie und Frieden', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Interdisziplinäres Institut für Forschung und Lehre', 'link': 'https://www.medizin.ruhr-uni-bochum.de/dekanat/ifl/index.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für grenzflächendominierte Höchstleistungswerkstoffe', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Neuroradiologie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Sport', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Europäische Wirtschaftsforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Argelander Institut für Astronomie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Energie und Klimaforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Kulturgeographie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Philosophie und Kunstwissenschaft', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Theologische Zoologie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Urban Public Health', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Planck Institut für biophysikalische ChemieAm Fassberg', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Entrepreneurship', 'link': 'http://www.wiwi.ruhr-uni-bochum.de/ceit/index.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für interdisziplinäre Ruhrgebietsforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Energie- und Klimaforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Genossenschaftswesen', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Kunst- und Bildgeschichte', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Materialphysik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Medienforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Musikwissenschaft', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für System- und Innovationsforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Rostocker Institut für Philosophie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Ethik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Qualitätssicherung und -entwicklung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Sportmedizin', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Gesellschaft Fraunhofer-Institut für System- und Innovationsforschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Vertriebsforschung', 'link': 'https://smd.rub.de/div/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Johannes Müller Institut für Physiologie', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Kieler Institut für Weltwirtschaft', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Leibnitz Institut für Angewandte Geophysik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Sonnenenergie- und Wasserstoff-Forschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Umfragen', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Astrophysik', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Deutsch-Chinesische Hochschulkooperation', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für kirchliches Arbeitsrecht', 'link': 'https://zrsweb.zrs.rub.de/lehrstuhl/joussen/institut-fuer-kirchliches-arbeitsrecht/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Planck Institut für Sicherheit', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Altersmedizin', 'link': 'https://www.medizin.ruhr-uni-bochum.de/mam/content/forum/zentrum_für_altersmedizin.pdf', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Forschung', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Onkologisches Zentrum', 'link': 'http://www.uk.rub.de/zentren/ruc.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Historisches Institut', 'link': 'http://www.ruhr-uni-bochum.de/geschichte/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Ökumenisches Institut', 'link': 'http://www.ev.ruhr-uni-bochum.de/oekumenisches_institut/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Geographischen Institut', 'link': 'https://news.rub.de/wissenschaft/2021-10-21-geowissenschaft-nachhaltige-staedte-und-biodiversitaet', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Geographische Institut', 'link': 'https://news.rub.de/vermischtes/2018-12-04-schuelerwettbewerb-einen-dosensatelliten-bauen', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Musisches Zentrum', 'link': 'https://www.ruhr-uni-bochum.de/universaal/besonderes/mz.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Germanistischen Institut', 'link': 'https://germanistik.blogs.ruhr-uni-bochum.de/ein-etwas-anderer-umzug-forschungsbibliothek-zum-ruhrdeutschen-kommt-zum-germanistischen-institut-der-rub/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Musischen Zentrum', 'link': 'https://optio.ruhr-uni-bochum.de/index.php/der-raum-zwischen-zwei-flaechen-kuenstlerisches-handeln-mit-analogen-gestaltungsmitteln/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Philosophy', 'link': 'https://www.pe.ruhr-uni-bochum.de/philosophie/ii/institut/index.html.en', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Energy', 'link': 'http://www.leat.rub.de/index.php?do=institut.html&lang=englisch', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Sprachwissenschaftliches Institut', 'link': 'https://sfb1475.ruhr-uni-bochum.de/de/veranstaltung/ringvorlesung-metapher-03-11-2022/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Security', 'link': 'https://hgi.rub.de/en/news/newsarchiv/hgi/the-max-planck-society-founds-a-new-institute-for-security-and-privacy-in-bochum', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Horst Görtz Institute for IT-Security', 'link': 'http://www.hgi.rub.de/hgi/news/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Deutsches Zentrum', 'link': 'https://www.ee.ruhr-uni-bochum.de/ee/team/krbek.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Medical', 'link': 'https://ethik.geschichte.med.blogs.ruhr-uni-bochum.de/en/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for IT-Security', 'link': 'http://www.hgi.rub.de/hgi/news/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Geology', 'link': 'https://www.gmg.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Media', 'link': 'http://www.ruhr-uni-bochum.de/ifm/index_en.html', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Astronomisches Institut', 'link': 'http://www.astro.rub.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Bochumer Institut', 'link': 'https://news.rub.de/presseinformationen/studium/2017-06-06-geografie-bochumer-institut-im-copernicus-academy-network', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Research', 'link': 'https://ceres.rub.de/de/person/erika-forte/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Neues Zentrum', 'link': 'https://news.rub.de/presseinformationen/hochschulpolitik/2016-12-08-it-sicherheit-neues-zentrum-fuer-internetforschung-bochum', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Bochumer Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Neural Computation', 'link': 'http://www.neuroinformatik.ruhr-uni-bochum.de/index.html.en ', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Deutsches Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Technischen Zentrum', 'link': 'https://news.rub.de/vermischtes/2017-01-26-energieversorgung-startschuss-am-technischen-zentrum', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Kulturwissenschaftliches Institut', 'link': 'https://dev.sowi.ruhr-uni-bochum.de/mam/praktika/ausschreibung-shk_kwi.pdf', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Theoretical', 'link': 'https://rdpci.rub.de/index.php/guests/guests-aept/guests-at-n-sti-tu-te-for-elec-tri-cal-en-gi-nee-ring-and-plas-ma-tech-no-lo-gy-3', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Musische Zentrum', 'link': 'https://news.rub.de/hochschulpolitik/2017-06-28-kulturangebot-das-musische-zentrum-veraendert-sich', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Kulturwissenschaftliche Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Wuppertal Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Fraunhofer Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Neuroinformatics', 'link': 'https://www.compeng.ruhr-uni-bochum.de/ce/people/teaching-staff.html.en#institute_neuroinformatics', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Partner Institute for Computational Biology', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Historische Institut', 'link': 'http://www.gw.ruhr-uni-bochum.de/forschung/index.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Mining', 'link': 'https://www.ruhr-uni-bochum.de/ibe/index.htm', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Economic Research', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Internationales Zentrum', 'link': 'https://news.rub.de/presseinformationen/hochschulpolitik/2019-03-08-gender-studies-internationales-zentrum-gegruendet', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Religion', 'link': 'http://www.ev.ruhr-uni-bochum.de/pt-karle/ifrg.html.en', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Max-Planck Institute for Plasma-Physics', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Educational', 'link': 'https://ife.rub.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Leibniz Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'German Institute for Development Evaluation', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Biochemistry', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Product', 'link': 'http://www.ipse.rub.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'German Institute for Economic', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Electrical', 'link': 'https://rdpci.rub.de/index.php/guests/guests-aept', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Ökumenischen Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Astronomischen Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Protein Research', 'link': 'https://studra.ruhr-uni-bochum.de/?p=159&lang=en', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Evolutionary Anthropology', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Power', 'link': 'https://www.ie.rub.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Astronomy', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Ökumenische Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'National Institute for Standards', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Planck Institute for Evolutionary', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Physikalisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Astronomische Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Plasma Physics', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Medizinisches Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Strategy', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Physics', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Erich-Brost Institut', 'link': 'http://ifm.rub.de/2019/05/internationale-tagung-24-25-oktober-am-erich-brost-institut-dortmund/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Planck Institute for Psycholinguistics', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Kunsthistorischen Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Virtuelles Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Interdisziplinären Zentrum', 'link': 'http://www.izg.rub.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Richtung Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Berliner Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Cultural Inquiry', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Technology', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Mineralogy', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Archäologischen Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Goethe Institut', 'link': 'https://www.ruhr-uni-bochum.de/newsarchiv-international/ausland/aktuelles/ausl00534.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Metals Research', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Interdisziplinäres Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Neues Institut', 'link': 'https://news.rub.de/wissenschaft/2018-08-03-neues-institut-kirchliches-arbeitsrecht-europafest-machen', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Erich Auerbach Institute for Advanced', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Helmholtz Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Materials Physics', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Satzung Institut', 'link': 'https://www.pe.ruhr-uni-bochum.de/mam/fakultaet/content/organisation/ab1452.pdf', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Deutsche Institut', 'link': 'https://smd.rub.de/div/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Climate', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'National Institute for Fusion Science', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Training', 'link': 'https://www.lde.ruhr-uni-bochum.de/en/proar/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Interdisziplinäre Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Physikalischen Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Corporate Management', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for European', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Mathematical', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Berlin Institute for Public Theology', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'MUSISCHES ZENTRUM', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Geografischen Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Grimme Institut', 'link': 'https://dev.sowi.ruhr-uni-bochum.de/mam/praktika/praktikum_grimme_institut.pdf', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for German', 'link': 'https://einrichtungen.ruhr-uni-bochum.de/en/martina-kelm', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Language', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Progressive Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Archäologische Wissenschaften Institut', 'link': 'https://www.ruhr-uni-bochum.de/archaeologie/personal/klein.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Federal Institute for Sport Science', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Frauenhofer Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Horst- Görtz- Institut', 'link': 'https://hgi.rub.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'RUHR- Zentrum', 'link': 'https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/qua-for/news/akt00004.html.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Rheinisch-Westfälisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Bonner Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Central Institute for Mental Health', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Horst-Görtz Institut', 'link': 'http://syssec.rub.de/chair/staff/martindegeling/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Industrial', 'link': 'https://www.iaw.rub.de', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Mechanics', 'link': 'https://www.ruhr-uni-bochum.de/mechanik/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Planck Institute for Radio Astronomy', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Weizenbaum Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Bochum Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Astrophysics', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Science & Institute for Complex Systems', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Global Environmental Strategies', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Integrated Management', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Physical Chemistry', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Quantum', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Pestel Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Radioastronomischen Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Rheinisch-Westfälischen Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Slavischen Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Thünen Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Virginia Institute for Psychiatric', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Fraunhofer UMSICHT-Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Geothermie Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Analytical', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for BioEnergy', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Psychological Psychotherapy Bochum', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institute for Technical', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Philosophischen Institut', 'link': None, 'uni': 'rub', 'type': 'institute'}
+{'name': 'Polnisches Institut', 'link': 'https://osteuropastudien.blogs.ruhr-uni-bochum.de/polnisches-institut/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Wissenschaftsdidaktik', 'link': 'https://elearning.blogs.ruhr-uni-bochum.de/tag/zentrum-fuer-wissenschaftsdidaktik/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Institut für Medienwissenschaft', 'link': 'https://ifmlog.blogs.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute'}
+{'name': 'Zentrum für Psychotherapie', 'link': 'https://news.rub.de/wissenschaft/2022-02-11-teilnehmende-gesucht-suizidgedanken-ueberwinden-und-suizidversuche-aufarbeiten', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Protein-Diagnostik', 'link': 'https://news.rub.de/presseinformationen/hochschulpolitik/2019-06-03-forschungsbau-eingeweiht-start-fuer-das-zentrum-fuer-protein-diagnostik', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Glücksspiel und Gesellschaft', 'link': 'https://news.rub.de/hochschulpolitik/2019-03-22-jura-institut-fuer-gluecksspiel-und-gesellschaft-der-rub-eroeffnet', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für angeborene Herzfehler', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Sozial- und Gesundheitsrecht', 'link': 'https://www.isgr.rub.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Internetforschung', 'link': 'https://news.rub.de/presseinformationen/hochschulpolitik/2017-01-26-einladung-zentrum-fuer-internetforschung-wird-eroeffnet', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Arabistik', 'link': 'https://www.ruhr-uni-bochum.de/orient/index.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Oeynhausener Zentrum für Angeborene Herzfehler', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Kunstgeschichte', 'link': 'http://www.kunstgeschichte.rub.de/studium/ordnungen/index.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Gesundheit und Entwicklung', 'link': 'http://www.psy.ruhr-uni-bochum.de/ige/index.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Institut für Archäologische Wissenschaften', 'link': 'http://www.ruhr-uni-bochum.de/archaeologie/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Medizinische Ethik', 'link': 'https://ethik.geschichte.med.blogs.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Umweltressourcenmanagement', 'link': 'https://www.ruhr-uni-bochum.de/reb/zum/index.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Zentrum für Proteindiagnostik', 'link': 'https://news.rub.de/vermischtes/2023-02-22-weltweiter-aktionstag-ein-zeichen-fuer-die-seltenen', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Friedenssicherungsrecht und Humanitäres Völkerrecht', 'link': 'https://news.rub.de/vermischtes/2020-03-26-rub-initiative-blutspendezentrum-hagen-sucht-freiwillige-helferinnen-und-helfer', 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Südafrikanisch-Deutsche Zentrum für Entwicklungsforschung', 'link': 'https://news.rub.de/wissenschaft/2021-10-26-entwicklungszusammenarbeit-ausbildung-und-forschung-afrika-unterstuetzen', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für IT-Sicherheit', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Studienerfolg und Didaktik', 'link': 'https://germanistik.blogs.ruhr-uni-bochum.de/das-institut-fuer-studienerfolg-und-didaktik-isd-der-hochschule-bochum-sucht-studentische-oder-wissenschaftliche-hilfskraefte/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Allgemeinmedizin', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Virologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Wissenschaftsgeschichte', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für simulationsbasierte Lehre', 'link': 'https://lehrmuster.ruhr-uni-bochum.de/tag/zentrum-fuer-simulationsbasierte-lehre/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Muskelforschung', 'link': 'http://dev.uk.rub.de/aktuell/bmh/meldung00331.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Protest- und Bewegungsforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Leibniz-Institut für Arbeitsforschung', 'link': 'https://www.ruhr-uni-bochum.de/neuropsy/kooperationen_lehre.html', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Theaterwissenschaft', 'link': 'http://www.theater.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Bochumer Institut für Philosophie II', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für russische Kultur', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Institut für Deutschlandforschung', 'link': 'https://www.ruhr-uni-bochum.de/deutschlandforschung/', 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Institut für Kognitive Neurowissenschaft', 'link': 'http://www.ikn.psy.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Geometrie', 'link': 'http://www.floer.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Diaspora- und Genozidforschung', 'link': 'http://www.idg.rub.de/index.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': 'Institut für Geistiges Eigentum', 'link': 'https://juraweb.zrs.rub.de/node/2777', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Radiologie', 'link': 'http://dev.uk.rub.de/aktuell/kkh/meldung00362.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Kohlenforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für deutsche Sprache', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Ruhr-Institut für Kinder- und Jugendlichenpsychotherapie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Bochumer Max-Planck-Institut für Sicherheit und Privatsphäre', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Deutsches Zentrum für Lehrerbildung Mathematik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Zentrum für Studienberatung und Prüfungsangelegenheiten', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Fremdsprachen ausbildung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Elektrochemie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Psychische Gesundheit', 'link': 'https://news.rub.de/hochschulpolitik/2023-04-27-aufbauphase-das-deutsche-zentrum-fuer-psychische-gesundheit-startet', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Chinesisch-Deutschen Zentrum für Maschinenbau', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für sexuelle Gesundheit', 'link': 'http://www.uk.rub.de/zentren/zsg.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Zentrum für Klinische Forschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Talentförderung', 'link': 'https://studium.ruhr-uni-bochum.de/de/5talentforum-im-nrw-zentrum-fuer-talentfoerderung', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Institut für Sozialforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Klassische Philologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für innovative Mikroelektronik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für klinische Forschung', 'link': 'https://einrichtungen.ruhr-uni-bochum.de/de/wcs-mit-ausstattung-fuer-menschen-mit-beeintraechtigungen', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Mikroelektronische Schaltungen und Systeme', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Neugermanistik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Anästhesiologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Bochumer Max-Planck-Institut für Cybersicherheit und Schutz der Privatsphäre', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Produktionstechnik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Recht und Ökonomik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für Experimentelle und Klinische Infektionsforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'CISPA Helmholtz-Zentrum für Informationssicherheit', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'GESIS Leibniz-Institut für Sozialwissenschaften', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Institut für Materialsimulation', 'link': 'https://news.rub.de/hochschulpolitik/2018-06-25-jubilaeum-materialsimulation-gestern-heute-und-morgen', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Medien- und Kulturwissenschaft', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Wissensmedien', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Zentrum für Europäische Geschlechterstudien', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Arbeitsrecht', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Kognitionswissenschaft', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Plasma- und Atomphysik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Sprache', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Versicherungsrecht', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Wissenschaftskommunikation', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Hämatologische Neoplasien', 'link': 'http://www.uk.rub.de/aktuell/kkh/meldung01007.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Zentrum für Stadtgeschichte', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für digitales Lehren und Lernen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Psychologie'}
+{'name': 'Institut für Hochfrequenztechnik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Koreastudien', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Literatur und Kultur der Arbeitswelt', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Fraunhofer-Institut für Hochfrequenzphysik und Radartechnik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Herzinsuffizienz', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Zentrum für Literatur- und Kulturforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Neurorobotales Bewegungstraining', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Zentrum für Tiefe Hirnstimulation und Neuromodulation', 'link': 'http://dev.uk.rub.de/aktuell/kkh/meldung00447.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Zentrum für molekulare Proteindiagnostik', 'link': 'http://aktuell.ruhr-uni-bochum.de/pm2014/pm00104.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Biologie'}
+{'name': 'Institut für Europäische Geschichte', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': 'Institut für Materialfluss und Logistik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Nanotechnologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Russische Kultur', 'link': 'http://www.slavistik.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Institut für Sozialwissenschaften', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Zentrum für Biomedizin', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Auslandsbeziehungen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Zentrum für Entwicklungsforschung', 'link': 'https://news.rub.de/wissenschaft/2021-10-26-entwicklungszusammenarbeit-ausbildung-und-forschung-afrika-unterstuetzen', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Konstruktiven Ingenieurbau', 'link': 'https://www.kibkon.ruhr-uni-bochum.de/kibkon/mitarbeiter/index.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Institut für Mathematik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Bildungsforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Institut für Cyber Security', 'link': 'https://news.rub.de/hochschulpolitik/2018-11-23-it-sicherheit-warum-das-ruhrgebiet-der-optimale-standort-ist', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Organische Chemie', 'link': 'https://www.ruhr-uni-bochum.de/for2982/Research Team TP 2.html', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Zentrum für Start-ups', 'link': 'https://news.rub.de/presseinformationen/hochschulpolitik/2019-12-05-medieneinladung-neues-zentrum-fuer-start-ups-wird-eroeffnet', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Leibniz Institut für Neurobiologie Magdeburg', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Management', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Informations- und Mediendienste', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Informationssicherheit', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Diagnostische und Interventionelle Radiologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für archäologische Wissenschaften', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'INBAS Institut für berufliche Bildung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Armenische Studien', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Hochfrequenzphysik und Radartechnik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Sonderpädagogik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Neurodegenerative Erkrankungen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für molekulare Spektroskopie und Simulation', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Biologie'}
+{'name': 'Deutsche Zentrum für Hochschul- und Wissenschaftsforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Institut für Amerikanistik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Analytische Wissenschaften', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Arbeitsmarkt- und Berufsforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Automatisierungstechnik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Energie-System', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Konstruktionstechnik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Friedenssicherungsrecht und humanitäres Völkerrecht', 'link': 'https://sechuman.ruhr-uni-bochum.de/team/promovierende/stephan-kolossa', 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Institut für Humangenetik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Institut für Plasmaforschung und Technologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Stadtbauwesen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Technikfolgenabschätzung und System Analyse', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Karlsruher Institut für Technology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Verkehrswesen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für angewandte Telemedizin', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Hanna Klessmann-Institut für kardiovaskuläre Forschung und Entwicklung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Nationales Institut für Wissenschaftskommunikation', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Europäische Geschichts- und Kulturwissenschaften', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Schweizer Institut für Schnee- und Lawinenforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Sichere Informationstechnologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Weiterbildung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für ausländisches und internationales Privatrecht', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für empirische Integrations- und Migrationsforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für moderne Sprachen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für russische und sowjetische Kultur', 'link': 'http://www.lotman.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Literaturforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Zeithistorische Forschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für interdisziplinäre Medienwissenschaft', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Fraunhofer-Institut für Mikroelektronische Schaltungen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Angewandte Telemedizin', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Menschenrechte', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Pharmazeutische Biologie und Biotechnologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Mannheim Institut für Public Health', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Umweltsystemforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Unternehmungsführung', 'link': 'http://www.ifu.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Vergleichende Sozialforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Werkstoffkunde I', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Zeitgeschichte', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'aQua-Institut für angewandte Qualitätsförderung und Forschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für ausländisches öffentliches Recht', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für extraterrestrische Physik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für geographische Wissenschaften Arbeitsbereich', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für systemische Neurowissenschaften', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für theoretische Biologie der Humboldt', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Totalitarismusforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Zukunftsstudien', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für kognitive Neurowissenschaft', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Brandverletzte', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Zentrum für Erinnerungskultur', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für Kunst', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Lehren und Lernen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Nachhaltigkeitstransformation', 'link': 'https://news.rub.de/leute/2023-04-11-interview-rub-nachhaltigkeitsexperte-ist-auch-am-niederrhein-gefragt', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für Sexuelle Gesundheit und Medizin', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für familiär vererbten Darmkrebs', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Bonner Zentrum für Lehrerbildung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Deutschen Zentrum für Marine Biodiversitätsforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Infektionsforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für Integriertes Umweltressourcenmanagement', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Lernen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Molekulare Materialien', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für internationale Geschlechterforschung', 'link': 'https://news.rub.de/hochschulpolitik/2019-06-25-bilderstrecke-netzwerke-sind-der-grund-warum-die-gender-studies-stark-sind', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Deutschen Zentrum für Lehrerbildung Mathematik', 'link': 'https://news.rub.de/hochschulpolitik/2021-12-10-lehrkraeftebildung-weiterer-schub-fuer-die-mathematische-fortbildung', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Fraunhofer-Institut für Materialfluss und Logistik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Herz-Kreislauf-Forschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Zentrum für Kinder- und Jugendpsychotherapie', 'link': 'http://kiju-zpt.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Deutsche Zentrum für Lehrerbildung Mathematik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Duden Institut für Lerntherapie', 'link': 'https://germanistik.blogs.ruhr-uni-bochum.de/einladung-zu-einem-kostenfreien-seminar-der-duden-institut-fuer-lerntherapie/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Angewandte Mathematik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Festkörper- und Werkstoffforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Felix-Boch Institut für Festkörperphysik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Demokratie und Zivilgesellschaft', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Diabetesforschung und Metabolische Erkrankungen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Europäische Ethnologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Institut für Festkörpertheorie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Massivbau', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Mikro- und Nanotechnologien', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Politikwissenschaft', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Umwelttechnik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für molekulare Physiologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Biologie'}
+{'name': 'Max-Planck-Institut für Menschheitsgeschichte', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Angewandte Kreativität', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Architektur', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Biologie II', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Botanik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Demoskopie Allensbach', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Gesellschaft', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Gewässerökologie und Binnenfischerei', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Internet-Sicherheit', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Mikrobiologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Neuere deutsche Literatur', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Romanistik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Baumaschinen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Institut für Diversitätsforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Elektrochemie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Psychologie'}
+{'name': 'Institut für Experimentelle Molekulare Bildgebung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Friedenssicherung und Humanitäres Völkerrecht', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Journalismus', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Katalyse', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Siedlungswasserwirtschaft', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für angewandte Innovationsforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für unterirdische Infrastruktur', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Kunstgeschichtliche Institut', 'link': 'https://news.rub.de/studium/2022-04-28-kooperation-neue-architekturdenkmaeler-bochum-entdecken', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Leibniz Institute for Human Factors Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Weierstrass Institute for Applied Analysis', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Planck Institute for Biological Cybernetics', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Joint Institute for Nuclear Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Physiology', 'link': 'http://www.py.ruhr-uni-bochum.de/lehre/ss16/Index.html', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Heimer Institut', 'link': 'http://dev.uk.rub.de/aktuell/bmh/meldung00331.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Neuroscience', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Bochumer Horst-Görtz-Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Psychologie'}
+{'name': 'Institut für Öffentliches Recht', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Anästhesiologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Zentrum für Fremdsprachen-Ausbildung', 'link': 'http://www.ruhr-uni-bochum.de/zfa/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Innere Medizin', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Zentrum für Klinische Studien', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Zentrum für Künstliche Intelligenz', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Zentrum für Lasermedizin', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für Lehre und Lernen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für Populäre Kultur und Musik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Zentrum für Religion und Gesellschaft', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für Weiterbildung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Anorganische Chemie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Privatsphäre und Sicherheit', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Schulentwicklungsforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Institut für Strahlen- und Kernphysik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Strahlenchemie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Städtebau', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Tribologie und Energiewandlungsmaschinen', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für angewandte Statistik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für chemische Energiekonversion', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Max-Planck-Institut für europäische Rechtsgeschichte', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für westfälische Regionalgeschichte', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Tübinger Institut für gender- und diversitätsbewusste Sozialforschung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Zentrum für Sozialforschung Halle', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Tunnelling', 'link': 'http://www.tlb.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Donders Institute for Brain', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Albright Institute for Archaeological Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Building Materials', 'link': 'https://www.baustoffe.ruhr-uni-bochum.de/bs/mam/content/wegbeschreibung_lehrstuhl.pdf', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Health', 'link': 'https://www.psy.ruhr-uni-bochum.de/psy/institute/ige.html.en', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Germanisitisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Cognitive Neuroscience', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'HUNTINGTON ZENTRUM', 'link': 'https://www.ruhr-uni-bochum.de/mhg/hz_nrw.php', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Zentrum für wissenschaftliche Weiterbildung', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Geographisches Institut', 'link': 'https://www.geographie.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sportwissenschaft'}
+{'name': 'Germanistisches Institut', 'link': 'https://germanistik.blogs.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Kunstgeschichtliches Institut', 'link': 'http://kgi.ruhr-uni-bochum.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Institute for Structural', 'link': 'http://www.sd.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': 'German Central Institute for Social Issues', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Germanistische Institut', 'link': 'https://germanistik.blogs.ruhr-uni-bochum.de/institutsstruktur/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'National Institute for Materials Science', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Floer Zentrum', 'link': 'http://www.floer.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Freiburg Institute for Advanced Studies', 'link': 'https://ceres.rub.de/de/aktuelles/forschungskollegs_dtl/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Diaspora', 'link': 'http://www.idg.rub.de/index.html.en', 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Mathematisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'China Institute for International Strategic Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Planck Institute for Experimental Medicine', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Historischen Institut', 'link': 'https://www.hibo.ruhr-uni-bochum.de/studium/index.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': 'Institut für Arbeiten', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institut für Digitale Kommunikationssysteme', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Geophysik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Grenzflächen- und Bioverfahrenstechnik', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institut für Informations- und Technikmanagement', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institut für Molekulare Physiologie', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Biologie'}
+{'name': 'unabhängigen Recherche-Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Deutsches Internet-Institut', 'link': 'https://news.rub.de/presseinformationen/hochschulpolitik/2017-05-23-deutsches-internet-institut-finalteilnahme-ist-ein-grosser-erfolg', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Biology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Planck Institute for Chemical Energy', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Frankfurt Institute for Advanced Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'International Institute for Asian Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Migration Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Archäologisches Institut', 'link': 'mailto:vilma.ruppiene@rub.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Leibniz Institute for Natural Product Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Institute for Stroke', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Institute for Cyber Security', 'link': 'https://news.rub.de/english/press-releases/2018-11-23-it-security-why-ruhr-area-perfect-location', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Nathan Kline Institute for Psychiatric Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Dieses Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Archeology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Biomagnetism', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Institute for Iranian Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Mathematics', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': 'Landes Sprachen Institut', 'link': 'https://ceres.rub.de/de/events/MethodandMethodology2/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Mittelstand-Digital Zentrum', 'link': 'https://dev3.imp10.ruhr-uni-bochum.de/lps/forschung/mdz.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Wolfson Institute for Biomedical Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'ausgezeichnetes Vorhofflimmer-Zentrum', 'link': 'http://www.uk.rub.de/aktuell/hdz/meldung01069.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institute for Computer', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Institute for Engineering', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Medizinische Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Teaser Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Oriental', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Systems Biology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Planck Institute for Cyber Security', 'link': 'https://news.rub.de/english/press-releases/2018-11-23-it-security-why-ruhr-area-perfect-location', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Buddhist Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Intelligent Systems', 'link': 'https://casa.rub.de/en/events/distinguished-lectures/infos/isabel-valera-max-planck-institute-for-intelligent-systems-tuebingen', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Kardiales Telemedizin-Zentrum', 'link': 'http://www.uk.rub.de/aktuell/hdz/meldung01191.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institute for Basic Science', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Freud Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'German Institute for Japanese Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Hector Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Ibero-Amerikanisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Insbesondere Silizium-Fehlstellen-Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Brain Cognition', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Institute for Genetics', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Institute for Internet', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Max-Planck-Institute for Neurological Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Planck Institute for Software Systems', 'link': 'https://casa.rub.de/en/events/distinguished-lectures/infos/elissa-redmiles-safety-society-group-max-planck-institute-for-software-systems', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Software Technology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for theoretical Computer Science', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Kennedy Institute for North American Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': 'zertifiziertes TAVI-Zentrum', 'link': 'http://dev.uk.rub.de/aktuell/hdz/meldung00530.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institute for Historical', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Sociology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Thermo', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for social Movements', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Behnkes Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'CAS-MPG Partner Institute for Compuational Biology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Catalan Institute for Advanced Research Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Philosophical Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Hamburger Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Institute for Indology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Kunsthistorisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Bochum Zentrum', 'link': 'https://ismrc.ceres.rub.de/en/accommodation/#Ibis_Hotel_Bochum_Zentrum', 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Institute for Chemical Energy Conversion', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Fraunhofer Institute for Environmental', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Institute for Neurobiology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Neumann Institute for Computing', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Tikvah Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Infrastructure', 'link': 'https://www.compeng.ruhr-uni-bochum.de/ce/people/institutes-and-chairs.html.en', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Nanotechnology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Leibniz Institute for Solid State', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'European Institute for Asian Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Hanna Klessmann-Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'IWRM-Themenworkshop Helmholtz-Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Tunneling', 'link': 'http://www.lkm.rub.de/institut/team/Balzani.html', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Statics', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Theatre', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Nationales Exzellenz-Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Paluno Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Robert Koch-Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Biologie'}
+{'name': 'Georg Eckert Institute for International Textbook Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Erstes Endoprothetik-Zentrum', 'link': 'http://dev.uk.rub.de/aktuell/kkh/meldung00377.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Hotel Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Neuroradiology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Oeynhausener Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institute for Prevention', 'link': 'http://www.ipa.ruhr-uni-bochum.de/e/index.php', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Bibliographisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Bochumer Max-Planck-Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for China Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Finger Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Karolinska Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Virtanen Institute for Molecular Sciences', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Kavli Institute for Systems Neuroscience', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Hertie Institute for Clinical Brain Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Namibia Institute for Democracy', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institute for Ethnic', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Institute for History', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Jewish Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'International Institute for Labor Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Metal Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Public Policy Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institute for Russian', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Institute for Southern Africa', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for theoretical physics IV', 'link': 'http://www.tp4.rub.de/index.php', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Neues Max-Planck-Institut', 'link': 'https://news.rub.de/hochschulpolitik/2019-05-03-neues-max-planck-institut-rub-freut-sich-ueber-positive-entscheidung', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Planck Institute for Biophysical Chemistry', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Microelectronic Circuits', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Pharmacology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Mercator Institute for China', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Planck Institute for Human Development', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Robert-Koch Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Biologie'}
+{'name': 'Weizmann Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Alemanisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Augustinus Memory-Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Botanisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Dutch Institute for Fundamental Energy Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Einziges ausgewiesenes Herzinsuffizienz-Zentrum', 'link': 'http://www.uk.rub.de/aktuell/hdz/meldung01034.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Hausdorff Research Institute for Mathematics', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'American Institute for Contemporary German Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Barcelona Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Ralph Bunche Institute for International Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'California Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Wissenschaftsstiftung Deutsch-Tschechisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Friedrich Miescher Institute for Biomedical Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Psychologie'}
+{'name': 'Hydrologischem Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Institute for Archaeology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Artificial Intelligence', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Planck Institute for Biological Intelligence', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Institute for Computational Design', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Magnetic Resonance Imaging', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Psychologie'}
+{'name': 'Institute for Surface', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'zertifiziertes Bluthochdruck-Zentrum', 'link': 'http://dev.uk.rub.de/aktuell/hdz/meldung00236.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institute for Bioengineering', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Institute for Diagnostic', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Hector Institute for Empirical Educational Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for International Relations', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'International Institute for Buddhist Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Computational Linguistics', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Materials Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Institute for Materials Testing', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Institute for Metallphysic', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Nuclear Waste Disposal', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Peace', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Leibniz Institute for Plasma Science', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Romance Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Scientific Computing', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Transport', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Water', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Royal Institute for International Relations', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Scherrer Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Sinzheimer Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Support Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Swiss-French Institute for Biblical Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Watson Institute for International', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Bochumer Huntington-Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Cognitive Science', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Korean Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Molecular Physiology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Karlsruhe Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Sprachwissenschaftliche Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Wissenschaftliches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Berliner Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Europäisches Exzellenz-Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Hochschuldidaktisches Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Biophysical Chemistry', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Brain Research', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for International Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Institute for Linguistics', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Ornithology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Sustainable Technologies', 'link': 'https://www.lde.ruhr-uni-bochum.de/en/vrplc/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Leitung Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Neurologisches Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Neuroonkologische Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Onkologische Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Ernst Ruska-Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Federal Institute for Materials', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Geophysikalisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Hamburg Institute for Advanced Study', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Helex Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Institute for Advanced Biomedical Technologies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Advanced Computer Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'International Institute for Social Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Kroatisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Max-Planck-Partner Institute for Computational Biology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Biologie'}
+{'name': 'National Institute for Japanese Language', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Oeynhausener Institut', 'link': 'http://dev.uk.rub.de/aktuell/hdz/meldung00768.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Religionswissenschaftliches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Samaria Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Staatliches Institut', 'link': 'https://ceres.rub.de/de/events/remio-gastvortrag-armen-kazaryan/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'TestDaF Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik'}
+{'name': 'Wichtiges Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Psychologie'}
+{'name': 'Zoologisches Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'direction Bochum-Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'neues OP-Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'unabhängige Aqua-Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'überregionales Herzinsuffizienz-Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Carney Institute for Brain Science', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Deutsch-Amerikanisches Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Deutsche Internet-Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Frank Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Fritz Perls Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Biological Studies', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Institute for Chemistry', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Planck Institute for Privacy', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Institute for Social Movement', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Research Institute for Sociotechnical Cyber Security', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Psychologie'}
+{'name': 'Institute for Vocational Education', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lotman Institut', 'link': 'http://www.slavistik.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': 'Onkologischen Zentrum', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': 'Planck Partner Institute for Computational Biology', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Biologie'}
+{'name': 'Religionswissenschaftliche Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Psychologie'}
+{'name': 'unabhängige Recherche-Institut', 'link': None, 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}

@@ -1,0 +1,4 @@
+instance = "https://localhost:9200"
+username = "elastic"
+password = "elastic"
+disable_security = true

@@ -1,0 +1,360 @@
+{'name': 'Lehrstuhl für Kirchengeschichte', 'link': 'https://www.kath.ruhr-uni-bochum.de/mnkg/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Exegese und Theologie', 'link': 'http://www.ev.ruhr-uni-bochum.de/at-ego/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Religionspädagogik', 'link': 'http://www.ev.ruhr-uni-bochum.de/religionspaedagogik/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Liturgiewissenschaft', 'link': 'https://dev.kath.ruhr-uni-bochum.de/liturgiewissenschaft/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Dogmatik', 'link': 'https://www.kath.ruhr-uni-bochum.de/dogmatik/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Industrial Sales', 'link': 'https://www.isse.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Christliche Gesellschaftslehre', 'link': 'http://www.ev.ruhr-uni-bochum.de/cg-jaehnichen/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Neues Testament', 'link': 'http://www.ev.ruhr-uni-bochum.de/nt-vonbendemann/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Systemsicherheit', 'link': 'https://informatik.rub.de/syssec/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Kirchen- und Christentumsgeschichte', 'link': 'http://www.ev.ruhr-uni-bochum.de/akm-greschat/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Lehr-Lernforschung', 'link': 'https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/lllf/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Betriebswirtschaftslehre', 'link': 'http://www.ruhr-uni-bochum.de/or/04_forschung/veroeffentlichungen/wp_2012_01.pdf', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Religionsphilosophie und Wissenschaftstheorie', 'link': 'https://www.kath.ruhr-uni-bochum.de/wissenschaftstheorie/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Thermodynamik', 'link': 'https://www.thermo.ruhr-uni-bochum.de/thermo/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Pastoraltheologie', 'link': 'https://www.kath.ruhr-uni-bochum.de/pastoral/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Ingenieurhydrologie und Wasserwirtschaft', 'link': 'https://www.hydrology.ruhr-uni-bochum.de/hydro/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Altes Testament', 'link': 'https://www.kath.ruhr-uni-bochum.de/at/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Medizinische Informatik, Biometrie und Epidemiologie', 'link': 'http://www.amib.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Didaktik der Chemie', 'link': 'http://www.ruhr-uni-bochum.de/didachem/index.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Kirchenrecht', 'link': 'https://www.kath.ruhr-uni-bochum.de/kirchenrecht/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Philosophisch-Theologische Grenzfragen', 'link': 'https://dev.kath.ruhr-uni-bochum.de/ph-th', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Wissenschaftstheorie', 'link': 'https://www.pe.ruhr-uni-bochum.de/philosophie/i/wtundwg/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Fundamentaltheologie', 'link': 'https://www.kath.ruhr-uni-bochum.de/fund-theol/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Medizinische Psychologie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Sozialpolitik', 'link': 'https://www.sowi2.ruhr-uni-bochum.de/sozialpolitik/politik/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Reformationsgeschichte', 'link': 'http://www.ev.ruhr-uni-bochum.de/reformationsgeschichte/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Experimentalphysik', 'link': 'http://sfb1316.ruhr-uni-bochum.de/index.php/https-update-joomla-org-language-details3-de-de/412-lehrstuhl-fuer-experimentalphysik-ii-wird-bei-fakultaetsfeier-mehrfach-geehrt', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Kontinuumsmechanik', 'link': 'http://www.lkm.rub.de/index.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Theologische Ethik', 'link': 'https://www.kath.ruhr-uni-bochum.de/theoleth/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Ethik', 'link': 'http://www.ev.ruhr-uni-bochum.de/systheol/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Pädagogische Psychologie', 'link': 'https://ife.rub.de/pp', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Molekulare und Medizinische Virologie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Digital Engineering', 'link': 'https://rus.ruhr-uni-bochum.de/frontseat-meeting-februar-2023/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Physikalische Chemie', 'link': 'http://www.rub.de/pc2', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Makroökonomik', 'link': 'https://news.rub.de/wissenschaft/2018-02-27-interview-oekonomie-und-verantwortung', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Ökumenik und Dogmatik', 'link': 'http://www.ev.ruhr-uni-bochum.de/st-oekumene/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Homiletik, Liturgik & Poimenik', 'link': 'http://www.ev.ruhr-uni-bochum.de/pt-karle/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Neurophysiologie', 'link': 'http://www.ruhr-uni-bochum.de/neurophys/membersofdepartment/funke.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Angewandte Festkörperphysik', 'link': 'http://www.afp.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Biophysik', 'link': 'http://www.bph.rub.de/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Elektronische Schaltungstechnik', 'link': 'https://etit.ruhr-uni-bochum.de/est/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Analytische Chemie', 'link': 'http://www.rub.de/anachem', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Sozialethik', 'link': 'https://www.kath.ruhr-uni-bochum.de/sozialethik/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Laseranwendungstechnik', 'link': 'https://news.rub.de/wissenschaft/2019-01-30-3d-modell-die-rub-im-zwergenformat', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Astronomie', 'link': 'https://www.astro.rub.de/Astronomie/index.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Plasma- und Atomphysik', 'link': 'http://www.ep5.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Didaktik und praktische Philosophie', 'link': 'https://www.pe.ruhr-uni-bochum.de/philosophie/i/didaktik_prakt/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Zellphysiologie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Informations- und Technikmanagement', 'link': 'https://www.imtm-iaw.ruhr-uni-bochum.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Theoretische Physik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Reformation und Neuere Kirchengeschichte', 'link': 'http://www.ev.ruhr-uni-bochum.de/reformationsgeschichte/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Kryptologie und IT-Sicherheit', 'link': 'http://www.cits.ruhr-uni-bochum.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Produktionswirtschaft', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Finanzierung', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Reformations- und Neuere Kirchengeschichte', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Security Engineering', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Allgemeinmedizin', 'link': 'http://www.amrub.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Human-Centred Security', 'link': 'https://informatik.rub.de/hcs/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Gräzistik', 'link': 'https://www.ruhr-uni-bochum.de/klass-phil/seminar2/bereiche_gr.htm', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Hydraulische Strömungsmaschinen', 'link': 'https://www.mb.rub.de/?p=4413', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Empirische Sozialforschung', 'link': 'https://www.methoden.ruhr-uni-bochum.de/empirische-sozialforschung.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Systemphysiologie', 'link': 'https://www.sysphys.ruhr-uni-bochum.de/sysphys/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Allgemeine Soziologie', 'link': 'https://www.sowi.ruhr-uni-bochum.de/sozaww/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für antike und mittelalterliche Philosophie', 'link': 'https://www.ruhr-uni-bochum.de/philosophy/antike_ma/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Sportmedizin', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Klassische Deutsche Philosophie', 'link': 'https://www.pe.ruhr-uni-bochum.de/philosophie/i/kdp/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Philosophie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Entrepreneurship', 'link': 'https://www2.wiwi.rub.de/personen/prof-dr-stefanie-broering/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Controlling', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Internationale Unternehmensrechnung', 'link': 'http://www.iur.rub.de/publikationen/index.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Soziotechnisches Systemdesign', 'link': 'https://www.imtm-iaw.ruhr-uni-bochum.de/news/homepage-lehrstuhl-fuer-soziotechnisches-systemdesign-und-kuenstliche-intelligenz/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Trainingswissenschaft', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Erdbeobachtung', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Ökumene und Dogmatik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Zelluläre', 'link': 'https://www.zellphys.ruhr-uni-bochum.de/zellphys/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Molekulargenetik und Physiologie der Pflanzen', 'link': 'https://www.ruhr-uni-bochum.de/mgpp/Seiten_dt/index_d.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Corporate Governance, Auditing und Accounting', 'link': 'https://studium.ruhr-uni-bochum.de/de/freiwilliges-wissenschaftliches-jahr-der-fakultaet-wirtschaftswissenschaften', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Informationssicherheit', 'link': 'https://informatik.rub.de/infsec/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Systematische Theologie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Betriebswirtschaftliche Steuerlehre', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Financial Accounting', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Mittlere und Neuere Kirchengeschichte', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Internationale Stadt- und Metropolenentwicklung', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Quanteninformation', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Symmetrische Kryptographie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Humangenetik', 'link': 'http://www.ruhr-uni-bochum.de/mhg/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Systemische Neurowissenschaften', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Entwicklungsforschung', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Mineralogie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Sozialwissenschaftliche Datenanalyse', 'link': 'https://www.methoden.ruhr-uni-bochum.de/sozialwissenschaftliche-datenanalyse.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Thermische Turbomaschinen', 'link': 'https://www.ttf.ruhr-uni-bochum.de/index.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für sozialwissenschaftliche Datenanalyse', 'link': 'https://www.methoden.ruhr-uni-bochum.de/sozialwissenschaftliche-datenanalyse.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Energiesysteme und Energiewirtschaft', 'link': 'https://www.ee.rub.de/index.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Umweltanalyse und -planung', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Wirtschaftspolitik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für empirische Sozialforschung', 'link': 'http://www.ruhr-uni-bochum.de/wernervoss/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Molekulare Gastroenterologische Onkologie', 'link': 'http://www.rub.de/mgo', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Verteilte', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Angewandte Physische Geographie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Experimentelle Hadronenphysik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Human Resource Management', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Hydrogeochemie und Hydrogeologie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Geographiedidaktik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Geoinformatik, Environmental Modelling Group', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Neurophysiologie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Technologie- und Innovationsmanagement', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Allgemeine Mechanik', 'link': 'http://mechmat.rub.de/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Astrophysik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Didaktik der Physik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Empirische Wirtschaftsforschung', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Energieanlagen und Energieprozesstechnik', 'link': 'http://www.leat.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Energiesystemtechnik und Leistungsmechatronik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Finanzwissenschaft', 'link': 'https://www2.wiwi.rub.de/wp-content/uploads/2021/07/Guideline-for-the-supervision-of-master-theses-at-the-chair-of-public-and-regional-economics_nov22.pdf', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Katechese', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Werkstofftechnik', 'link': 'https://studium.ruhr-uni-bochum.de/de/freiwilliges-wissenschaftliches-jahr-der-fakultaet-fuer-maschinenbau', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Molekulare Immunologie', 'link': 'https://www.molimmu.ruhr-uni-bochum.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Abteilung für Molekulare und medizinische Virologie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Internationale Wirtschaftsbeziehungen', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Makroökonomie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Neues Tes-tament', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für christliche Gesellschaftslehre', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für theoretische Weltraum- und Astrophysik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Evolution und Biodiversität der Pflanzen', 'link': 'http://www.ruhr-uni-bochum.de/biodivpfl/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Hybrid Additive Manufacturing', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Interkulturelle Theologie und Körperlichkeit', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Landschaftsökologie und Biogeographie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Marketing', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Qualitative Methoden', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Theoretische Philosophie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für theoretische Physik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Werkstoffwissenschaft', 'link': 'https://dbs-lin.rub.de/ww/team/thome.php', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Hydrogeologie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl I', 'link': 'https://www.ep1.ruhr-uni-bochum.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Strukturgeologie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Kristallographie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Experimentelle Geophysik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Tektonik und Rohstoffe', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Physikalisch-chemische Mineralogie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Physikalische Geodäsie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Hydrogeomechanik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Geophysik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Experimentelle Petrologie und Geochemie', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Hydrogeochemie - Geschäftsführender Direktor', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl Thermische Turbomaschinen und Flugtriebwerke', 'link': 'https://www.ttf.ruhr-uni-bochum.de/ttf/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl VIAlgebra', 'link': 'https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-VI/index.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Praktische Theologie - Homiletik, Liturgik, Poimenik', 'link': None, 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Allgemeine Soziologie, Arbeit und Wirtschaft', 'link': 'https://www.sowi.rub.de/heinze/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Angewandte physische Geographie', 'link': 'https://www.geographie.rub.de/forschung/angewandte-physische-geographie/homenews/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Industrial Sales and Service Engineering', 'link': 'https://www.isse.ruhr-uni-bochum.de/lehre/#fachwissenschaftliche_arbeiten', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Ethik und Fundamentaltheologie', 'link': 'http://www.ev.rub.de/systheol/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Exegese und Theologie des Neuen Testaments, Geschichte des Urchristentums', 'link': 'http://www.ev.rub.de/nt-wick/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Neues Testament und Judentumskunde', 'link': 'http://www.ev.rub.de/nt-vonbendemann/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Reformationsgeschichte & Neuere Kirchengeschichte', 'link': 'http://www.ruhr-uni-bochum.de/reformationsgeschichte/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Heisenberg-Professur für Literaturgeschichte des Alten Testaments', 'link': 'http://www.ev.rub.de/heisenberg-professur-at/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Juniorprofessur für Religion und Literatur des Alten Testaments', 'link': 'http://www.ev.rub.de/at-buehrer/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Exegese und Theologie des Alten Testaments', 'link': 'http://www.ev.rub.de/at-ego/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Professur für Homiletik, Liturgik & Poimenik', 'link': 'http://www.ev.rub.de/pt-karle/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Soziotechnisches Systemdesign und Künstliche Intelligenz', 'link': 'https://www.sski.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Bürgerliches Recht, Arbeitsrecht', 'link': 'https://arbeitsrecht-ipr.rub.de/index.php/de/team', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für osteuropäische Geschichte', 'link': 'https://www.oeg.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Bürgerliches Recht, Internationales Privatrecht und Rechtsvergleichung, Handels- und Wirtschaftsrecht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Kriminologie', 'link': 'http://www.flucht.rub.de/index.php/de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Prozessrecht und Bürgerliches Recht', 'link': 'https://zrsweb.zrs.rub.de/lehrstuhl/windel/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Allgemeine Zoologie', 'link': 'https://dev3.imp10.ruhr-uni-bochum.de/neurobiol/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Biologie'}
+{'name': 'Lehrstuhl für Öffentliches Recht, Verfassungstheorie', 'link': 'https://juraweb.zrs.rub.de/verfassungstheorie', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Hochfrequenzsysteme', 'link': 'https://etit.ruhr-uni-bochum.de/hfs/nachrichten/25-jaehriges-dienstjubilaeum/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Öffentliches Recht, Wirtschaftsrecht', 'link': 'https://juraweb.zrs.rub.de/lehrstuhl-fuer-oeffentliches-recht-wirtschaftsrecht-und-steuerrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Evolutionsökologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Bürgerliches Recht, Deutsche und Europäische Rechtsgeschichte', 'link': 'https://juraweb.zrs.rub.de/lehrstuhl-fuer-buergerliches-recht-deutsche-und-europaeische-rechtsgeschichte', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Soziologie', 'link': 'https://www.sdt.ruhr-uni-bochum.de/sdt/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Öffentliches Recht, Sozial- und Gesundheitsrecht und Rechtsphilosophie', 'link': 'https://www.oer.ruhr-uni-bochum.de/oer/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Abteilung für Medizinische Ethik', 'link': 'http://rub.de/malakow', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Statik und Dynamik', 'link': 'http://www.sd.rub.de/de/Home.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Anorganische Chemie', 'link': 'https://news.rub.de/wissenschaft/2019-04-12-twitter-takeover-ein-tag-mit-viktoria-daeschlein-gessner', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Lehrstuhl für Theoretische Chemie', 'link': 'https://www.theochem2.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Feststoffverfahrenstechnik', 'link': 'http://www.fvt.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': 'Lehrstuhl für Produktentwicklung', 'link': 'https://moodle.ruhr-uni-bochum.de/m/course/view.php?id=19393', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Tunnelbau, Leitungsbau und Baubetrieb', 'link': 'http://www.tlb.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Verkehrswegebau', 'link': 'http://www.lvw.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Strafrecht', 'link': 'http://homepage.ruhr-uni-bochum.de/Klaus.Bernsmann/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Medizintechnik', 'link': 'https://www.mt.rub.de/de/teammembers/susanne-altegoer/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Bürgerliches Recht, Deutsches', 'link': 'https://juraweb.zrs.rub.de/lehrstuhl-fuer-buergerliches-recht-deutsches-und-europaeisches-arbeitsrecht-und-sozialrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Verkehrswesen', 'link': 'https://www.ruhr-uni-bochum.de/verkehrswesen/index.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Verfahrenstechnische Transportprozesse', 'link': 'http://www.vtp.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Lehrstuhl für Netz- und Datensicherheit', 'link': 'https://www.nds.ruhr-uni-bochum.de/index.html', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Massivbau', 'link': 'https://www.kib1.ruhr-uni-bochum.de/kib/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Mechanik', 'link': 'https://www.mechmat.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Produktionssysteme', 'link': 'https://www.lps.ruhr-uni-bochum.de/lps/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Praktische Theologie', 'link': 'http://www.ev.ruhr-uni-bochum.de/pt-karle/index.html.de', 'uni': 'rub', 'type': 'chair'}
+{'name': 'Lehrstuhl für Öffentliches Recht und Völkerrecht', 'link': 'https://juraweb.zrs.rub.de/lehrstuhl-fuer-oeffentliches-recht-und-voelkerrecht-insbes-friedenssicherungsrecht-und-humanitaeres', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Öffentliches Recht, Wirtschafts- und Steuerrecht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Literaturdidaktik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Angewandte Elektrodynamik und Plasmatechnik', 'link': 'https://www.aept.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Bürgerliches Recht und Gesellschaftsrecht', 'link': 'https://juraweb.zrs.rub.de/lehrstuhl-fuer-buergerliches-recht-und-gesellschaftsrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Öffentliches Recht, insbesondere Verwaltungsrecht', 'link': 'https://juraweb.zrs.rub.de/lehrstuhl-fuer-oeffentliches-recht-insbesondere-verwaltungsrecht', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Abteilung für Medizinische und Molekulare Virologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Bodenmechanik, Grundbau und Umweltgeotechnik', 'link': 'http://www.bgu.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Bürgerliches Recht, Römisches Recht und Zivilverfahrensrecht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Fluidverfahrenstechnik', 'link': 'http://www.fluidvt.rub.de/index.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Wirtschaftspsychologie', 'link': 'https://dbs-lin.ruhr-uni-bochum.de/lehreladen/lehrformate-methoden/praxisbezuege-in-der-lehre/praxisbeispiele-praxisbezuege/arbeit-arbeitssicherheit-safety-management-in-high-reliability-organizations/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Grundbau, Boden- und Felsmechanik', 'link': 'http://www.gbf.ruhr-uni-bochum.de/index.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Stochastik', 'link': 'http://www.ruhr-uni-bochum.de/mathematik3/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für germanistische Linguistik', 'link': 'https://sechuman.ruhr-uni-bochum.de/team/promovierende/steffen-hessler', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Allgemeine und Molekulare Botanik', 'link': 'https://www.rubion.rub.de/de/workgroups/lehrstuhl-f%C3%BCr-allgemeine-und-molekulare-botanik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Eingebettete', 'link': 'https://www.emsec.ruhr-uni-bochum.de/chair/home/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Festkörperphysik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Lehrstuhl für Regelungstechnik und Systemtheorie', 'link': 'https://rus.ruhr-uni-bochum.de/?page_id=79', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Steuerrecht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Zeitgeschichte', 'link': 'http://www.ruhr-uni-bochum.de/lehrstuhl-ng2/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Allgemeine und Vergleichende Literaturwissenschaft', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Klinische Psychologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Biochemie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Öffentliches Recht, Rechtsphilosophie und Rechtsökonomik', 'link': 'https://juraweb.zrs.rub.de/lehrstuhl-fuer-oeffentliches-recht-rechtsphilosophie-und-rechtsoekonomik', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Angewandte Mikrobiologie', 'link': 'https://news.rub.de/wissenschaft/2021-08-03-angewandte-mikrobiologie-plasmen-helfen-bei-wundheilung-krebstherapie-und-schadstoffabbau', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Automatisierungstechnik', 'link': 'http://www.atp.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Wirtschafts- und Unternehmensgeschichte', 'link': 'http://www.ruhr-uni-bochum.de/wug/personal/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': 'Lehrstuhl für Bürgerliches Recht, Unternehmensrecht', 'link': 'https://juraweb.zrs.rub.de/lehrstuhl-fuer-buergerliches-recht-unternehmensrecht-und-recht-der-familienunternehmen', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Digitale Kommunikationssysteme', 'link': 'http://www.dks.rub.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Frühe Neuzeit', 'link': 'https://www.ruhr-uni-bochum.de/fnzgg/forschung/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Arbeit', 'link': 'http://www.apf.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Lehrstuhl für Germanistische Linguistik', 'link': 'http://homepage.ruhr-uni-bochum.de/Karin.Pittner/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Geschichte', 'link': 'https://www.ort.ruhr-uni-bochum.de/ort/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Hydrologie, Wasserwirtschaft und Umwelttechnik', 'link': 'http://www.hydrology.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Sozialtheorie', 'link': 'http://www.sowi.rub.de/soztheo/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Lehrstuhl für Weltraum- und Astrophysik', 'link': 'http://www.tp4.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Allgemeine Elektrotechnik und Plasmatechnik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Kryptographie', 'link': 'https://www.crypto.ruhr-uni-bochum.de/resgroups/foc/index.html.en', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Tierphysiologie', 'link': 'https://www.rubion.rub.de/de/workgroups/department-of-animal-physiology/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Organische Chemie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Vergleichende Politikwissenschaft', 'link': 'http://www.sowi.rub.de/pw2/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Lehrstuhl für Theoretische Elektrotechnik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für American Studies', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Stahl-, Leicht- und Verbundbau', 'link': 'http://www.ruhr-uni-bochum.de/stahlbau/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Öffentliches Recht, Gesundheits- und Sozialrecht und Rechtsphilosophie', 'link': 'https://www.oer.rub.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Abteilung für Geschichte', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Abteilung für Cytologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Abteilung für Hygiene, Sozial- und Umweltmedizin', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Komparatistik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Biopsychologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Bürgerliches Recht und Wirtschaftsrecht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Abteilung für Neuropsychologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für experimentelle Physik', 'link': 'https://news.rub.de/wissenschaft/2021-07-27-plasmaphysik-grundlagenforschung-trifft-technologie', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Abteilung für Neurologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Anglistik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Biologie der Mikroorganismen', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Medienöffentlichkeit', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Sediment- und Isotopengeologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Theorie', 'link': 'http://ifm.rub.de/institut/personen/tuschling/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Umwelttechnik', 'link': 'http://www.ruhr-uni-bochum.de/ecology/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Zellmorphologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Technische Chemie', 'link': 'https://news.rub.de/wissenschaft/2021-08-10-technische-chemie-plasmageneratoren-steuern-katalytische-prozesse', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Lehrstuhl für Mikrosystemtechnik', 'link': 'https://etit.ruhr-uni-bochum.de/news/detail/best-poster-award-fuer-bochumer-nachwuchswissenschaftler/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Osteuropäische Geschichte', 'link': 'https://osteuropastudien.blogs.ruhr-uni-bochum.de/lehrstuhl-fuer-osteuropaeische-geschichte/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Siedlungswasserwirtschaft und Umwelttechnik', 'link': 'http://www.siwawi.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Photonik und Terahertztechnologie', 'link': 'https://etit.ruhr-uni-bochum.de/ptt/nachrichten/remote-teaching-im-laser-labor/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Deutsche Rechtsgeschichte', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Integrierte Systeme', 'link': 'http://www.is.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Windingenieurwesen und Strömungsmechanik', 'link': 'http://www.ruhr-uni-bochum.de/asib/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Abteilung für Schmerzmedizin', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Baustofftechnik', 'link': 'http://www.ruhr-uni-bochum.de/baustoffe/index.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Ressourceneffizientes Bauen', 'link': 'http://www.ruhr-uni-bochum.de/reb/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Neugermanistik', 'link': 'http://staff.germanistik.rub.de/neugermanistik/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Straf- und Strafprozessrecht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für klinische Psychologie und Psychotherapie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Öffentliches Recht und Europarecht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Kognitionspsychologie', 'link': 'https://rus.ruhr-uni-bochum.de/aow-newsletter/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Technik- und Umweltgeschichte', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Verkehrsbau', 'link': 'https://www.fbi.ruhr-uni-bochum.de/fbi/aktuelles/news00716.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Wasserbau und Hydromechanik der Hochschule Bochum', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Zellbiologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Lehrstuhl für bioorganische Chemie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für romanische Philologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Abteilung für Bildung', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Abteilung für Hochschulentwicklung und Gremien', 'link': 'http://www.uv.rub.de/dezernat1/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Abteilung für Neurochirurgie und Neurotraumatologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Abteilung für Pharmakologie und Toxikologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Abteilung für Philologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Bodenkunde', 'link': 'https://www.geographie.ruhr-uni-bochum.de/boden/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Abteilung für ästhetisch-operative Medizin und kosmetische Dermatologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Apparatedesign', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Gender Studies', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Lehrstuhl für Innere Medizin', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Lehrstuhl für Maschinelles Lernen', 'link': 'https://informatik.rub.de/ml/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Reiswürfel', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Verbrennungsmotoren', 'link': 'https://www.lvm.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Abteilung für Krankenhaushygiene', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Abteilung für Medizinische Mikrobiologie', 'link': 'https://memiserf.medmikro.ruhr-uni-bochum.de/index.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Abteilung für Neuroanatomie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Geothermische Energiesysteme', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': 'Lehrstuhl für Naturheilkunde', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Plasmatechnik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Virtualisierung verfahrenstechnischer Prozesse', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Volkswirtschaftspolitik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Zoologie und Neurobiologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Öffentliche Verwaltung, Stadt- und Regionalpolitik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Lehrstuhl für Öffentliches Recht, Finanzverfassungs- und Gesundheitsrecht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Öffentliches Recht, Verfassungsrecht und interdisziplinäre Rechtsforschung', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl Mathematik', 'link': 'http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-XII/publ-ls12.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Hochfrequenztechnik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Lateinische Philologie', 'link': 'https://khk.ceres.rub.de/de/person/reinhold-glei/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Maschinenelemente', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für eingebettete Sicherheit', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': 'Lehrstuhl für öffentliches Recht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Abteilung für Physikalische Therapie und Physiotherapie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Abteilung für Unfallchirurgie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Allgemeine Botanik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Bauinformatik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Bürgerliches Recht, Rechtsgeschichte und Handelsrecht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Kultur- und Siedlungsgeographie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Bürgerliches Recht, Handels- und Wirtschaftsrecht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Elektronische Bauelemente', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Genetische Psychologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Psychologie'}
+{'name': 'Lehrstuhl für Pflanzenphysiologie', 'link': 'http://www.ruhr-uni-bochum.de/pflaphy/Seiten_dt/index_d.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Sozial- und Wirtschaftsgeschichte', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Werkstoffe', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Abteilung für ästhetisch operative Medizin', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Angewandte Analytische Chemie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Augenheilkunde', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Lehrstuhl für Computersicherheit', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Photonics', 'link': 'https://news.rub.de/transfer/2023-03-15-transfer-das-sind-bochums-top-5-start-ups', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Plastische Chirurgie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Lehrstuhl für elektrische Energietechnik und Leistungselektronik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Lehrstuhl für Ethnologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Lehrstuhl für Kinderchirurgie', 'link': 'https://news.rub.de/leute/2021-11-03-medizin-jochen-hubertus-ist-neuer-direktor-der-klinik-fuer-kinderchirurgie', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Recht der Wirtschaft', 'link': 'https://www.wiwi.ruhr-uni-bochum.de/rdw/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Abteilung für Gastroenterologie und Hepatologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Abteilung für Anatomie', 'link': 'https://www.ruhr-uni-bochum.de/anat1/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Allgemeine Informationstechnik und Kommunikationsakustik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Bürgerliches Recht und Arbeitsrecht', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Literaturwissenschaften', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Abteilung für Viszeralchirurgie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Accounting', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Embedded Security', 'link': 'http://www.emsec.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Sozialpsychologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Abteilung für Biopsychologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Physik'}
+{'name': 'Lehrstuhl für Molekulare und Zelluläre Botanik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für British Cultural Studies', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Computergestützte Modellierung und Simulation', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Lehrstuhl für Deutsche Sprache und Literatur des Mittelalters', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Philologie'}
+{'name': 'Lehrstuhl für Englische Sprachwissenschaft', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Fremdsprachenphilologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Klinische Kinder- und Jugendpsychologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Lehr-Lern-Forschung', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Maschinenbauinformatik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Neuere und Neueste Geschichte', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': 'Lehrstuhl für Sozialgeschichte des Aufwachsens und der Erziehung', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Abteilung für Transfer', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': 'Lehrstuhl für Angewandte Ethik', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Lehrstuhl für vergleichende Politikwissenschaft', 'link': 'https://www.sowi.rub.de/pw2/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Lehrstuhl für Industrie- und Fahrzeugantriebstechnik', 'link': 'https://www.ifa.ruhr-uni-bochum.de/ifa/lehre/studienarbeiten.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Öffentliches Recht, Wirtschaftsrecht und Europarecht', 'link': 'https://www.rz.ruhr-uni-bochum.de/css/1-rub-auswahl-2spaltig.css', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Arbeit, Personal und Führung', 'link': 'http://www.apf.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl für Soziologie der Digitalen Transformation', 'link': 'http://www.aog.rub.de/', 'uni': 'rub', 'type': 'chair', 'upper': 'Katholisch-Theologische Fakultät'}
+{'name': 'Lehrstuhl Carbon Sources', 'link': 'https://moodle.ruhr-uni-bochum.de/m/course/view.php?id=32228', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Lehrstuhl Kryptologie & IT-Sicherheit', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl Klinische Kinder-und Jugendpsychologie', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl Materials', 'link': 'https://www.mdi.ruhr-uni-bochum.de/mdi/index.html.de', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl Bürgerliches Recht', 'link': 'https://zrsweb.zrs.rub.de/lehrstuhl/schubert/lehrstuhlteam/laura-schmitt/', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl Öffentliches Recht', 'link': 'http://www.ruhr-uni-bochum.de/ls-magen/kraemer.html', 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}
+{'name': 'Lehrstuhl Algebra', 'link': None, 'uni': 'rub', 'type': 'chair', 'upper': 'Fakultät für Maschinenbau'}

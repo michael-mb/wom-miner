@@ -1,0 +1,52 @@
+Metric                          Count       %
+----------------------------  -------  ------
+Truth total                      8227  100.00
+Found total                     10769  100.00
+----------------------------  -------  ------
+True positive (Precision)        2125   19.73
+Found (Recall)                   2125   25.83
+F1                                      22.37
+Not correct (False positive)     8644   80.27
+Not found (False negative)       6102   74.17
+----------------------------  -------  ------
+People with title                4137   50.29
+True positive (Precision)        1353   12.56
+Found (Recall)                   1353   32.70
+F1                                      18.15
+Not correct (False positive)     9416   87.44
+Not found (False negative)       2784   67.30
+----------------------------  -------  ------
+People with email                3869   47.03
+True positive (Precision)        1496   13.89
+Found (Recall)                   1496   38.67
+F1                                      20.44
+Not correct (False positive)     9273   86.11
+Not found (False negative)       2373   61.33
+----------------------------  -------  ------
+Wiss. MA                         4287   52.11
+True positive (Precision)         925    8.59
+Found (Recall)                    925   21.58
+F1                                      12.29
+Not correct (False positive)     9844   91.41
+Not found (False negative)       3362   78.42
+----------------------------  -------  ------
+Mind. 1 position                 7559   91.88
+True positive (Precision)        1941   18.02
+Found (Recall)                   1941   25.68
+F1                                      21.18
+Not correct (False positive)     8828   81.98
+Not found (False negative)       5618   74.32
+----------------------------  -------  ------
+Names with A                      828   10.06
+True positive (Precision)         178   18.05
+Found (Recall)                    178   21.50
+F1                                      19.63
+Not correct (False positive)      808   81.95
+Not found (False negative)        650   78.50
+----------------------------  -------  ------
+Names with A and email            365    4.44
+True positive (Precision)         126   12.78
+Found (Recall)                    126   34.52
+F1                                      18.65
+Not correct (False positive)      860   87.22
+Not found (False negative)        239   65.48

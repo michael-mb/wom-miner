@@ -1,0 +1,76 @@
+{'name': '"Institut für Religion und Gesellschaft', 'link': '"http://www.ev.ruhr-uni-bochum.de/pt-karle/ifrg.html.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Evangelisch-Theologische Fakultät'}
+{'name': '"Institut für Philosophie I', 'link': '"https://www.pe.ruhr-uni-bochum.de/philosophie/i/institut/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': '"Institut für Philosophie II', 'link': '"https://www.pe.ruhr-uni-bochum.de/philosophie/ii/institut/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': '"Institut für Erziehungswissenschaft', 'link': '"https://www.pe.ruhr-uni-bochum.de/erziehungswissenschaft/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philosophie und Erziehungswissenschaft'}
+{'name': '"Zentrum für Mittelmeerstudien', 'link': '"https://www.zms.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Geschichtswissenschaften'}
+{'name': '"Institut für Archäologische Wissenschaften', 'link': '"https://www.ruhr-uni-bochum.de/archaeologie/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Geschichtswissenschaften'}
+{'name': '"Kunstgeschichtliches Institut', 'link': '"https://kgi.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Geschichtswissenschaften'}
+{'name': '"Historisches Institut', 'link': '"https://www.hibo.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Geschichtswissenschaften'}
+{'name': '"Allgemeine und Vergleichende Literaturwissenschaft', 'link': '"https://www.komparatistik.ruhr-uni-bochum.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': '"Englisches Seminar', 'link': '"http://www.es.rub.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': '"Germanistisches Institut', 'link': '"http://germanistik.blogs.ruhr-uni-bochum.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': '"Seminar für Klassische Philologie', 'link': '"http://www.ruhr-uni-bochum.de/klass-phil/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': '"Linguistic Data Science Lab', 'link': '"http://www.ldsl.rub.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': '"Institut für Medienwissenschaft', 'link': '"http://ifm.rub.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': '"Institut für Arabistik und Islamwissenschaft', 'link': '"http://www.ruhr-uni-bochum.de/orient/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': '"Romanisches Seminar', 'link': '"http://www.ruhr-uni-bochum.de/romsem/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': '"Seminar für Slavistik / Lotman-Institut für russische Kultur', 'link': '"http://www.slavistik.ruhr-uni-bochum.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': '"Sprachwissenschaftliches Institut', 'link': '"http://www.linguistics.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': '"Institut für Theaterwissenschaft', 'link': '"http://www.theater.rub.de', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Philologie'}
+{'name': '"Research Unit for Taiwanese Culture and Literature', 'link': '"https://www.ruhr-uni-bochum.de/tru/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Ostasienwissenschaften'}
+{'name': '"Ostasieninstituts', 'link': '"https://www.ruhr-uni-bochum.de/oaw/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Ostasienwissenschaften'}
+{'name': '"Institut für Kognitive Neurowissenschaft', 'link': '"https://www.ikn.psy.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Psychologie'}
+{'name': '"Institut für Gesundheit und Entwicklung', 'link': '"https://ige.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Psychologie'}
+{'name': '"Institut für Steuerrecht und Steuervollzug', 'link': '"https://www.kompetenzzentrum-steuerrecht.de/de/institut/', 'uni': 'rub', 'type': 'institute', 'upper': 'Juristische Fakultät'}
+{'name': '"Institut für Sozial- und Gesundheitsrecht', 'link': '"https://www.isgr.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Juristische Fakultät'}
+{'name': '"Cooperation DFG-CAPES', 'link': '"https://zrsweb.zrs.rub.de/institut/clbc/', 'uni': 'rub', 'type': 'institute', 'upper': 'Juristische Fakultät'}
+{'name': '"INSTITUT FÜR GEISTIGES EIGENTUM, DATENSCHUTZ UND INFORMATIONSTECHNOLOGIE', 'link': '"https://juraweb.zrs.rub.de/node/2777', 'uni': 'rub', 'type': 'institute', 'upper': 'Juristische Fakultät'}
+{'name': '"Institut für Berg- und Energierecht', 'link': '"https://www.ruhr-uni-bochum.de/ibe/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': '"Institut für Entwicklungsforschung und Entwicklungspolitik', 'link': '"http://www.development-research.org/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': '"Institut für Unternehmensführung', 'link': '"https://www.ifu.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': '"Institut für Kredit- und Finanzwirtschaft', 'link': '"https://www.ikf-server.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': '"Institut für Sicherheit im E-Business', 'link': '"https://www.eurobits.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Wirtschaftswissenschaft'}
+{'name': '"Leibniz-Institut für Sozialwissenschaften (GESIS)', 'link': '"https://www.gesis.org/home', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Leibniz-Institut für Bildungsforschung und Bildungsinformation (DIPF)', 'link': '"https://www.dipf.de/de/dipf-aktuel', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Landeszentrale für politische Bildung NRW', 'link': '"https://www.politische-bildung.nrw.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Kulturwissenschaftliches Institut Essen (KWI)', 'link': '"https://kulturwissenschaften.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Institut für Wohnungswesen, Immobilienwirtschaft, Stadt- und Regionalentwicklung (Inwis)', 'link': '"https://www.inwis.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Institut für Stadtgeschichte (ISG)', 'link': '"https://www.gelsenkirchen.de/de/bildung/ausserschulische_bildung/institut_fuer_stadtgeschichte/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Institut für Landes- und Stadtentwicklungsforschung (ILS)', 'link': '"https://www.ils-forschung.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Institut Arbeit und Technik in Gelsenkirchen (IAT)', 'link': '"https://www.iat.eu/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Institut für Deutschlandforschung (IDF)', 'link': '"https://www.ruhr-uni-bochum.de/deutschlandforschung/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Institut für Entwicklungsforschung und Entwicklungspolitik (IEE)', 'link': '"http://www.development-research.org/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Institut für Friedenssicherungsrecht und Humanitäres Völkerrecht (IFHV)', 'link': '"http://www.ifhv.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Institut für soziale Bewegungen (ISB)', 'link': '"http://www.isb.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Hans Kilian und Lotte Köhler-Centrum (KKC)', 'link': '"http://www.kilian-koehler-centrum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Centrum für Religionswissenschaftliche Studien (CERES)', 'link': '"https://ceres.rub.de/de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Zentrum für interdisziplinäre Regionalforschung (ZEFIR)', 'link': '"http://www.zefir.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Zentrum für Mittelmeerstudien (ZMS)', 'link': '"http://www.zms.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Marie Jahoda Center for international Gender Studies (MaJaC)', 'link': '"https://mariejahodacenter.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Institut für Arbeitswissenschaft (IAW)', 'link': '"https://www.iaw.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Sozialwissenschaft'}
+{'name': '"Institut für Konstruktiven Ingenieurbau ', 'link': '"', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': '"Institut for Computational Engineering ', 'link': '"', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': '"Institut für Infrastruktur und Umwelt ', 'link': '"', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Bau- und Umweltingenieurwissenschaften'}
+{'name': '"Institut Product and Service Engineering', 'link': '"https://www.ipse.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': '"Institut für Energietechnik', 'link': '"https://www.ie.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': '"Institut für Thermo- und Fluiddynamik', 'link': '"https://itf.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': '"Institut für Werkstoffe', 'link': '"https://www.iw.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': '"Institut für Mechanik', 'link': '"https://www.ruhr-uni-bochum.de/mechanik/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Maschinenbau'}
+{'name': '"Institut für Kommunikationsakustik', 'link': '"https://www.ruhr-uni-bochum.de/ika/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Elektrotechnik und Informationstechnik'}
+{'name': '"Horst-Görtz-Institut', 'link': '"https://hgi.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Informatik'}
+{'name': '"Institut für Neuroinformatik', 'link': '"https://www.ini.rub.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Informatik'}
+{'name': '"Astronomisches Institut', 'link': '"', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': '"Institut für Experimentalphysik', 'link': '"', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': '"Institut für Theoretische Physik', 'link': '"', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Physik und Astronomie'}
+{'name': '"Institut für Geologie, Mineralogie und Geophysik', 'link': '"https://www.gmg.ruhr-uni-bochum.de/institut-geologie-mineralogie-und-geophysik', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Geowissenschaften'}
+{'name': '"Abt. ohne Zuordnung', 'link': '"', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Chemie und Biochemie'}
+{'name': '"Abt. ohne Zuordnung', 'link': '"', 'uni': 'rub', 'type': 'institute', 'upper': 'Fakultät für Biologie und Biotechnologie'}
+{'name': '"Institut für Physiologie', 'link': '"https://www.phys.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Medizinische Fakultät'}
+{'name': '"Institut für Biochemie und Pathobiochemie', 'link': '"https://www.ruhr-uni-bochum.de/biochem/', 'uni': 'rub', 'type': 'institute', 'upper': 'Medizinische Fakultät'}
+{'name': '"Institut für Pharmakologie und Toxikologie', 'link': '"https://www.ruhr-uni-bochum.de/pharma/', 'uni': 'rub', 'type': 'institute', 'upper': 'Medizinische Fakultät'}
+{'name': '"Institut für Pathologie', 'link': '"https://www.pathologie-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Medizinische Fakultät'}
+{'name': '"Institut für Hygiene und Mikrobiologie ', 'link': '"', 'uni': 'rub', 'type': 'institute', 'upper': 'Medizinische Fakultät'}
+{'name': '"Institut für Medizinische Psychologie und Medizinische Soziologie und Medizinische Ethik und Geschichte der Medizin ', 'link': '"', 'uni': 'rub', 'type': 'institute', 'upper': 'Medizinische Fakultät'}
+{'name': '"Institut für Anatomie ', 'link': '"https://www.anatom.ruhr-uni-bochum.de/de/start/', 'uni': 'rub', 'type': 'institute', 'upper': 'Medizinische Fakultät'}
+{'name': '"Institut für Pathologie', 'link': '"https://www.pathologie-bochum.de/', 'uni': 'rub', 'type': 'institute', 'upper': 'Medizinische Fakultät'}
+{'name': '"Abt. ohne Zuordnung', 'link': '"', 'uni': 'rub', 'type': 'institute', 'upper': 'Medizinische Fakultät'}

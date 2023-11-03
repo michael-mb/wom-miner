@@ -1,0 +1,148 @@
+Complete manuel evaluation!
+
+Fakultäten:
+
+Tatsächlich existierend: 11
+Gefunden: 13
+
+Namen:
+
+Korrekt gefunden: 11
+Halb-korrekt gefunden (Name ist unvollständig, aber vorhanden): 1
+Doppelt gefunden, davon einer mindestens halb-korrekt: 1
+Nicht korrekt gefunden: 1
+
+% mit doppelten (gemessen an den gefundenen):
+Korrekt gefunden: 84.61538461538461%
+Halb-korrekt gefunden: 7.6923076923076925%
+Nicht korrekt gefunden: 7.6923076923076925%
+Doppelt gefunden (von den korrekten und halb-korrekten): 8.333333333333334%
+
+% ohne doppelten (gemessen an den tatsächlichen):
+Korrekt gefunden: 90.90909090909092%
+Halb-korrekt gefunden: 9.090909090909092%
+Nicht korrekt gefunden: 0.0%
+
+Links:
+
+Lehrstühle ohne Link: 1 (7.6923076923076925%)
+Lehrstühle mit Link: 12 (92.3076923076923%)
+
+Korrekt gefunden: 10
+Halb-korrekt gefunden (Link ist vorhanden, aber hat hinten zu viel): 0
+Nicht korrekt gefunden: 2
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 83.33333333333334%
+Halb-korrekt gefunden: 0.0%
+Nicht korrekt gefunden: 16.666666666666668%
+
+---------------------------------
+
+Lehrstühle:
+
+Gefunden: 178
+
+Namen:
+
+Korrekt gefunden: 149
+Halb-korrekt gefunden (Name ist unvollständig, aber vorhanden): 28
+Nicht korrekt gefunden: 1
+Doppelt gefunden: 23
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 83.70786516853933%
+Halb-korrekt gefunden: 15.730337078651687%
+Nicht korrekt gefunden: 0.5617977528089888%
+Doppelt gefunden (von den korrekten und halb-korrekten): 12.994350282485875%
+
+Links:
+
+Lehrstühle ohne Link: 74 (41.57303370786517%)
+Lehrstühle mit Link: 104 (58.426966292134836%)
+
+Korrekt gefunden: 94
+Halb-korrekt gefunden (Link ist vorhanden, aber hat hinten zu viel): 0
+Nicht korrekt gefunden: 10
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 90.38461538461539%
+Halb-korrekt gefunden: 0.0%
+Nicht korrekt gefunden: 9.615384615384615%
+
+Uppers:
+
+Lehrstühle ohne Upper: 122 (68.53932584269663%)
+Lehrstühle mit Upper: 56 (31.460674157303373%)
+
+Uppers (der gefundenen):
+
+Korrekt gefunden: 14
+Nicht korrekt gefunden: 42
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 25.0%
+Nicht korrekt gefunden: 75.0%
+
+Die MSM (Fakultät für Betriebswirtschaftslehre) hat 24 Lehrstühle
+Stichprobe aller Lehrstühle, um eine grobe Aussage treffen zu können
+Die MSM tatsächlich: 24
+Von der MSM gefunden:
+Korrekt gefunden: 17
+Halb-korrekt gefunden: 6
+Nicht korrekt gefunden: 1
+% (gemessen an den tatsächlichen):
+Korrekt gefunden: 70.83333333333334%
+Halb-korrekt gefunden: 25.0%
+Nicht korrekt gefunden: 4.166666666666667%
+
+---------------------------------
+
+Institute:
+
+Gefunden: 678
+
+Namen:
+
+Korrekt gefunden: 369
+Halb-korrekt gefunden (Name ist unvollständig, aber vorhanden): 221
+Nicht korrekt gefunden: 88
+Doppelt gefunden (von den korrekten und halb-korrekten): 257
+An-Institute (von den korrekten und halb-korrekten): 263
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 54.424778761061944%
+Halb-korrekt gefunden: 32.59587020648968%
+Nicht korrekt gefunden: 12.979351032448378%
+Doppelt gefunden (von den korrekten und halb-korrekten): 43.559322033898304%
+An-Institute (von den korrekten und halb-korrekten): 44.57627118644068%
+
+Links:
+
+Institute ohne Link: 493 (72.71386430678466%)
+Institute mit Link: 185 (27.28613569321534%)
+
+Links (von den gefundenen Links):
+
+Korrekt gefunden: 136
+Halb-korrekt gefunden (Link ist vorhanden, aber hat hinten zu viel): 10
+Nicht korrekt gefunden: 39
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 73.51351351351352%
+Halb-korrekt gefunden: 5.405405405405405%
+Nicht korrekt gefunden: 21.08108108108108%
+
+Uppers:
+
+Institute ohne Upper: 455 (67.10914454277287%)
+Institute mit Upper: 223 (32.89085545722714%)
+
+Manuelle Evaluation der Uppers (der gefundenen Uppers):
+
+Korrekt gefunden: 53
+Nicht korrekt gefunden: 170
+
+% (gemessen an den gefundenen):
+Korrekt gefunden: 23.76681614349776%
+Nicht korrekt gefunden: 76.23318385650225%

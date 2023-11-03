@@ -1,0 +1,8 @@
+name: pgwom-crawler
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scrapy=2.8.0
+  - elasticsearch=8.7.0

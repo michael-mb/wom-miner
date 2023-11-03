@@ -1,0 +1,56 @@
+# See https://toml.io/en/v1.0.0 for specification
+
+[crawler]
+# Where the crawl starts
+entrypoint = "https://www.uni-due.de/"
+
+# Which domains are crawled
+domains = [
+    "uni-due.de",
+    "uni-duisburg-essen.de",
+    "udue.de",
+]
+# Which URLs are NOT allowed to be crawled
+deny-urls = [
+    'campus\.uni-(due|duisburg-essen)\.de',
+    'moodle\.uni-(due|duisburg-essen)\.de',
+    'webmail(er)?\.uni-(due|duisburg-essen)\.de',
+    'lists\.uni-(due|duisburg-essen)\.de',
+    'benutzerverwaltung\.uni-(due|duisburg-essen)\.de',
+    'selfcare\.uni-(due|duisburg-essen)\.de',
+    'ub\.uni-(due|duisburg-essen)\.de',
+    'duepublico\d*\.uni-(due|duisburg-essen)\.de', # duepublico.uni-due.de duepublico2.uni-due.de ...
+    'primo\.uni-(due|duisburg-essen)\.de',
+    'git\.uni-(due|duisburg-essen)\.de',
+    'idp\.uni-(due|duisburg-essen)\.de',
+    'wiki\.uni-(due|duisburg-essen)\.de',
+    'imperia\.uni-(due|duisburg-essen)\.de',
+    'lsf\.uni-(due|duisburg-essen)\.de',
+    'bolognat3\.wiwi\.uni-(due|duisburg-essen)\.de',
+    'semapp\.uni-(due|duisburg-essen)\.de',
+
+    'exportPublication.*\.bib',
+    'moodle\.exam\.uni-(due|duisburg-essen)\.de',
+    'learninglab\.uni-(due|duisburg-essen)\.de/print/',
+    'learninglab\.uni-(due|duisburg-essen)\.de/biblio',
+    'learninglab\.uni-(due|duisburg-essen)\.de/pr.*fungsarbeit/',
+    'debian\.uni-(due|duisburg-essen)\.de',
+    'belegung\.uni-(due|duisburg-essen)\.de',
+
+    'wi-inf\.uni-(due|duisburg-essen)\.de/FGFrank',
+    'learninglab\.uni-(due|duisburg-essen)\.de/user/\d+/biblio',
+
+    'r-mirror\.zim\.uni-(due|duisburg-essen)\.de',
+
+    'index\.php\?title=', # MediaWiki
+    'gitlab.*\.uni-(due|duisburg-essen)\.de', # Git, GitLab, ...
+    'wi-inf\.uni-(due|duisburg-essen)\.de/LE4MM',
+
+    # Broken pagination leads to endless links, allow maximum offset of 999
+    'index\.php\?offset=(-|[0-9]{4})',
+
+    'learninglab\.uni-(due|duisburg-essen)\.de/termine/',
+]
+# Alternatively, a list of explicitly allowed links can be provided:
+# allow-urls = ['...']
+# Note that you may not use both options at once

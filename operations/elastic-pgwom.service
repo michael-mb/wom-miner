@@ -1,0 +1,52 @@
+# Elasticsearch service definition for systemd
+# Source: https://github.com/elastic/elasticsearch/blob/bdf307b8f11e3ab60b5926c983a468c68ae0985e/distribution/packages/src/common/systemd/elasticsearch.service
+
+# see also:
+# - https://github.com/elastic/elasticsearch/issues/55477
+# - https://discuss.elastic.co/t/starting-elasticsearch-with-systemd-hangs/229510/4
+# - https://www.elastic.co/guide/en/elasticsearch/reference/current/targz.html
+# - https://discuss.elastic.co/t/ubuntu-20-04-tar-zip-installed-systemd-timeout/287000
+# - https://discuss.elastic.co/t/how-can-i-install-systemd-module-into-the-es-serverinstalled-from-the-archive/243656/2
+
+[Unit]
+Description=Elasticsearch 8.8.1 (PG WOM)
+Documentation=https://www.elastic.co/guide/en/elasticsearch/reference/8.8/index.html
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=pg-wom
+PrivateTmp=true
+ExecStart=/home/pg-wom/elasticsearch-8.8.1/bin/elasticsearch
+Restart=always
+
+# StandardOutput is configured to redirect to journalctl since
+# some error messages may be logged in standard output before
+# elasticsearch logging system is initialized. Elasticsearch
+# stores its logs in /var/log/elasticsearch and does not use
+# journalctl by default. If you also want to enable journalctl
+# logging, you can simply remove the "quiet" option from ExecStart.
+StandardOutput=journal
+StandardError=inherit
+
+# Disable timeout logic and wait until process is stopped
+TimeoutStopSec=0
+
+# SIGTERM signal is used to stop the Java process
+KillSignal=SIGTERM
+
+# Send the signal only to the JVM rather than its control group
+KillMode=process
+
+# Java process is never killed
+SendSIGKILL=no
+
+# When a JVM receives a SIGTERM signal it exits with code 143
+SuccessExitStatus=143
+
+# Allow a slow startup before the systemd notifier module kicks in to extend the timeout
+TimeoutStartSec=900
+
+[Install]
+WantedBy=multi-user.target

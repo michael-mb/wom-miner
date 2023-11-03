@@ -1,0 +1,22 @@
+{'name': 'Fakultät für Wirtschaftswissenschaft', 'link': 'https://www2.wiwi.rub.de/dekanat', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Philologie', 'link': 'http://www.dekphil.rub.de/', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Informatik', 'link': 'https://informatik.rub.de/', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Maschinenbau', 'link': 'https://www.mb.rub.de/', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Psychologie', 'link': 'https://smd.rub.de/fuer-psychologie-und-sepm/', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Mathematik', 'link': 'http://www.ruhr-uni-bochum.de/ffm', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Physik', 'link': 'https://www.physik.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Philosophie', 'link': 'https://www.pe.ruhr-uni-bochum.de/fakultaet/index.html.de', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Biologie', 'link': 'http://www.biologie.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Sozialwissenschaft', 'link': 'http://www.sowi.rub.de/index.html.de', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Elektrotechnik', 'link': 'https://www.etit.ruhr-uni-bochum.de', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Chemie', 'link': 'http://chemie.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Geowissenschaften', 'link': 'https://www.geos.ruhr-uni-bochum.de/geogleichstellung', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Sportwissenschaft', 'link': 'https://sport.ruhr-uni-bochum.de/de/fakultaet-fuer-sportwissenschaft', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Geschichtswissenschaft', 'link': 'http://www.ruhr-uni-bochum.de/geschichtswissenschaft', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Ostasienwissenschaften', 'link': 'http://www.ruhr-uni-bochum.de/oaw', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Geschichte', 'link': 'http://www.ruhr-uni-bochum.de/geschichtswissenschaft', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Juristische Fakultät', 'link': 'http://www.jura.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Katholisch-Theologische Fakultät', 'link': 'https://dev.kath.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Medizinische Fakultät', 'link': 'https://www.medizin.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Evangelisch-Theologische Fakultät', 'link': 'http://www.ev-theol.ruhr-uni-bochum.de/', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}
+{'name': 'Fakultät für Bau- und Umweltingenieurwissenschaften', 'link': 'http://www.fbi.ruhr-uni-bochum.de/index.html.de', 'uni': 'rub', 'type': 'faculty', 'upper': 'rub'}

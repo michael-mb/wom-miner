@@ -1,0 +1,178 @@
+{'name': 'Lehrstuhl für Mechanik & Robotik', 'link': 'https://www.uni-due.de/mechanikb/aktuelles', 'upper': 'None'}
+{'name': 'Abteilung für Interkulturelle Psychologie - Migration und Integration', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Elektrische Energieversorgung, Leibniz', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Netzwerktheorie und Signalverarbeitung', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Quantitative Wirtschaftspolitik', 'link': 'https://www.wipo.wiwi.uni-due.de/profil/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftswissenschaften', 'link': 'https://www.wida.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Allgemeine Betriebswirtschaftslehre', 'link': 'https://www.abwl.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftspädagogik', 'link': 'https://www.wipaed.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Unternehmensbesteuerung', 'link': 'https://www.steuern.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Personal', 'link': 'https://www.puu.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Mechatronik', 'link': 'https://www.uni-due.de/mechatronik', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftsinformatik und Strategisches IT-Management', 'link': 'http://www.sitm.wiwi.uni-due.de', 'upper': 'None'}
+{'name': 'Lehrstuhl für Mikroökonomik', 'link': 'https://www.mikro.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Modellierung', 'link': 'https://www.mas.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Strömungsmechanik', 'link': 'https://www.uni-due.de/smk', 'upper': 'None'}
+{'name': 'Lehrstuhl für Mechanik und Robotik', 'link': 'https://www.uni-due.de/mechanikb', 'upper': 'None'}
+{'name': 'Lehrstuhl für Software-Engineering', 'link': 'http://www.se.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Internationale Rechnungslegung', 'link': 'https://www.irl.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für internationale Rechnungslegung', 'link': 'http://www.irl.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Sichere Software Systeme', 'link': 'https://www.syssec.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Ostasienwirtschaft', 'link': 'https://www.china.msm.uni-due.de/chair-for-east-asian-economic-studies-china/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Arbeitsmarkt- und Migrationsökonomik', 'link': 'https://www.labor.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Produktions- und Logistikplanung', 'link': 'https://www.pl.msm.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Mensch-Computer Interaktion', 'link': 'https://www.hci.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftsinformatik und Sustainable Supply Chain Management', 'link': 'https://www.sust.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Statistik', 'link': 'https://www.dmps.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftsdidaktik', 'link': 'https://www.uni-due.de/imperia/md/content/stellenmarkt/8130_ude_shk.pdf', 'upper': 'None'}
+{'name': 'Abteilung für Informatik und Angewandte Kognitionswissenschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Strömungsmaschinen', 'link': 'https://www.uni-due.de/tm', 'upper': 'None'}
+{'name': 'Lehrstuhl für Technik der Rechnernetze', 'link': 'http://www.tdr.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für betriebliche Finanzwirtschaft', 'link': 'https://www.bafi.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Digital Business und Digital Entrepreneurship', 'link': 'https://www.wi.wiwi.uni-due.de/ueber-uns/personen/professoren/tobias-kollmann/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Logistik', 'link': 'https://www.uni-due.de/apps/rss.php?id=63&db=zlv', 'upper': 'None'}
+{'name': 'Lehrstuhl für Monetäre Ökonomik', 'link': 'https://www.makro.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Orthopädie und Unfallchirurgie', 'link': 'https://www.uni-due.de/lehrstuhl_orthopaedie_unfallchirurgie', 'upper': 'None'}
+{'name': 'Lehrstuhl für Gesundheitsökonomik', 'link': 'https://www.goek.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für E-Business und E-Entrepreneurship', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Politikwissenschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Makroökonomik', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Particle Science', 'link': 'None', 'upper': 'None'}
+{'name': 'Abteilung für Niederländische Sprache und Kultur', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Europäische Integration', 'link': 'https://www.uni-due.de/apps/rss.php?id=285&db=geswi', 'upper': 'None'}
+{'name': 'Lehrstuhl für Lehr-Lernpsychologie', 'link': 'http://www.uni-due.de/llpsych/deutsch/index.html', 'upper': 'None'}
+{'name': 'Abteilung für Klinische Psychologie und Psychotherapie', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Unternehmensmodellierung', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Fluiddynamik', 'link': 'http://www.uni-due.de/ivg/fluiddynamik/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Produktionssysteme', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Finanzwirtschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für vaskuläre Neurologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Volkswirtschaftslehre Mercator School', 'link': 'https://www.vwl.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Technische Mechanik', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Didaktik der Physik', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftsinformatik der Produktionsunternehmen', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Produktion und Logistik', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Banken', 'link': 'None', 'upper': 'None'}
+{'name': 'Abteilung für Translationale Neuroonkologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Berufs- und Wirtschaftspädagogik', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Informationssysteme', 'link': 'https://www.sitm.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Sozialpsychologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftsinformatik und strategisches IT-Management', 'link': 'https://www.sitm.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Betriebliche Finanzwirtschaft und Banken', 'link': 'https://www.msm.uni-due.de/fileadmin/Dateien/MSM/AEnderungen_am_Lehrstuhl_fuer_Banken_2023.pdf', 'upper': 'None'}
+{'name': 'Lehrstuhl für Empirische Politikwissenschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschafts- und Organisationspsychologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Didaktik der Sozialwissenschaften', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Operations Research und Supply Chain Management', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Supply Chain Management', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Technische Chemie', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Unternehmensführung', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftsinformatik und Strategische IT-Management', 'link': 'None', 'upper': 'None'}
+{'name': 'Abteilung für Niederlandistik', 'link': 'https://www.uni-due.de/germanistik/niederlandistik/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Lehr-Lernforschung', 'link': 'https://www.uni-due.de/prowin/www.ruhr-uni-bochum.de/lehrlernforschung/index.html', 'upper': 'None'}
+{'name': 'Lehrstuhl für Thermische Verfahrenstechnik', 'link': 'https://www.uni-due.de/imperia/md/content/water-science/ss16/stellenanzeige_charakterisierung_adsorption.pdf', 'upper': 'None'}
+{'name': 'Lehrstuhl für empirische Politikwissenschaft', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für quantitative Wirtschaftspolitik', 'link': 'https://www.wipo.wiwi.uni-due.de/en/profile/', 'upper': 'None'}
+{'name': 'Abteilung für Endokrinologie', 'link': 'None', 'upper': 'None'}
+{'name': 'Abteilung für Landesgeschichte der Rhein-Maas-Region', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Fachdidaktik', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Internationale Beziehungen und Entwicklungspolitik', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Kommunikationswissenschaft', 'link': 'https://www.uni-due.de/kowi/theorkom/jloenhoff.php', 'upper': 'None'}
+{'name': 'Abteilung für Translationale Onkologie Solider Tumore', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für E-Entrepreneurship', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftsinformatik II', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl Personal und Unternehmensführung', 'link': 'https://www.msm.uni-due.de/en/news/msm-news-single-view-en/stellenausschreibung-als-wissenschaftliche-hilfskraft-wmd-am-lehrstuhl-personal-und-unternehmensfuehrung-15440/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Software-Engineering, insb. mobile Anwendungen', 'link': 'http://www.se.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Networked Embbedded Systems', 'link': 'http://www.nes.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Volkswirtschaftslehre, insb. Öffentliche Finanzen', 'link': 'https://www.pubecon.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für VWL, insb. Makroökonomik', 'link': 'http://www.makro.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Juniorprofessur für Umweltökonomik, insb. Ökonomik erneuerbarer Energien', 'link': 'http://www.uee.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl Steuerung, Regelung und Systemdynamik', 'link': 'https://www.uni-due.de/srs/', 'upper': 'None'}
+{'name': 'Networks and Communication Systems', 'link': 'https://www.ncs.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl WiPäd', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl Steuern', 'link': 'None', 'upper': 'None'}
+{'name': 'Lehrstuhl für Energiewirtschaft', 'link': 'https://www.ewl.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Service Operations', 'link': 'https://www.msm.uni-due.de/news/einzelansicht/whk-stelle-am-lehrstuhl-fuer-service-operations-17294/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Interne Revision', 'link': 'https://www.ircg.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Volkswirtschaftslehre, insbesondere Makroökonomik', 'link': 'https://www.makro.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftsinformatik und integrierte Informationssysteme', 'link': 'https://www.iis.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Energiehandel und Finanzdienstleistungen', 'link': 'https://www.lef.wiwi.uni-due.de', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftsinformatik und Softwaretechnik', 'link': 'https://www.softec.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Finanzierung', 'link': 'https://www.fin.wiwi.uni-due.de', 'upper': 'None'}
+{'name': 'Lehrstuhl für Makroökonomie', 'link': 'http://www.makro.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftsinformatik und Unternehmensmodellierung', 'link': 'https://www.umo.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Medizin-Management', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Umweltverfahrenstechnik und Anlagentechnik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Aquatische Mikrobiologie', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Rechnungswesen, Wirtschaftsprüfung und Controlling', 'link': 'https://www.rwpc.msm.uni-due.de/startseite/', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Systematische Theologie', 'link': 'https://www.uni-due.de/katheol/systheol', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Mechanische Verfahrenstechnik', 'link': 'https://www.uni-due.de/Wassertechnik', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Fertigungstechnik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Konstruktion', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Kulturgeographie und Entwicklungsforschung', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Lehrstuhl für Siedlungswasserwirtschaft', 'link': 'https://www.uni-due.de/imperia/md/content/water-science/ws1819/stellenausschreibungen_laborleiterin.pdf', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl Theoretische Informatik', 'link': 'https://www.uni-due.de/theoinf', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Arbeit, Personal und Organisation', 'link': 'http://www.uni-due.de/personal/', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Lehrstuhl für Umformtechnik', 'link': 'https://www.uni-due.de/umf/', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Technische Logistik', 'link': 'https://www.uni-due.de/apps/rss.php?id=523&db=zlv', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Kommunikationstechnik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Energietechnik', 'link': 'https://www.uni-due.de/energietechnik/', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Numerische Mathematik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Physik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Wirtschaftspolitik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Abteilung für Klinisch-Psychologische Intervention', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Software Systems Engineering', 'link': 'https://sse.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Ökonometrie', 'link': 'https://www.oek.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Medizinmanagement', 'link': 'https://www.mm.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Betriebswirtschaftslehre', 'link': 'https://www.log.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Software Engineering', 'link': 'https://se.wiwi.uni-due.de/tag/lehrstuhl-fuer-software-engineering/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Unternehmens- und Technologieplanung', 'link': 'https://www.utp.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Didaktik der Informatik', 'link': 'https://www.ddi.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Betriebswirtschaftliche Steuerlehre', 'link': 'https://www.bwsl.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Dienstleistungsmanagement und Handel', 'link': 'https://www.dmh.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftsprivat- und Arbeitsrecht', 'link': 'https://www.wpar.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Finance', 'link': 'https://www.finance.msm.uni-due.de/startseite/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Metallurgie', 'link': 'https://www.uni-due.de/umf', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Lehrstuhl für Politik und Gesellschaft Koreas', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Lehrstuhl für Systemsicherheit', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Lehrstuhl für Versicherungsbetriebslehre und Risikomanagement', 'link': 'https://www.insurance.msm.uni-due.de/startseite/', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Lehrstuhl für Arbeit, Personal', 'link': 'http://www.uni-due.de/personal/', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Lehrstuhl für Transportsysteme', 'link': 'https://www.uni-due.de/tul/profil.php', 'upper': 'Fakultät für Mathematik'}
+{'name': 'Lehrstuhl für Computergraphik', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Lehrstuhl für Datenverwaltungssysteme und Wissensrepräsentation', 'link': 'https://www.dawis.wiwi.uni-due.de/', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Lehrstuhl für Finanzmarktökonometrie', 'link': 'https://www.oek.wiwi.uni-due.de/', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Lehrstuhl für Quantitative Methoden', 'link': 'https://www.qmw.msm.uni-due.de/startseite/', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Lehrstuhl für Marketing', 'link': 'https://www.marketing.wiwi.uni-due.de/', 'upper': 'Fakultät für Betriebswirtschaftslehre'}
+{'name': 'Lehrstuhl für experimentelle Wirtschaftsforschung', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Lehrstuhl für Produktionswirtschaft', 'link': 'http://www.msm.uni-due.de/pui', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Werkstofftechnik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Wirtschaftsinformatik, insbesondere Business', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Wirtschaftsgeographie', 'link': 'https://www.uni-due.de/wigeo/', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Energieverfahrenstechnik und Energiesysteme', 'link': 'https://www.uni-due.de/lee', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Internationale Wirtschaftsbeziehungen', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Abteilung für Kardiologie', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Abteilung für Verkehrstechnik', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Networked Embedded Systems', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Abteilung für Neurologie', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Internationale Stadt- und Metropolenentwicklung', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Internationales Automobilmanagement', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Abteilung für Psychiatrie', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Didaktik der Geschichte', 'link': 'None', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Lehrstuhl für Naturheilkunde', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Organische Chemie', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Rechnereinsatz', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Rechnungslegung', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Lehrstuhl für Unternehmenspolitik und Marketing', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Lehrstuhl für Allgemeine Betriebwirtschaftslehre', 'link': 'None', 'upper': 'Fakultät für Bildungswissenschaften'}
+{'name': 'Lehrstuhl für Analytics', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Lehrstuhl für Beschaffung, Logistik und Informationsmanagement', 'link': 'http://www.bli.wiwi.uni-due.de/rss/', 'upper': 'Fakultät für Gesellschaftswissenschaften'}
+{'name': 'Lehrstuhl für Finanzwissenschaft', 'link': 'None', 'upper': 'Fakultät für Wirtschaftswissenschaften'}
+{'name': 'Lehrstuhl für Intelligente Systeme', 'link': 'http://www.is.uni-due.de/', 'upper': 'Fakultät für Chemie'}
+{'name': 'Lehrstuhl für Marketing und Handel', 'link': 'http://www.marketing.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für VWL, insb. Internationale Wirtschaftsbeziehungen', 'link': 'http://www.iwb.wiwi.uni-due.de', 'upper': 'None'}
+{'name': 'Fachgebiet Statistik', 'link': 'http://www.stat.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für VWL, insb. Gesundheitsökonomik', 'link': 'http://www.goek.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Juniorprofessur für Empirische Gesundheitsökonomik', 'link': 'https://www.hcm.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Juniorprofessur für Volkswirtschaftslehre, insb. Arbeitsmarkt und Gesundheit', 'link': 'https://www.amg.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Juniorprofessur für Volkswirtschaftslehre, insb. Arbeitsmarkt- und Migrationsökonomik', 'link': 'https://www.labor.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Wirtschaftswissenschaften und Didaktik der Wirtschaftslehre', 'link': 'http://www.wida.wiwi.uni-due.de/', 'upper': 'None'}
+{'name': 'Lehrstuhl für Mediendidaktik', 'link': 'https://learninglab.uni-due.de/', 'upper': 'None'}

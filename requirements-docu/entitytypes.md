@@ -1,0 +1,6 @@
+university
+faculties
+institutes
+chairs/research group
+persons
+research projects

@@ -1,0 +1,1 @@
+scrapy crawl elastic -a university=ude -a elastic=production -L INFO --logfile /mnt/data/pg-wom/logs/crawler-ude.log -s JOBDIR=/mnt/data/pg-wom/crawler-state-ude

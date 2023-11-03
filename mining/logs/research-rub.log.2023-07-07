@@ -1,0 +1,1228 @@
+2023-07-07 16:41:04 [INFO    ] womutils.elastic                         : Elasticsearch instance successfully connected
+2023-07-07 16:41:07 [INFO    ] research.main                            : num_documents: 188691
+2023-07-07 16:41:07 [INFO    ] research.main                            : num_batches: 1887
+2023-07-07 16:41:07 [INFO    ] research.main                            : last_timestamp=[1688423327690]
+2023-07-07 16:42:13 [INFO    ] research.main                            : Summary time elapsed: 63.32632064819336
+2023-07-07 16:42:14 [INFO    ] research.main                            : Number of documents mined: 1
+2023-07-07 16:42:56 [INFO    ] research.main                            : Summary time elapsed: 42.83493757247925
+2023-07-07 16:42:58 [INFO    ] research.main                            : Number of documents mined: 2
+2023-07-07 16:43:44 [INFO    ] research.main                            : Summary time elapsed: 46.122546434402466
+2023-07-07 16:43:45 [INFO    ] research.main                            : Number of documents mined: 3
+2023-07-07 16:44:31 [INFO    ] research.main                            : Summary time elapsed: 46.52881622314453
+2023-07-07 16:44:33 [INFO    ] research.main                            : Number of documents mined: 4
+2023-07-07 16:46:43 [INFO    ] research.main                            : Summary time elapsed: 130.4268763065338
+2023-07-07 16:46:44 [INFO    ] research.main                            : Number of documents mined: 5
+2023-07-07 16:47:29 [INFO    ] research.main                            : Summary time elapsed: 44.44570231437683
+2023-07-07 16:47:30 [INFO    ] research.main                            : Number of documents mined: 6
+2023-07-07 16:48:17 [INFO    ] research.main                            : Summary time elapsed: 47.33358097076416
+2023-07-07 16:48:19 [INFO    ] research.main                            : Number of documents mined: 7
+2023-07-07 16:49:05 [INFO    ] research.main                            : Summary time elapsed: 46.8797652721405
+2023-07-07 16:49:07 [INFO    ] research.main                            : Number of documents mined: 8
+2023-07-07 16:49:56 [INFO    ] research.main                            : Summary time elapsed: 49.45852613449097
+2023-07-07 16:49:57 [INFO    ] research.main                            : Number of documents mined: 9
+2023-07-07 16:50:52 [INFO    ] research.main                            : Summary time elapsed: 54.99256706237793
+2023-07-07 16:50:53 [INFO    ] research.main                            : Number of documents mined: 10
+2023-07-07 16:50:53 [INFO    ] research.main                            : last_timestamp=[1688477533106]
+2023-07-07 16:51:40 [INFO    ] research.main                            : Summary time elapsed: 44.42035961151123
+2023-07-07 16:51:41 [INFO    ] research.main                            : Number of documents mined: 11
+2023-07-07 16:53:09 [INFO    ] research.main                            : Summary time elapsed: 87.97533798217773
+2023-07-07 16:53:10 [INFO    ] research.main                            : Number of documents mined: 12
+2023-07-07 16:53:52 [INFO    ] research.main                            : Summary time elapsed: 41.79107594490051
+2023-07-07 16:53:53 [INFO    ] research.main                            : Number of documents mined: 13
+2023-07-07 16:54:36 [INFO    ] research.main                            : Summary time elapsed: 42.865036725997925
+2023-07-07 16:54:37 [INFO    ] research.main                            : Number of documents mined: 14
+2023-07-07 16:55:20 [INFO    ] research.main                            : Summary time elapsed: 42.945783615112305
+2023-07-07 16:55:21 [INFO    ] research.main                            : Number of documents mined: 15
+2023-07-07 16:56:05 [INFO    ] research.main                            : Summary time elapsed: 43.46191596984863
+2023-07-07 16:56:06 [INFO    ] research.main                            : Number of documents mined: 16
+2023-07-07 16:57:33 [INFO    ] research.main                            : Summary time elapsed: 87.0460295677185
+2023-07-07 16:57:34 [INFO    ] research.main                            : Number of documents mined: 17
+2023-07-07 16:58:24 [INFO    ] research.main                            : Summary time elapsed: 49.93369936943054
+2023-07-07 16:58:25 [INFO    ] research.main                            : Number of documents mined: 18
+2023-07-07 16:59:09 [INFO    ] research.main                            : Summary time elapsed: 44.173354625701904
+2023-07-07 16:59:10 [INFO    ] research.main                            : Number of documents mined: 19
+2023-07-07 16:59:52 [INFO    ] research.main                            : Summary time elapsed: 41.34780478477478
+2023-07-07 16:59:53 [INFO    ] research.main                            : Number of documents mined: 20
+2023-07-07 16:59:53 [INFO    ] research.main                            : last_timestamp=[1688477584561]
+2023-07-07 17:00:35 [INFO    ] research.main                            : Summary time elapsed: 41.43470215797424
+2023-07-07 17:00:36 [INFO    ] research.main                            : Number of documents mined: 21
+2023-07-07 17:01:16 [INFO    ] research.main                            : Summary time elapsed: 40.21302127838135
+2023-07-07 17:01:17 [INFO    ] research.main                            : Number of documents mined: 22
+2023-07-07 17:02:01 [INFO    ] research.main                            : Summary time elapsed: 43.13557505607605
+2023-07-07 17:02:02 [INFO    ] research.main                            : Number of documents mined: 23
+2023-07-07 17:02:48 [INFO    ] research.main                            : Summary time elapsed: 45.82970595359802
+2023-07-07 17:02:49 [INFO    ] research.main                            : Number of documents mined: 24
+2023-07-07 17:03:45 [INFO    ] research.main                            : Summary time elapsed: 55.819995403289795
+2023-07-07 17:03:46 [INFO    ] research.main                            : Number of documents mined: 25
+2023-07-07 17:04:37 [INFO    ] research.main                            : Summary time elapsed: 51.43854832649231
+2023-07-07 17:04:38 [INFO    ] research.main                            : Number of documents mined: 26
+2023-07-07 17:05:38 [INFO    ] research.main                            : Summary time elapsed: 59.322678565979004
+2023-07-07 17:05:39 [INFO    ] research.main                            : Number of documents mined: 27
+2023-07-07 17:06:21 [INFO    ] research.main                            : Summary time elapsed: 41.834410190582275
+2023-07-07 17:06:22 [INFO    ] research.main                            : Number of documents mined: 28
+2023-07-07 17:07:03 [INFO    ] research.main                            : Summary time elapsed: 40.720813274383545
+2023-07-07 17:07:04 [INFO    ] research.main                            : Number of documents mined: 29
+2023-07-07 17:07:44 [INFO    ] research.main                            : Summary time elapsed: 40.46072506904602
+2023-07-07 17:07:45 [INFO    ] research.main                            : Number of documents mined: 30
+2023-07-07 17:07:45 [INFO    ] research.main                            : last_timestamp=[1688481211363]
+2023-07-07 17:08:27 [INFO    ] research.main                            : Summary time elapsed: 39.74044418334961
+2023-07-07 17:08:28 [INFO    ] research.main                            : Number of documents mined: 31
+2023-07-07 17:09:08 [INFO    ] research.main                            : Summary time elapsed: 40.187925577163696
+2023-07-07 17:09:09 [INFO    ] research.main                            : Number of documents mined: 32
+2023-07-07 17:09:51 [INFO    ] research.main                            : Summary time elapsed: 41.7045464515686
+2023-07-07 17:09:52 [INFO    ] research.main                            : Number of documents mined: 33
+2023-07-07 17:11:57 [INFO    ] research.main                            : Summary time elapsed: 125.01766419410706
+2023-07-07 17:11:58 [INFO    ] research.main                            : Number of documents mined: 34
+2023-07-07 17:12:44 [INFO    ] research.main                            : Summary time elapsed: 46.03580594062805
+2023-07-07 17:12:46 [INFO    ] research.main                            : Number of documents mined: 35
+2023-07-07 17:13:26 [INFO    ] research.main                            : Summary time elapsed: 40.25700116157532
+2023-07-07 17:13:27 [INFO    ] research.main                            : Number of documents mined: 36
+2023-07-07 17:15:04 [INFO    ] research.main                            : Summary time elapsed: 97.42415165901184
+2023-07-07 17:15:05 [INFO    ] research.main                            : Number of documents mined: 37
+2023-07-07 17:15:47 [INFO    ] research.main                            : Summary time elapsed: 41.87565588951111
+2023-07-07 17:15:48 [INFO    ] research.main                            : Number of documents mined: 38
+2023-07-07 17:16:34 [INFO    ] research.main                            : Summary time elapsed: 45.17756962776184
+2023-07-07 17:16:35 [INFO    ] research.main                            : Number of documents mined: 39
+2023-07-07 17:17:23 [INFO    ] research.main                            : Summary time elapsed: 47.9461727142334
+2023-07-07 17:17:23 [INFO    ] research.main                            : Number of documents mined: 40
+2023-07-07 17:17:23 [INFO    ] research.main                            : last_timestamp=[1688484975589]
+2023-07-07 17:18:12 [INFO    ] research.main                            : Summary time elapsed: 46.55984401702881
+2023-07-07 17:18:13 [INFO    ] research.main                            : Number of documents mined: 41
+2023-07-07 17:19:13 [INFO    ] research.main                            : Summary time elapsed: 60.078096866607666
+2023-07-07 17:19:14 [INFO    ] research.main                            : Number of documents mined: 42
+2023-07-07 17:20:05 [INFO    ] research.main                            : Summary time elapsed: 51.49687576293945
+2023-07-07 17:20:06 [INFO    ] research.main                            : Number of documents mined: 43
+2023-07-07 17:20:59 [INFO    ] research.main                            : Summary time elapsed: 52.73648238182068
+2023-07-07 17:21:00 [INFO    ] research.main                            : Number of documents mined: 44
+2023-07-07 17:22:06 [INFO    ] research.main                            : Summary time elapsed: 66.18827033042908
+2023-07-07 17:22:08 [INFO    ] research.main                            : Number of documents mined: 45
+2023-07-07 17:22:56 [INFO    ] research.main                            : Summary time elapsed: 48.388389587402344
+2023-07-07 17:22:57 [INFO    ] research.main                            : Number of documents mined: 46
+2023-07-07 17:23:37 [INFO    ] research.main                            : Summary time elapsed: 39.92586874961853
+2023-07-07 17:23:38 [INFO    ] research.main                            : Number of documents mined: 47
+2023-07-07 17:24:29 [INFO    ] research.main                            : Summary time elapsed: 51.10219764709473
+2023-07-07 17:24:30 [INFO    ] research.main                            : Number of documents mined: 48
+2023-07-07 17:25:27 [INFO    ] research.main                            : Summary time elapsed: 56.530036211013794
+2023-07-07 17:25:28 [INFO    ] research.main                            : Number of documents mined: 49
+2023-07-07 17:26:25 [INFO    ] research.main                            : Summary time elapsed: 57.252891063690186
+2023-07-07 17:26:27 [INFO    ] research.main                            : Number of documents mined: 50
+2023-07-07 17:26:27 [INFO    ] research.main                            : last_timestamp=[1688485921853]
+2023-07-07 17:27:26 [INFO    ] research.main                            : Summary time elapsed: 57.3884162902832
+2023-07-07 17:27:27 [INFO    ] research.main                            : Number of documents mined: 51
+2023-07-07 17:28:31 [INFO    ] research.main                            : Summary time elapsed: 63.48650240898132
+2023-07-07 17:28:32 [INFO    ] research.main                            : Number of documents mined: 52
+2023-07-07 17:29:25 [INFO    ] research.main                            : Summary time elapsed: 53.08467626571655
+2023-07-07 17:29:26 [INFO    ] research.main                            : Number of documents mined: 53
+2023-07-07 17:30:17 [INFO    ] research.main                            : Summary time elapsed: 50.240970849990845
+2023-07-07 17:30:18 [INFO    ] research.main                            : Number of documents mined: 54
+2023-07-07 17:31:03 [INFO    ] research.main                            : Summary time elapsed: 45.50547790527344
+2023-07-07 17:31:05 [INFO    ] research.main                            : Number of documents mined: 55
+2023-07-07 17:32:10 [INFO    ] research.main                            : Summary time elapsed: 65.36790728569031
+2023-07-07 17:32:11 [INFO    ] research.main                            : Number of documents mined: 56
+2023-07-07 17:33:11 [INFO    ] research.main                            : Summary time elapsed: 59.90035843849182
+2023-07-07 17:33:12 [INFO    ] research.main                            : Number of documents mined: 57
+2023-07-07 17:34:05 [INFO    ] research.main                            : Summary time elapsed: 53.18245339393616
+2023-07-07 17:34:07 [INFO    ] research.main                            : Number of documents mined: 58
+2023-07-07 17:36:30 [INFO    ] research.main                            : Summary time elapsed: 143.56243443489075
+2023-07-07 17:36:32 [INFO    ] research.main                            : Number of documents mined: 59
+2023-07-07 17:37:23 [INFO    ] research.main                            : Summary time elapsed: 51.750773668289185
+2023-07-07 17:37:25 [INFO    ] research.main                            : Number of documents mined: 60
+2023-07-07 17:37:25 [INFO    ] research.main                            : last_timestamp=[1688486853610]
+2023-07-07 17:38:13 [INFO    ] research.main                            : Summary time elapsed: 47.677847385406494
+2023-07-07 17:38:14 [INFO    ] research.main                            : Number of documents mined: 61
+2023-07-07 17:39:03 [INFO    ] research.main                            : Summary time elapsed: 48.79478478431702
+2023-07-07 17:39:04 [INFO    ] research.main                            : Number of documents mined: 62
+2023-07-07 17:39:51 [INFO    ] research.main                            : Summary time elapsed: 47.039799451828
+2023-07-07 17:39:53 [INFO    ] research.main                            : Number of documents mined: 63
+2023-07-07 17:40:52 [INFO    ] research.main                            : Summary time elapsed: 58.919028759002686
+2023-07-07 17:40:53 [INFO    ] research.main                            : Number of documents mined: 64
+2023-07-07 17:41:39 [INFO    ] research.main                            : Summary time elapsed: 46.14247751235962
+2023-07-07 17:41:40 [INFO    ] research.main                            : Number of documents mined: 65
+2023-07-07 17:42:30 [INFO    ] research.main                            : Summary time elapsed: 49.78469777107239
+2023-07-07 17:42:31 [INFO    ] research.main                            : Number of documents mined: 66
+2023-07-07 17:43:17 [INFO    ] research.main                            : Summary time elapsed: 45.669206380844116
+2023-07-07 17:43:18 [INFO    ] research.main                            : Number of documents mined: 67
+2023-07-07 17:44:10 [INFO    ] research.main                            : Summary time elapsed: 51.96904993057251
+2023-07-07 17:44:11 [INFO    ] research.main                            : Number of documents mined: 68
+2023-07-07 17:44:56 [INFO    ] research.main                            : Summary time elapsed: 45.08214235305786
+2023-07-07 17:44:57 [INFO    ] research.main                            : Number of documents mined: 69
+2023-07-07 17:45:42 [INFO    ] research.main                            : Summary time elapsed: 45.11201477050781
+2023-07-07 17:45:43 [INFO    ] research.main                            : Number of documents mined: 70
+2023-07-07 17:45:43 [INFO    ] research.main                            : last_timestamp=[1688488140548]
+2023-07-07 17:46:30 [INFO    ] research.main                            : Summary time elapsed: 45.31204795837402
+2023-07-07 17:46:31 [INFO    ] research.main                            : Number of documents mined: 71
+2023-07-07 17:47:22 [INFO    ] research.main                            : Summary time elapsed: 50.80183529853821
+2023-07-07 17:47:22 [INFO    ] research.main                            : Number of documents mined: 72
+2023-07-07 17:47:58 [INFO    ] research.main                            : Summary time elapsed: 35.60100269317627
+2023-07-07 17:47:59 [INFO    ] research.main                            : Number of documents mined: 73
+2023-07-07 17:48:46 [INFO    ] research.main                            : Summary time elapsed: 47.19034743309021
+2023-07-07 17:48:47 [INFO    ] research.main                            : Number of documents mined: 74
+2023-07-07 17:49:31 [INFO    ] research.main                            : Summary time elapsed: 44.05714440345764
+2023-07-07 17:49:33 [INFO    ] research.main                            : Number of documents mined: 75
+2023-07-07 17:50:10 [INFO    ] research.main                            : Summary time elapsed: 37.235562562942505
+2023-07-07 17:50:11 [INFO    ] research.main                            : Number of documents mined: 76
+2023-07-07 17:50:54 [INFO    ] research.main                            : Summary time elapsed: 43.03767251968384
+2023-07-07 17:50:55 [INFO    ] research.main                            : Number of documents mined: 77
+2023-07-07 17:55:56 [INFO    ] research.main                            : Summary time elapsed: 300.7723047733307
+2023-07-07 17:55:57 [INFO    ] research.main                            : Number of documents mined: 78
+2023-07-07 17:56:38 [INFO    ] research.main                            : Summary time elapsed: 40.97256565093994
+2023-07-07 17:56:39 [INFO    ] research.main                            : Number of documents mined: 79
+2023-07-07 17:57:22 [INFO    ] research.main                            : Summary time elapsed: 42.64084577560425
+2023-07-07 17:57:23 [INFO    ] research.main                            : Number of documents mined: 80
+2023-07-07 17:57:23 [INFO    ] research.main                            : last_timestamp=[1688553850365]
+2023-07-07 17:58:05 [INFO    ] research.main                            : Summary time elapsed: 41.34442591667175
+2023-07-07 17:58:07 [INFO    ] research.main                            : Number of documents mined: 81
+2023-07-07 17:58:50 [INFO    ] research.main                            : Summary time elapsed: 43.432737588882446
+2023-07-07 17:58:51 [INFO    ] research.main                            : Number of documents mined: 82
+2023-07-07 17:59:36 [INFO    ] research.main                            : Summary time elapsed: 44.75682306289673
+2023-07-07 17:59:37 [INFO    ] research.main                            : Number of documents mined: 83
+2023-07-07 18:00:21 [INFO    ] research.main                            : Summary time elapsed: 44.31652498245239
+2023-07-07 18:00:23 [INFO    ] research.main                            : Number of documents mined: 84
+2023-07-07 18:01:12 [INFO    ] research.main                            : Summary time elapsed: 49.67923331260681
+2023-07-07 18:01:13 [INFO    ] research.main                            : Number of documents mined: 85
+2023-07-07 18:02:03 [INFO    ] research.main                            : Summary time elapsed: 49.19571089744568
+2023-07-07 18:02:03 [INFO    ] research.main                            : Number of documents mined: 86
+2023-07-07 18:02:52 [INFO    ] research.main                            : Summary time elapsed: 48.81470704078674
+2023-07-07 18:02:53 [INFO    ] research.main                            : Number of documents mined: 87
+2023-07-07 18:03:33 [INFO    ] research.main                            : Summary time elapsed: 40.090514183044434
+2023-07-07 18:03:34 [INFO    ] research.main                            : Number of documents mined: 88
+2023-07-07 18:03:34 [INFO    ] research.main                            : Ignore doc with ID=9c23dd3bcbf44c079bd0d182020f620d8c8b9ad6837fc55c5ff0257b173d994e - URL=https://news.rub.de/wissenschaft/2023-06-28-forschung-im-verbund-unic-wo-menschen-wuerde-spueren, reason: Document has not passed filter criteria
+2023-07-07 18:03:34 [INFO    ] research.main                            : Number of documents mined: 89
+2023-07-07 18:04:28 [INFO    ] research.main                            : Summary time elapsed: 53.53674340248108
+2023-07-07 18:04:29 [INFO    ] research.main                            : Number of documents mined: 90
+2023-07-07 18:04:29 [INFO    ] research.main                            : last_timestamp=[1688554488776]
+2023-07-07 18:05:14 [INFO    ] research.main                            : Summary time elapsed: 44.51659679412842
+2023-07-07 18:05:15 [INFO    ] research.main                            : Number of documents mined: 91
+2023-07-07 18:05:52 [INFO    ] research.main                            : Summary time elapsed: 37.261523485183716
+2023-07-07 18:05:53 [INFO    ] research.main                            : Number of documents mined: 92
+2023-07-07 18:06:51 [INFO    ] research.main                            : Summary time elapsed: 57.601160287857056
+2023-07-07 18:06:52 [INFO    ] research.main                            : Number of documents mined: 93
+2023-07-07 18:06:52 [INFO    ] research.main                            : Ignore doc with ID=25cd435f6fad4be9fcc59d5ee51fbb46c81ce6b2f0201fc12b75477d9352c473 - URL=https://news.rub.de/wissenschaft/2023-06-14-materialforschung-pulvergefuellte-draehte-fuer-flexible-legierungen, reason: Document has not passed filter criteria
+2023-07-07 18:06:52 [INFO    ] research.main                            : Number of documents mined: 94
+2023-07-07 18:06:52 [INFO    ] research.main                            : Ignore doc with ID=ac055684be645edefdde11af67dda568b83a0467941cab4ed04693dfcd1c0a37 - URL=https://news.rub.de/wissenschaft/2022-05-05-virologie-materialforschung-kupfer-wirkt-effektiv-gegen-sars-cov-2-auf-oberflaechen-silber-nicht, reason: Document has not passed filter criteria
+2023-07-07 18:06:52 [INFO    ] research.main                            : Number of documents mined: 95
+2023-07-07 18:06:52 [INFO    ] research.main                            : Ignore doc with ID=96a7ad0a37340eb682e8f83d3da3dd09e7b33ecc587c75a1be0532d9536087d1 - URL=https://news.rub.de/wissenschaft/2022-01-13-materialforschung-eine-schatzkarte-fuer-das-reich-der-elektrokatalysatoren, reason: Document has not passed filter criteria
+2023-07-07 18:06:52 [INFO    ] research.main                            : Number of documents mined: 96
+2023-07-07 18:06:52 [INFO    ] research.main                            : Ignore doc with ID=e63aee101d1575e3a905fff931c61b84c1e705d559ffb1470d5be77ba1368802 - URL=https://news.rub.de/studium/2019-04-18-forschungsaufenthalt-tsukuba-fuehlt-sich-ein-bisschen-nach-rub, reason: Document has not passed filter criteria
+2023-07-07 18:06:52 [INFO    ] research.main                            : Number of documents mined: 97
+2023-07-07 18:06:52 [INFO    ] research.main                            : Ignore doc with ID=ef9fa6ae5e92b5847ac62605632f373ca10c29c2c03a2ddc37091884efbc567a - URL=https://news.rub.de/hochschulpolitik/2017-11-03-kooperation-forschung-und-austausch-mit-japan-gestaerkt, reason: Document has not passed filter criteria
+2023-07-07 18:06:52 [INFO    ] research.main                            : Number of documents mined: 98
+2023-07-07 18:06:52 [INFO    ] research.main                            : Ignore doc with ID=894061d8ead6741e870341feeeeb1ce9f25a939bd6835f9735af2ea934b408c1 - URL=https://news.rub.de/presseinformationen/wissenschaft/2023-06-14-materialforschung-pulvergefuellte-draehte-fuer-flexible-legierungen, reason: Document has not passed filter criteria
+2023-07-07 18:06:52 [INFO    ] research.main                            : Number of documents mined: 99
+2023-07-07 18:06:52 [INFO    ] research.main                            : Ignore doc with ID=26684a1eeb7448fc0723bfabbc6be7154fba43177ddd616e1f1683585b72335d - URL=https://news.rub.de/transfer/2023-04-25-veranstaltung-materialforschung-und-industrie-im-austausch, reason: Document has not passed filter criteria
+2023-07-07 18:06:52 [INFO    ] research.main                            : Number of documents mined: 100
+2023-07-07 18:06:52 [INFO    ] research.main                            : last_timestamp=[1688679289441]
+2023-07-07 18:12:13 [INFO    ] research.main                            : Summary time elapsed: 320.68131279945374
+2023-07-07 18:12:14 [INFO    ] research.main                            : Number of documents mined: 101
+2023-07-07 18:12:14 [INFO    ] research.main                            : Ignore doc with ID=52b29b4994223a62b691f816d08075de3c5012815e15dce4296f9b6140553d12 - URL=https://news.rub.de/wissenschaft/2023-06-02-forschungsinfrastruktur-neues-grossforschungsgeraet-fuer-die-materialcharakterisierung, reason: Document has not passed filter criteria
+2023-07-07 18:12:14 [INFO    ] research.main                            : Number of documents mined: 102
+2023-07-07 18:12:52 [INFO    ] research.main                            : Summary time elapsed: 38.81199097633362
+2023-07-07 18:12:53 [INFO    ] research.main                            : Number of documents mined: 103
+2023-07-07 18:13:31 [INFO    ] research.main                            : Summary time elapsed: 37.41649913787842
+2023-07-07 18:13:32 [INFO    ] research.main                            : Number of documents mined: 104
+2023-07-07 18:14:10 [INFO    ] research.main                            : Summary time elapsed: 38.65327572822571
+2023-07-07 18:14:11 [INFO    ] research.main                            : Number of documents mined: 105
+2023-07-07 18:14:50 [INFO    ] research.main                            : Summary time elapsed: 38.719942569732666
+2023-07-07 18:14:51 [INFO    ] research.main                            : Number of documents mined: 106
+2023-07-07 18:15:30 [INFO    ] research.main                            : Summary time elapsed: 38.79214358329773
+2023-07-07 18:15:31 [INFO    ] research.main                            : Number of documents mined: 107
+2023-07-07 18:16:10 [INFO    ] research.main                            : Summary time elapsed: 39.02463746070862
+2023-07-07 18:16:11 [INFO    ] research.main                            : Number of documents mined: 108
+2023-07-07 18:16:45 [INFO    ] research.main                            : Summary time elapsed: 34.57888412475586
+2023-07-07 18:16:46 [INFO    ] research.main                            : Number of documents mined: 109
+2023-07-07 18:17:17 [INFO    ] research.main                            : Summary time elapsed: 31.473690032958984
+2023-07-07 18:17:18 [INFO    ] research.main                            : Number of documents mined: 110
+2023-07-07 18:17:18 [INFO    ] research.main                            : last_timestamp=[1688679318337]
+2023-07-07 18:18:07 [INFO    ] research.main                            : Summary time elapsed: 47.27255082130432
+2023-07-07 18:18:07 [INFO    ] research.main                            : Number of documents mined: 111
+2023-07-07 18:18:45 [INFO    ] research.main                            : Summary time elapsed: 37.40249562263489
+2023-07-07 18:18:46 [INFO    ] research.main                            : Number of documents mined: 112
+2023-07-07 18:19:24 [INFO    ] research.main                            : Summary time elapsed: 38.259968519210815
+2023-07-07 18:19:25 [INFO    ] research.main                            : Number of documents mined: 113
+2023-07-07 18:20:15 [INFO    ] research.main                            : Summary time elapsed: 50.1762113571167
+2023-07-07 18:20:16 [INFO    ] research.main                            : Number of documents mined: 114
+2023-07-07 18:20:16 [INFO    ] research.main                            : Ignore doc with ID=ad2b049178575b49f72e2b64696c3cb264952cacef164819a237a64e0bbab286 - URL=https://news.rub.de/leute/2023-04-05-materialforschung-zuwachs-fuer-das-research-center-future-energy-materials-and-systems, reason: Document has not passed filter criteria
+2023-07-07 18:20:16 [INFO    ] research.main                            : Number of documents mined: 115
+2023-07-07 18:20:56 [INFO    ] research.main                            : Summary time elapsed: 39.70564842224121
+2023-07-07 18:20:57 [INFO    ] research.main                            : Number of documents mined: 116
+2023-07-07 18:21:54 [INFO    ] research.main                            : Summary time elapsed: 57.3183319568634
+2023-07-07 18:21:55 [INFO    ] research.main                            : Number of documents mined: 117
+2023-07-07 18:22:44 [INFO    ] research.main                            : Summary time elapsed: 48.643365144729614
+2023-07-07 18:22:44 [INFO    ] research.main                            : Number of documents mined: 118
+2023-07-07 18:23:33 [INFO    ] research.main                            : Summary time elapsed: 48.85865330696106
+2023-07-07 18:23:34 [INFO    ] research.main                            : Number of documents mined: 119
+2023-07-07 18:24:25 [INFO    ] research.main                            : Summary time elapsed: 50.80735921859741
+2023-07-07 18:24:26 [INFO    ] research.main                            : Number of documents mined: 120
+2023-07-07 18:24:26 [INFO    ] research.main                            : last_timestamp=[1688679420527]
+2023-07-07 18:25:27 [INFO    ] research.main                            : Summary time elapsed: 59.76305627822876
+2023-07-07 18:25:28 [INFO    ] research.main                            : Number of documents mined: 121
+2023-07-07 18:26:15 [INFO    ] research.main                            : Summary time elapsed: 47.16828632354736
+2023-07-07 18:26:16 [INFO    ] research.main                            : Number of documents mined: 122
+2023-07-07 18:26:16 [INFO    ] research.main                            : Ignore doc with ID=93400756af1243f7c06e55dac81193a911ef317ae5f49a1e473ff7575f09becd - URL=https://news.rub.de/transfer/2023-06-09-eu-projekt-wie-es-mit-dem-digitalen-coach-weitergeht, reason: Document has not passed filter criteria
+2023-07-07 18:26:16 [INFO    ] research.main                            : Number of documents mined: 123
+2023-07-07 18:26:56 [INFO    ] research.main                            : Summary time elapsed: 40.51013731956482
+2023-07-07 18:26:57 [INFO    ] research.main                            : Number of documents mined: 124
+2023-07-07 18:27:40 [INFO    ] research.main                            : Summary time elapsed: 42.96192765235901
+2023-07-07 18:27:41 [INFO    ] research.main                            : Number of documents mined: 125
+2023-07-07 18:28:31 [INFO    ] research.main                            : Summary time elapsed: 50.0653440952301
+2023-07-07 18:28:32 [INFO    ] research.main                            : Number of documents mined: 126
+2023-07-07 18:29:19 [INFO    ] research.main                            : Summary time elapsed: 46.30534386634827
+2023-07-07 18:29:20 [INFO    ] research.main                            : Number of documents mined: 127
+2023-07-07 18:30:03 [INFO    ] research.main                            : Summary time elapsed: 43.3919517993927
+2023-07-07 18:30:04 [INFO    ] research.main                            : Number of documents mined: 128
+2023-07-07 18:30:04 [INFO    ] research.main                            : Ignore doc with ID=e16fc52f72daec2f7a72b11dcf1fc9596b547b6997cd4d969582e74bbce831ec - URL=https://rdpci.rub.de/, reason: Document has not passed filter criteria
+2023-07-07 18:30:04 [INFO    ] research.main                            : Number of documents mined: 129
+2023-07-07 18:30:56 [INFO    ] research.main                            : Summary time elapsed: 52.0624315738678
+2023-07-07 18:30:57 [INFO    ] research.main                            : Number of documents mined: 130
+2023-07-07 18:30:57 [INFO    ] research.main                            : last_timestamp=[1688679505789]
+2023-07-07 18:30:58 [INFO    ] research.main                            : Ignore doc with ID=a989a400627d6711306262866cbf443d20d88a9e7d3d29f3c45e2df6ecee69de - URL=https://www.physik.ruhr-uni-bochum.de/studium/schule/projektwoche/, reason: Document has not passed filter criteria
+2023-07-07 18:30:58 [INFO    ] research.main                            : Number of documents mined: 131
+2023-07-07 18:30:58 [INFO    ] research.main                            : Ignore doc with ID=34feb91a808d84ff92680cb15e2bfd0298a179fd3d8e925c83048cef67c4a837 - URL=https://rdpci.ruhr-uni-bochum.de/, reason: Document has not passed filter criteria
+2023-07-07 18:30:58 [INFO    ] research.main                            : Number of documents mined: 132
+2023-07-07 18:32:03 [INFO    ] research.main                            : Summary time elapsed: 64.87460279464722
+2023-07-07 18:32:04 [INFO    ] research.main                            : Number of documents mined: 133
+2023-07-07 18:32:46 [INFO    ] research.main                            : Summary time elapsed: 42.26172471046448
+2023-07-07 18:32:47 [INFO    ] research.main                            : Number of documents mined: 134
+2023-07-07 18:33:30 [INFO    ] research.main                            : Summary time elapsed: 43.1591112613678
+2023-07-07 18:33:31 [INFO    ] research.main                            : Number of documents mined: 135
+2023-07-07 18:34:14 [INFO    ] research.main                            : Summary time elapsed: 42.7497878074646
+2023-07-07 18:34:15 [INFO    ] research.main                            : Number of documents mined: 136
+2023-07-07 18:35:08 [INFO    ] research.main                            : Summary time elapsed: 53.10544538497925
+2023-07-07 18:35:09 [INFO    ] research.main                            : Number of documents mined: 137
+2023-07-07 18:35:58 [INFO    ] research.main                            : Summary time elapsed: 48.89144587516785
+2023-07-07 18:35:59 [INFO    ] research.main                            : Number of documents mined: 138
+2023-07-07 18:36:47 [INFO    ] research.main                            : Summary time elapsed: 48.2152144908905
+2023-07-07 18:36:48 [INFO    ] research.main                            : Number of documents mined: 139
+2023-07-07 18:37:38 [INFO    ] research.main                            : Summary time elapsed: 49.16710829734802
+2023-07-07 18:37:38 [INFO    ] research.main                            : Number of documents mined: 140
+2023-07-07 18:37:38 [INFO    ] research.main                            : last_timestamp=[1688679532687]
+2023-07-07 18:37:39 [INFO    ] research.main                            : Ignore doc with ID=0484e2a087929b9c409ce18c4b7c534d4ca86bd1176054bfdd1f5161980a7c05 - URL=https://www.ruhr-uni-bochum.de/deutschlandforschung/, reason: Document has not passed filter criteria
+2023-07-07 18:37:39 [INFO    ] research.main                            : Number of documents mined: 141
+2023-07-07 18:37:39 [INFO    ] research.main                            : Ignore doc with ID=41cad42cb98c6b5c7c0fc5380a58e2b0cb3ca30cf689076141306ecd072d79e1 - URL=https://forschung.ruhr-uni-bochum.de/de/alexander-von-humboldt-professur, reason: Document has not passed filter criteria
+2023-07-07 18:37:39 [INFO    ] research.main                            : Number of documents mined: 142
+2023-07-07 18:41:30 [INFO    ] research.main                            : Summary time elapsed: 230.69761538505554
+2023-07-07 18:41:31 [INFO    ] research.main                            : Number of documents mined: 143
+2023-07-07 18:42:14 [INFO    ] research.main                            : Summary time elapsed: 43.386902809143066
+2023-07-07 18:42:15 [INFO    ] research.main                            : Number of documents mined: 144
+2023-07-07 18:42:58 [INFO    ] research.main                            : Summary time elapsed: 42.38421034812927
+2023-07-07 18:42:58 [INFO    ] research.main                            : Number of documents mined: 145
+2023-07-07 18:43:51 [INFO    ] research.main                            : Summary time elapsed: 52.85012936592102
+2023-07-07 18:43:52 [INFO    ] research.main                            : Number of documents mined: 146
+2023-07-07 18:44:40 [INFO    ] research.main                            : Summary time elapsed: 47.7055766582489
+2023-07-07 18:44:41 [INFO    ] research.main                            : Number of documents mined: 147
+2023-07-07 18:45:21 [INFO    ] research.main                            : Summary time elapsed: 39.56125998497009
+2023-07-07 18:45:22 [INFO    ] research.main                            : Number of documents mined: 148
+2023-07-07 18:46:08 [INFO    ] research.main                            : Summary time elapsed: 46.418808937072754
+2023-07-07 18:46:09 [INFO    ] research.main                            : Number of documents mined: 149
+2023-07-07 18:46:48 [INFO    ] research.main                            : Summary time elapsed: 39.07518815994263
+2023-07-07 18:46:49 [INFO    ] research.main                            : Number of documents mined: 150
+2023-07-07 18:46:49 [INFO    ] research.main                            : last_timestamp=[1688679557632]
+2023-07-07 18:46:50 [INFO    ] research.main                            : Ignore doc with ID=6700d0d55d56a260e4bebaedb75dc5431b6fe5c8a844424281842cbee4579ae7 - URL=http://www.elfi.ruhr-uni-bochum.de/, reason: Document has not passed filter criteria
+2023-07-07 18:46:50 [INFO    ] research.main                            : Number of documents mined: 151
+2023-07-07 18:48:34 [INFO    ] research.main                            : Summary time elapsed: 103.59756994247437
+2023-07-07 18:48:35 [INFO    ] research.main                            : Number of documents mined: 152
+2023-07-07 18:49:18 [INFO    ] research.main                            : Summary time elapsed: 43.00586915016174
+2023-07-07 18:49:19 [INFO    ] research.main                            : Number of documents mined: 153
+2023-07-07 18:50:08 [INFO    ] research.main                            : Summary time elapsed: 48.85696530342102
+2023-07-07 18:50:09 [INFO    ] research.main                            : Number of documents mined: 154
+2023-07-07 18:50:59 [INFO    ] research.main                            : Summary time elapsed: 49.828312397003174
+2023-07-07 18:51:00 [INFO    ] research.main                            : Number of documents mined: 155
+2023-07-07 18:51:44 [INFO    ] research.main                            : Summary time elapsed: 44.78369331359863
+2023-07-07 18:51:45 [INFO    ] research.main                            : Number of documents mined: 156
+2023-07-07 18:52:30 [INFO    ] research.main                            : Summary time elapsed: 44.612062215805054
+2023-07-07 18:52:31 [INFO    ] research.main                            : Number of documents mined: 157
+2023-07-07 18:53:20 [INFO    ] research.main                            : Summary time elapsed: 48.50448703765869
+2023-07-07 18:53:21 [INFO    ] research.main                            : Number of documents mined: 158
+2023-07-07 18:54:40 [INFO    ] research.main                            : Summary time elapsed: 79.04561924934387
+2023-07-07 18:54:41 [INFO    ] research.main                            : Number of documents mined: 159
+2023-07-07 18:55:19 [INFO    ] research.main                            : Summary time elapsed: 38.65612030029297
+2023-07-07 18:55:20 [INFO    ] research.main                            : Number of documents mined: 160
+2023-07-07 18:55:20 [INFO    ] research.main                            : last_timestamp=[1688679606869]
+2023-07-07 18:56:05 [INFO    ] research.main                            : Summary time elapsed: 43.85548233985901
+2023-07-07 18:56:06 [INFO    ] research.main                            : Number of documents mined: 161
+2023-07-07 18:56:51 [INFO    ] research.main                            : Summary time elapsed: 44.667309284210205
+2023-07-07 18:56:52 [INFO    ] research.main                            : Number of documents mined: 162
+2023-07-07 18:57:32 [INFO    ] research.main                            : Summary time elapsed: 40.80591320991516
+2023-07-07 18:57:33 [INFO    ] research.main                            : Number of documents mined: 163
+2023-07-07 18:58:11 [INFO    ] research.main                            : Summary time elapsed: 37.25206470489502
+2023-07-07 18:58:12 [INFO    ] research.main                            : Number of documents mined: 164
+2023-07-07 18:58:50 [INFO    ] research.main                            : Summary time elapsed: 38.14026498794556
+2023-07-07 18:58:51 [INFO    ] research.main                            : Number of documents mined: 165
+2023-07-07 18:59:30 [INFO    ] research.main                            : Summary time elapsed: 39.22515654563904
+2023-07-07 18:59:31 [INFO    ] research.main                            : Number of documents mined: 166
+2023-07-07 18:59:31 [INFO    ] research.main                            : Ignore doc with ID=8f4936f71f0483d4bd37d95745568e3e0517fcad8744e316a8dbfa9b0fca2c59 - URL=https://news.rub.de/presseinformationen/wissenschaft/2023-05-26-forschungsprojekt-strategien-fuer-eine-bessere-zusammenarbeit-bei-der-bauplanung, reason: Document has not passed filter criteria
+2023-07-07 18:59:31 [INFO    ] research.main                            : Number of documents mined: 167
+2023-07-07 18:59:31 [INFO    ] research.main                            : Ignore doc with ID=1f7c14538802be6a4f9673717ae2f4a33190a117b0364de85ab97d06df4d49cd - URL=https://news.rub.de/presseinformationen/wissenschaft/2023-06-01-projektstart-mit-ki-und-klimaschutzexpertise-werden-jugendliche-aktiv, reason: Document has not passed filter criteria
+2023-07-07 18:59:31 [INFO    ] research.main                            : Number of documents mined: 168
+2023-07-07 19:00:14 [INFO    ] research.main                            : Summary time elapsed: 43.15623664855957
+2023-07-07 19:00:15 [INFO    ] research.main                            : Number of documents mined: 169
+2023-07-07 19:00:15 [INFO    ] research.main                            : Ignore doc with ID=4b7b814f9bfef7af38bd35952411d882bdc51bd68a31414c20e3addda0edca69 - URL=https://news.rub.de/presseinformationen/studium/alle-jahre, reason: Document has not passed filter criteria
+2023-07-07 19:00:15 [INFO    ] research.main                            : Number of documents mined: 170
+2023-07-07 19:00:15 [INFO    ] research.main                            : last_timestamp=[1688679682811]
+2023-07-07 19:00:55 [INFO    ] research.main                            : Summary time elapsed: 39.09334325790405
+2023-07-07 19:00:56 [INFO    ] research.main                            : Number of documents mined: 171
+2023-07-07 19:01:43 [INFO    ] research.main                            : Summary time elapsed: 46.769795179367065
+2023-07-07 19:01:44 [INFO    ] research.main                            : Number of documents mined: 172
+2023-07-07 19:01:44 [INFO    ] research.main                            : Ignore doc with ID=cee6986ca42d039bd4f843c9866a1041a6dcb755796ddca5ec9300772962e2a6 - URL=https://news.rub.de/serie/forschung-und-verantwortung, reason: Document has not passed filter criteria
+2023-07-07 19:01:44 [INFO    ] research.main                            : Number of documents mined: 173
+2023-07-07 19:02:35 [INFO    ] research.main                            : Summary time elapsed: 51.538222789764404
+2023-07-07 19:02:36 [INFO    ] research.main                            : Number of documents mined: 174
+2023-07-07 19:02:36 [INFO    ] research.main                            : Ignore doc with ID=1f2289281bf4c9a31c4eadab8b1c27cb01419075e75c20a31dc4288cc16b5082 - URL=https://news.rub.de/dossier/ukraine, reason: Document has not passed filter criteria
+2023-07-07 19:02:36 [INFO    ] research.main                            : Number of documents mined: 175
+2023-07-07 19:03:26 [INFO    ] research.main                            : Summary time elapsed: 50.049062967300415
+2023-07-07 19:03:27 [INFO    ] research.main                            : Number of documents mined: 176
+2023-07-07 19:04:13 [INFO    ] research.main                            : Summary time elapsed: 45.29809594154358
+2023-07-07 19:04:14 [INFO    ] research.main                            : Number of documents mined: 177
+2023-07-07 19:04:14 [INFO    ] research.main                            : Ignore doc with ID=9e5a1c632458bc1f1f9da09625091bd749673f9a60ea3d654d7b423a8fd7b1dc - URL=https://news.rub.de/english/2023-03-27-stress-research-important-stress-questionnaire-now-available-german, reason: Document has not passed filter criteria
+2023-07-07 19:04:14 [INFO    ] research.main                            : Number of documents mined: 178
+2023-07-07 19:04:14 [INFO    ] research.main                            : Ignore doc with ID=c347131c1cc3a0a9e7612c059e487f6f8f8b5a03c586810f8fcab3810d705f05 - URL=https://news.rub.de/english/2023-04-05-material-research-new-profs-research-center-future-energy-materials-and-systems, reason: Document has not passed filter criteria
+2023-07-07 19:04:14 [INFO    ] research.main                            : Number of documents mined: 179
+2023-07-07 19:04:14 [INFO    ] research.main                            : Ignore doc with ID=203edc6149bf642219e6572a136cdae768c255daabe58d5e756ecf8669d65811 - URL=https://news.rub.de/english/2023-05-30-cosmology-bochum-researcher-involved-euclid-space-mission, reason: Document has not passed filter criteria
+2023-07-07 19:04:14 [INFO    ] research.main                            : Number of documents mined: 180
+2023-07-07 19:04:14 [INFO    ] research.main                            : last_timestamp=[1688679786123]
+2023-07-07 19:04:14 [INFO    ] research.main                            : Ignore doc with ID=16f2cc0380564be119ad441c9048627248a598a9bb205b269285d6c85368933b - URL=https://news.rub.de/english/2023-06-02-research-infrastructure-new-large-scale-research-instrument-materials-characterisation, reason: Document has not passed filter criteria
+2023-07-07 19:04:14 [INFO    ] research.main                            : Number of documents mined: 181
+2023-07-07 19:05:03 [INFO    ] research.main                            : Summary time elapsed: 48.567702770233154
+2023-07-07 19:05:04 [INFO    ] research.main                            : Number of documents mined: 182
+2023-07-07 19:05:42 [INFO    ] research.main                            : Summary time elapsed: 38.581594944000244
+2023-07-07 19:05:43 [INFO    ] research.main                            : Number of documents mined: 183
+2023-07-07 19:06:28 [INFO    ] research.main                            : Summary time elapsed: 44.41915726661682
+2023-07-07 19:06:29 [INFO    ] research.main                            : Number of documents mined: 184
+2023-07-07 19:06:29 [INFO    ] research.main                            : Ignore doc with ID=223a7186a4dd196ddc4196dd008ca4510f2d59b2456239bfe9a050d729d0786a - URL=https://www.rubigm.ruhr-uni-bochum.de/rubigm/publikationen/projektdokumentationen.html.en, reason: Document has not passed filter criteria
+2023-07-07 19:06:29 [INFO    ] research.main                            : Number of documents mined: 185
+2023-07-07 19:07:12 [INFO    ] research.main                            : Summary time elapsed: 43.03178834915161
+2023-07-07 19:07:13 [INFO    ] research.main                            : Number of documents mined: 186
+2023-07-07 19:07:13 [INFO    ] research.main                            : Ignore doc with ID=b83e638648b6d8209dd5e395ca5273a7dfb14a31c5b2ca53b4591c92f16c09e9 - URL=https://news.rub.de/english/press-releases/2023-06-14-materials-research-powder-filled-wires-highly-customizable-alloys, reason: Document has not passed filter criteria
+2023-07-07 19:07:13 [INFO    ] research.main                            : Number of documents mined: 187
+2023-07-07 19:07:13 [INFO    ] research.main                            : Ignore doc with ID=da9b18e66071da0658d6522880b85aa3f79e283d0c5b9d54b1a4ed3bb8ddb309 - URL=https://www.rubigm.ruhr-uni-bochum.de/rubigm/forschungskooperationen/tkooperationen.html.en, reason: Document has not passed filter criteria
+2023-07-07 19:07:13 [INFO    ] research.main                            : Number of documents mined: 188
+2023-07-07 19:07:13 [INFO    ] research.main                            : Ignore doc with ID=88df66316768640e504afd08d12ae77ec444f50a394e4c8d176f7cabb3f02533 - URL=https://news.rub.de/wissenschaft/2021-12-22-nachwuchsgruppe-ki-fuer-die-krebsforschung, reason: Document has not passed filter criteria
+2023-07-07 19:07:13 [INFO    ] research.main                            : Number of documents mined: 189
+2023-07-07 19:08:02 [INFO    ] research.main                            : Summary time elapsed: 49.25934720039368
+2023-07-07 19:08:03 [INFO    ] research.main                            : Number of documents mined: 190
+2023-07-07 19:08:03 [INFO    ] research.main                            : last_timestamp=[1688679872303]
+2023-07-07 19:08:42 [INFO    ] research.main                            : Summary time elapsed: 38.68579864501953
+2023-07-07 19:08:43 [INFO    ] research.main                            : Number of documents mined: 191
+2023-07-07 19:09:26 [INFO    ] research.main                            : Summary time elapsed: 43.151986598968506
+2023-07-07 19:09:27 [INFO    ] research.main                            : Number of documents mined: 192
+2023-07-07 19:10:06 [INFO    ] research.main                            : Summary time elapsed: 38.87003469467163
+2023-07-07 19:10:15 [INFO    ] research.main                            : Number of documents mined: 193
+2023-07-07 19:10:15 [INFO    ] research.main                            : Ignore doc with ID=b2081f7a21577e95c17c8f76d01469bae03635a8304b8ff37261ab4b8a211192 - URL=https://forschung.ruhr-uni-bochum.de/de/projektergebnisse, reason: Document has not passed filter criteria
+2023-07-07 19:10:15 [INFO    ] research.main                            : Number of documents mined: 194
+2023-07-07 19:10:54 [INFO    ] research.main                            : Summary time elapsed: 38.71096682548523
+2023-07-07 19:10:55 [INFO    ] research.main                            : Number of documents mined: 195
+2023-07-07 19:11:48 [INFO    ] research.main                            : Summary time elapsed: 53.090490102767944
+2023-07-07 19:11:49 [INFO    ] research.main                            : Number of documents mined: 196
+2023-07-07 19:12:35 [INFO    ] research.main                            : Summary time elapsed: 46.133952617645264
+2023-07-07 19:12:36 [INFO    ] research.main                            : Number of documents mined: 197
+2023-07-07 19:13:27 [INFO    ] research.main                            : Summary time elapsed: 51.16539144515991
+2023-07-07 19:13:28 [INFO    ] research.main                            : Number of documents mined: 198
+2023-07-07 19:14:15 [INFO    ] research.main                            : Summary time elapsed: 46.3768196105957
+2023-07-07 19:14:16 [INFO    ] research.main                            : Number of documents mined: 199
+2023-07-07 19:14:59 [INFO    ] research.main                            : Summary time elapsed: 43.14002752304077
+2023-07-07 19:15:00 [INFO    ] research.main                            : Number of documents mined: 200
+2023-07-07 19:15:00 [INFO    ] research.main                            : last_timestamp=[1688679883662]
+2023-07-07 19:15:40 [INFO    ] research.main                            : Summary time elapsed: 39.51337480545044
+2023-07-07 19:15:41 [INFO    ] research.main                            : Number of documents mined: 201
+2023-07-07 19:16:27 [INFO    ] research.main                            : Summary time elapsed: 46.07390904426575
+2023-07-07 19:16:28 [INFO    ] research.main                            : Number of documents mined: 202
+2023-07-07 19:17:12 [INFO    ] research.main                            : Summary time elapsed: 43.96806764602661
+2023-07-07 19:17:13 [INFO    ] research.main                            : Number of documents mined: 203
+2023-07-07 19:18:06 [INFO    ] research.main                            : Summary time elapsed: 53.42232799530029
+2023-07-07 19:18:07 [INFO    ] research.main                            : Number of documents mined: 204
+2023-07-07 19:18:51 [INFO    ] research.main                            : Summary time elapsed: 44.005648136138916
+2023-07-07 19:18:52 [INFO    ] research.main                            : Number of documents mined: 205
+2023-07-07 19:19:28 [INFO    ] research.main                            : Summary time elapsed: 36.06445121765137
+2023-07-07 19:19:29 [INFO    ] research.main                            : Number of documents mined: 206
+2023-07-07 19:20:30 [INFO    ] research.main                            : Summary time elapsed: 60.781445026397705
+2023-07-07 19:20:31 [INFO    ] research.main                            : Number of documents mined: 207
+2023-07-07 19:21:14 [INFO    ] research.main                            : Summary time elapsed: 43.051414251327515
+2023-07-07 19:21:15 [INFO    ] research.main                            : Number of documents mined: 208
+2023-07-07 19:21:59 [INFO    ] research.main                            : Summary time elapsed: 44.08220648765564
+2023-07-07 19:22:00 [INFO    ] research.main                            : Number of documents mined: 209
+2023-07-07 19:22:46 [INFO    ] research.main                            : Summary time elapsed: 46.41045880317688
+2023-07-07 19:22:47 [INFO    ] research.main                            : Number of documents mined: 210
+2023-07-07 19:22:47 [INFO    ] research.main                            : last_timestamp=[1688679915469]
+2023-07-07 19:23:42 [INFO    ] research.main                            : Summary time elapsed: 53.25222635269165
+2023-07-07 19:23:43 [INFO    ] research.main                            : Number of documents mined: 211
+2023-07-07 19:24:34 [INFO    ] research.main                            : Summary time elapsed: 50.51317024230957
+2023-07-07 19:24:35 [INFO    ] research.main                            : Number of documents mined: 212
+2023-07-07 19:25:19 [INFO    ] research.main                            : Summary time elapsed: 44.28572988510132
+2023-07-07 19:25:20 [INFO    ] research.main                            : Number of documents mined: 213
+2023-07-07 19:26:19 [INFO    ] research.main                            : Summary time elapsed: 59.24040246009827
+2023-07-07 19:26:20 [INFO    ] research.main                            : Number of documents mined: 214
+2023-07-07 19:27:07 [INFO    ] research.main                            : Summary time elapsed: 46.49612832069397
+2023-07-07 19:27:08 [INFO    ] research.main                            : Number of documents mined: 215
+2023-07-07 19:27:58 [INFO    ] research.main                            : Summary time elapsed: 49.97959899902344
+2023-07-07 19:27:59 [INFO    ] research.main                            : Number of documents mined: 216
+2023-07-07 19:28:46 [INFO    ] research.main                            : Summary time elapsed: 46.92701482772827
+2023-07-07 19:28:47 [INFO    ] research.main                            : Number of documents mined: 217
+2023-07-07 19:29:48 [INFO    ] research.main                            : Summary time elapsed: 60.954718589782715
+2023-07-07 19:29:49 [INFO    ] research.main                            : Number of documents mined: 218
+2023-07-07 19:30:36 [INFO    ] research.main                            : Summary time elapsed: 47.01684331893921
+2023-07-07 19:30:37 [INFO    ] research.main                            : Number of documents mined: 219
+2023-07-07 19:31:33 [INFO    ] research.main                            : Summary time elapsed: 56.44297981262207
+2023-07-07 19:31:34 [INFO    ] research.main                            : Number of documents mined: 220
+2023-07-07 19:31:34 [INFO    ] research.main                            : last_timestamp=[1688679968523]
+2023-07-07 19:32:27 [INFO    ] research.main                            : Summary time elapsed: 52.19837307929993
+2023-07-07 19:32:28 [INFO    ] research.main                            : Number of documents mined: 221
+2023-07-07 19:33:10 [INFO    ] research.main                            : Summary time elapsed: 41.90320062637329
+2023-07-07 19:33:11 [INFO    ] research.main                            : Number of documents mined: 222
+2023-07-07 19:33:11 [INFO    ] research.main                            : Ignore doc with ID=9153c97cba6ff91825f62eb9402eee1073f0b153aef6d3543c9c2e1a27edc567 - URL=https://www.ruhr-uni-bochum.de/acc/index.html.de, reason: Document has not passed filter criteria
+2023-07-07 19:33:11 [INFO    ] research.main                            : Number of documents mined: 223
+2023-07-07 19:33:47 [INFO    ] research.main                            : Summary time elapsed: 36.68631386756897
+2023-07-07 19:33:48 [INFO    ] research.main                            : Number of documents mined: 224
+2023-07-07 19:34:37 [INFO    ] research.main                            : Summary time elapsed: 49.16360282897949
+2023-07-07 19:34:38 [INFO    ] research.main                            : Number of documents mined: 225
+2023-07-07 19:35:18 [INFO    ] research.main                            : Summary time elapsed: 39.27836012840271
+2023-07-07 19:35:19 [INFO    ] research.main                            : Number of documents mined: 226
+2023-07-07 19:36:07 [INFO    ] research.main                            : Summary time elapsed: 48.01275396347046
+2023-07-07 19:36:08 [INFO    ] research.main                            : Number of documents mined: 227
+2023-07-07 19:36:49 [INFO    ] research.main                            : Summary time elapsed: 41.23066592216492
+2023-07-07 19:36:50 [INFO    ] research.main                            : Number of documents mined: 228
+2023-07-07 19:37:37 [INFO    ] research.main                            : Summary time elapsed: 47.15329384803772
+2023-07-07 19:37:38 [INFO    ] research.main                            : Number of documents mined: 229
+2023-07-07 19:37:38 [INFO    ] research.main                            : Ignore doc with ID=ee7662b31e2226e10ec0b8a687a58019ff811c0fe1cf0b54d6846d0ff9f17752 - URL=https://www.ruhr-uni-bochum.de/archaeologie/forschung/publikationeninstitut.html.de, reason: Document has not passed filter criteria
+2023-07-07 19:37:38 [INFO    ] research.main                            : Number of documents mined: 230
+2023-07-07 19:37:38 [INFO    ] research.main                            : last_timestamp=[1688680035511]
+2023-07-07 19:38:30 [INFO    ] research.main                            : Summary time elapsed: 51.9985134601593
+2023-07-07 19:38:31 [INFO    ] research.main                            : Number of documents mined: 231
+2023-07-07 19:39:27 [INFO    ] research.main                            : Summary time elapsed: 55.53819131851196
+2023-07-07 19:39:28 [INFO    ] research.main                            : Number of documents mined: 232
+2023-07-07 19:40:17 [INFO    ] research.main                            : Summary time elapsed: 49.13478398323059
+2023-07-07 19:40:18 [INFO    ] research.main                            : Number of documents mined: 233
+2023-07-07 19:41:06 [INFO    ] research.main                            : Summary time elapsed: 48.30855679512024
+2023-07-07 19:41:07 [INFO    ] research.main                            : Number of documents mined: 234
+2023-07-07 19:41:07 [INFO    ] research.main                            : Ignore doc with ID=34a96c50831488e5216f7c246a2fdde90aef4542454d948719299c174f181076 - URL=https://www.rubel.rub.de/datenschutz, reason: Document has not passed filter criteria
+2023-07-07 19:41:07 [INFO    ] research.main                            : Number of documents mined: 235
+2023-07-07 19:41:07 [INFO    ] research.main                            : Ignore doc with ID=37b996c1a0290b8f03fc548e3655c9ad3fdb33523038b57592bc8b86df3fe3bc - URL=https://www.rubel.rub.de/news/die-aktuellen-5x5000-gewinnerprojekte-stehen-nun-fest, reason: Document has not passed filter criteria
+2023-07-07 19:41:07 [INFO    ] research.main                            : Number of documents mined: 236
+2023-07-07 19:41:55 [INFO    ] research.main                            : Summary time elapsed: 47.47738981246948
+2023-07-07 19:41:56 [INFO    ] research.main                            : Number of documents mined: 237
+2023-07-07 19:42:48 [INFO    ] research.main                            : Summary time elapsed: 51.634950399398804
+2023-07-07 19:42:49 [INFO    ] research.main                            : Number of documents mined: 238
+2023-07-07 19:43:27 [INFO    ] research.main                            : Summary time elapsed: 38.82029724121094
+2023-07-07 19:43:28 [INFO    ] research.main                            : Number of documents mined: 239
+2023-07-07 19:44:23 [INFO    ] research.main                            : Summary time elapsed: 54.541770219802856
+2023-07-07 19:44:24 [INFO    ] research.main                            : Number of documents mined: 240
+2023-07-07 19:44:24 [INFO    ] research.main                            : last_timestamp=[1688680053574]
+2023-07-07 19:45:34 [INFO    ] research.main                            : Summary time elapsed: 70.20606017112732
+2023-07-07 19:45:35 [INFO    ] research.main                            : Number of documents mined: 241
+2023-07-07 19:46:19 [INFO    ] research.main                            : Summary time elapsed: 43.56270408630371
+2023-07-07 19:46:20 [INFO    ] research.main                            : Number of documents mined: 242
+2023-07-07 19:47:02 [INFO    ] research.main                            : Summary time elapsed: 42.25363039970398
+2023-07-07 19:47:03 [INFO    ] research.main                            : Number of documents mined: 243
+2023-07-07 19:47:03 [INFO    ] research.main                            : Ignore doc with ID=922f8e8c2ffe317d0f1c7e06d9b80066acf707b453de3e4118dc16a138b39125 - URL=https://www.rubel.rub.de/themen/oer-an-der-rub, reason: Document has not passed filter criteria
+2023-07-07 19:47:03 [INFO    ] research.main                            : Number of documents mined: 244
+2023-07-07 19:47:48 [INFO    ] research.main                            : Summary time elapsed: 44.699055194854736
+2023-07-07 19:47:49 [INFO    ] research.main                            : Number of documents mined: 245
+2023-07-07 19:48:37 [INFO    ] research.main                            : Summary time elapsed: 48.04905438423157
+2023-07-07 19:48:38 [INFO    ] research.main                            : Number of documents mined: 246
+2023-07-07 19:49:22 [INFO    ] research.main                            : Summary time elapsed: 43.724212408065796
+2023-07-07 19:49:23 [INFO    ] research.main                            : Number of documents mined: 247
+2023-07-07 19:49:23 [INFO    ] research.main                            : Ignore doc with ID=9dbc5d975c2201e35bc9b41b4140d5882ddf9a57546adcf27e782c905fd155fb - URL=https://www.aks.ruhr-uni-bochum.de/aktuelles/2023/aks00389.html.de, reason: Document has not passed filter criteria
+2023-07-07 19:49:23 [INFO    ] research.main                            : Number of documents mined: 248
+2023-07-07 19:55:19 [INFO    ] research.main                            : Summary time elapsed: 356.12334847450256
+2023-07-07 19:55:21 [INFO    ] research.main                            : Number of documents mined: 249
+2023-07-07 19:56:05 [INFO    ] research.main                            : Summary time elapsed: 44.204063177108765
+2023-07-07 19:56:06 [INFO    ] research.main                            : Number of documents mined: 250
+2023-07-07 19:56:06 [INFO    ] research.main                            : last_timestamp=[1688680077819]
+2023-07-07 19:57:04 [INFO    ] research.main                            : Summary time elapsed: 57.58024287223816
+2023-07-07 19:57:05 [INFO    ] research.main                            : Number of documents mined: 251
+2023-07-07 19:57:58 [INFO    ] research.main                            : Summary time elapsed: 53.05147862434387
+2023-07-07 19:57:59 [INFO    ] research.main                            : Number of documents mined: 252
+2023-07-07 19:58:40 [INFO    ] research.main                            : Summary time elapsed: 40.64067578315735
+2023-07-07 19:58:41 [INFO    ] research.main                            : Number of documents mined: 253
+2023-07-07 19:59:31 [INFO    ] research.main                            : Summary time elapsed: 50.57785677909851
+2023-07-07 19:59:32 [INFO    ] research.main                            : Number of documents mined: 254
+2023-07-07 20:01:58 [INFO    ] research.main                            : Summary time elapsed: 145.4714858531952
+2023-07-07 20:01:59 [INFO    ] research.main                            : Number of documents mined: 255
+2023-07-07 20:02:44 [INFO    ] research.main                            : Summary time elapsed: 44.78643035888672
+2023-07-07 20:02:45 [INFO    ] research.main                            : Number of documents mined: 256
+2023-07-07 20:03:34 [INFO    ] research.main                            : Summary time elapsed: 49.6342236995697
+2023-07-07 20:03:35 [INFO    ] research.main                            : Number of documents mined: 257
+2023-07-07 20:04:28 [INFO    ] research.main                            : Summary time elapsed: 52.69078707695007
+2023-07-07 20:04:29 [INFO    ] research.main                            : Number of documents mined: 258
+2023-07-07 20:05:20 [INFO    ] research.main                            : Summary time elapsed: 50.742199659347534
+2023-07-07 20:05:21 [INFO    ] research.main                            : Number of documents mined: 259
+2023-07-07 20:06:03 [INFO    ] research.main                            : Summary time elapsed: 42.19413089752197
+2023-07-07 20:06:05 [INFO    ] research.main                            : Number of documents mined: 260
+2023-07-07 20:06:05 [INFO    ] research.main                            : last_timestamp=[1688680092944]
+2023-07-07 20:20:17 [INFO    ] research.main                            : Summary time elapsed: 851.8864634037018
+2023-07-07 20:20:18 [INFO    ] research.main                            : Number of documents mined: 261
+2023-07-07 20:21:03 [INFO    ] research.main                            : Summary time elapsed: 44.928484201431274
+2023-07-07 20:21:04 [INFO    ] research.main                            : Number of documents mined: 262
+2023-07-07 20:21:57 [INFO    ] research.main                            : Summary time elapsed: 53.43181014060974
+2023-07-07 20:21:58 [INFO    ] research.main                            : Number of documents mined: 263
+2023-07-07 20:21:58 [INFO    ] research.main                            : Ignore doc with ID=135be0b16b4fdf4a12b37b1f2d8a2372a3adf5c221b36d6d44d74701f8b4c802 - URL=https://www.aks.ruhr-uni-bochum.de/ueber-uns/konzept.html.de, reason: Document has not passed filter criteria
+2023-07-07 20:21:58 [INFO    ] research.main                            : Number of documents mined: 264
+2023-07-07 20:22:41 [INFO    ] research.main                            : Summary time elapsed: 42.41274666786194
+2023-07-07 20:22:42 [INFO    ] research.main                            : Number of documents mined: 265
+2023-07-07 20:23:24 [INFO    ] research.main                            : Summary time elapsed: 41.55747389793396
+2023-07-07 20:23:25 [INFO    ] research.main                            : Number of documents mined: 266
+2023-07-07 20:25:45 [INFO    ] research.main                            : Summary time elapsed: 140.14714288711548
+2023-07-07 20:25:46 [INFO    ] research.main                            : Number of documents mined: 267
+2023-07-07 20:26:30 [INFO    ] research.main                            : Summary time elapsed: 44.23243474960327
+2023-07-07 20:26:31 [INFO    ] research.main                            : Number of documents mined: 268
+2023-07-07 20:26:31 [INFO    ] research.main                            : Ignore doc with ID=b271b4a254ae848a785870342827a70f668ae3475d309602fb837cdc3c8f1c17 - URL=https://news.rub.de/hochschulpolitik/2018-12-12-foerderung-research-school-closed-carbon-cycle-economy-geht-definitionsphase, reason: Document has not passed filter criteria
+2023-07-07 20:26:31 [INFO    ] research.main                            : Number of documents mined: 269
+2023-07-07 20:27:16 [INFO    ] research.main                            : Summary time elapsed: 44.771546840667725
+2023-07-07 20:27:17 [INFO    ] research.main                            : Number of documents mined: 270
+2023-07-07 20:27:17 [INFO    ] research.main                            : last_timestamp=[1688680165605]
+2023-07-07 20:28:14 [INFO    ] research.main                            : Summary time elapsed: 56.45927906036377
+2023-07-07 20:28:15 [INFO    ] research.main                            : Number of documents mined: 271
+2023-07-07 20:28:53 [INFO    ] research.main                            : Summary time elapsed: 38.803696632385254
+2023-07-07 20:28:54 [INFO    ] research.main                            : Number of documents mined: 272
+2023-07-07 20:29:38 [INFO    ] research.main                            : Summary time elapsed: 43.4543936252594
+2023-07-07 20:29:39 [INFO    ] research.main                            : Number of documents mined: 273
+2023-07-07 20:29:39 [INFO    ] research.main                            : Ignore doc with ID=29dc8ede6788a6af16af33b2bb6ccad1ed2ee86e3f54147fedf57880624318a9 - URL=http://www.idg.ruhr-uni-bochum.de/publikationen/projekte.html.en, reason: Document has not passed filter criteria
+2023-07-07 20:29:39 [INFO    ] research.main                            : Number of documents mined: 274
+2023-07-07 20:29:39 [INFO    ] research.main                            : Ignore doc with ID=e8ad6d777ed86b743ddae514c3eaf55ad4954e3c4e6a4916f7ffaa8450b9beec - URL=http://www.idg.ruhr-uni-bochum.de/publikationen/zfg.html.en, reason: Document has not passed filter criteria
+2023-07-07 20:29:39 [INFO    ] research.main                            : Number of documents mined: 275
+2023-07-07 20:30:23 [INFO    ] research.main                            : Summary time elapsed: 44.152687788009644
+2023-07-07 20:30:24 [INFO    ] research.main                            : Number of documents mined: 276
+2023-07-07 20:31:06 [INFO    ] research.main                            : Summary time elapsed: 41.68508052825928
+2023-07-07 20:31:07 [INFO    ] research.main                            : Number of documents mined: 277
+2023-07-07 20:31:46 [INFO    ] research.main                            : Summary time elapsed: 38.86237549781799
+2023-07-07 20:31:47 [INFO    ] research.main                            : Number of documents mined: 278
+2023-07-07 20:32:42 [INFO    ] research.main                            : Summary time elapsed: 55.15271830558777
+2023-07-07 20:32:43 [INFO    ] research.main                            : Number of documents mined: 279
+2023-07-07 20:33:43 [INFO    ] research.main                            : Summary time elapsed: 60.07842469215393
+2023-07-07 20:33:44 [INFO    ] research.main                            : Number of documents mined: 280
+2023-07-07 20:33:44 [INFO    ] research.main                            : last_timestamp=[1688680199419]
+2023-07-07 20:34:24 [INFO    ] research.main                            : Summary time elapsed: 39.736735820770264
+2023-07-07 20:34:25 [INFO    ] research.main                            : Number of documents mined: 281
+2023-07-07 20:35:06 [INFO    ] research.main                            : Summary time elapsed: 40.752480030059814
+2023-07-07 20:35:07 [INFO    ] research.main                            : Number of documents mined: 282
+2023-07-07 20:35:07 [INFO    ] research.main                            : Ignore doc with ID=aec3f63578266d13b7b6f9a9d887b91dfd06a1c70748fe5e722e4a7cf923a07f - URL=https://news.rub.de/wissenschaft/2021-10-12-gleichstellung-karrieren-von-frauen-der-forschung-foerdern, reason: Document has not passed filter criteria
+2023-07-07 20:35:07 [INFO    ] research.main                            : Number of documents mined: 283
+2023-07-07 20:35:54 [INFO    ] research.main                            : Summary time elapsed: 47.39618444442749
+2023-07-07 20:35:55 [INFO    ] research.main                            : Number of documents mined: 284
+2023-07-07 20:36:38 [INFO    ] research.main                            : Summary time elapsed: 42.599149227142334
+2023-07-07 20:36:39 [INFO    ] research.main                            : Number of documents mined: 285
+2023-07-07 20:37:24 [INFO    ] research.main                            : Summary time elapsed: 45.52561092376709
+2023-07-07 20:37:25 [INFO    ] research.main                            : Number of documents mined: 286
+2023-07-07 20:38:07 [INFO    ] research.main                            : Summary time elapsed: 41.69304966926575
+2023-07-07 20:38:08 [INFO    ] research.main                            : Number of documents mined: 287
+2023-07-07 20:39:01 [INFO    ] research.main                            : Summary time elapsed: 53.51770091056824
+2023-07-07 20:39:03 [INFO    ] research.main                            : Number of documents mined: 288
+2023-07-07 20:39:50 [INFO    ] research.main                            : Summary time elapsed: 47.872602462768555
+2023-07-07 20:39:51 [INFO    ] research.main                            : Number of documents mined: 289
+2023-07-07 20:40:30 [INFO    ] research.main                            : Summary time elapsed: 38.59786319732666
+2023-07-07 20:40:31 [INFO    ] research.main                            : Number of documents mined: 290
+2023-07-07 20:40:31 [INFO    ] research.main                            : last_timestamp=[1688680236609]
+2023-07-07 20:41:13 [INFO    ] research.main                            : Summary time elapsed: 41.69306969642639
+2023-07-07 20:41:14 [INFO    ] research.main                            : Number of documents mined: 291
+2023-07-07 20:41:56 [INFO    ] research.main                            : Summary time elapsed: 42.09166216850281
+2023-07-07 20:41:57 [INFO    ] research.main                            : Number of documents mined: 292
+2023-07-07 20:42:47 [INFO    ] research.main                            : Summary time elapsed: 49.790045499801636
+2023-07-07 20:42:48 [INFO    ] research.main                            : Number of documents mined: 293
+2023-07-07 20:43:49 [INFO    ] research.main                            : Summary time elapsed: 60.81580376625061
+2023-07-07 20:43:50 [INFO    ] research.main                            : Number of documents mined: 294
+2023-07-07 20:44:34 [INFO    ] research.main                            : Summary time elapsed: 44.556047677993774
+2023-07-07 20:44:35 [INFO    ] research.main                            : Number of documents mined: 295
+2023-07-07 20:45:16 [INFO    ] research.main                            : Summary time elapsed: 40.33155298233032
+2023-07-07 20:45:17 [INFO    ] research.main                            : Number of documents mined: 296
+2023-07-07 20:46:02 [INFO    ] research.main                            : Summary time elapsed: 45.060487508773804
+2023-07-07 20:46:03 [INFO    ] research.main                            : Number of documents mined: 297
+2023-07-07 20:46:46 [INFO    ] research.main                            : Summary time elapsed: 43.16975116729736
+2023-07-07 20:46:47 [INFO    ] research.main                            : Number of documents mined: 298
+2023-07-07 20:47:29 [INFO    ] research.main                            : Summary time elapsed: 41.94726753234863
+2023-07-07 20:47:30 [INFO    ] research.main                            : Number of documents mined: 299
+2023-07-07 20:48:08 [INFO    ] research.main                            : Summary time elapsed: 38.21390914916992
+2023-07-07 20:48:09 [INFO    ] research.main                            : Number of documents mined: 300
+2023-07-07 20:48:09 [INFO    ] research.main                            : last_timestamp=[1688680288403]
+2023-07-07 20:48:57 [INFO    ] research.main                            : Summary time elapsed: 47.863481760025024
+2023-07-07 20:48:59 [INFO    ] research.main                            : Number of documents mined: 301
+2023-07-07 20:48:59 [INFO    ] research.main                            : Ignore doc with ID=edd3e45335e1dad0bc18b193c3a7365ee87a8416498bb073e6886462e9d44593 - URL=https://www.enesys.ruhr-uni-bochum.de/news/news00042.html.de, reason: Document has not passed filter criteria
+2023-07-07 20:48:59 [INFO    ] research.main                            : Number of documents mined: 302
+2023-07-07 20:48:59 [INFO    ] research.main                            : Ignore doc with ID=e8b93e16cabcfa921406fd25531f14ebe79dfcdce28f1c6f3858cb8bbbd692ce - URL=https://etit.ruhr-uni-bochum.de/news/detail/enesys/workshop-windegration/, reason: Document has not passed filter criteria
+2023-07-07 20:48:59 [INFO    ] research.main                            : Number of documents mined: 303
+2023-07-07 20:49:42 [INFO    ] research.main                            : Summary time elapsed: 43.25107765197754
+2023-07-07 20:49:43 [INFO    ] research.main                            : Number of documents mined: 304
+2023-07-07 20:50:27 [INFO    ] research.main                            : Summary time elapsed: 44.43985891342163
+2023-07-07 20:50:28 [INFO    ] research.main                            : Number of documents mined: 305
+2023-07-07 20:51:07 [INFO    ] research.main                            : Summary time elapsed: 38.99070882797241
+2023-07-07 20:51:08 [INFO    ] research.main                            : Number of documents mined: 306
+2023-07-07 20:51:57 [INFO    ] research.main                            : Summary time elapsed: 49.1717791557312
+2023-07-07 20:51:58 [INFO    ] research.main                            : Number of documents mined: 307
+2023-07-07 20:51:58 [INFO    ] research.main                            : Ignore doc with ID=6e5f2bde4cbad33740f080d234f715fcf4434e62641be302617e51cd5a36949e - URL=https://etit.ruhr-uni-bochum.de/tet/forschung/kooperationen/, reason: Document has not passed filter criteria
+2023-07-07 20:51:58 [INFO    ] research.main                            : Number of documents mined: 308
+2023-07-07 20:52:46 [INFO    ] research.main                            : Summary time elapsed: 47.93566346168518
+2023-07-07 20:52:47 [INFO    ] research.main                            : Number of documents mined: 309
+2023-07-07 20:53:37 [INFO    ] research.main                            : Summary time elapsed: 49.18592429161072
+2023-07-07 20:53:37 [INFO    ] research.main                            : Number of documents mined: 310
+2023-07-07 20:53:37 [INFO    ] research.main                            : last_timestamp=[1688680411156]
+2023-07-07 20:54:30 [INFO    ] research.main                            : Summary time elapsed: 52.46755313873291
+2023-07-07 20:54:31 [INFO    ] research.main                            : Number of documents mined: 311
+2023-07-07 20:55:09 [INFO    ] research.main                            : Summary time elapsed: 37.307361125946045
+2023-07-07 20:55:10 [INFO    ] research.main                            : Number of documents mined: 312
+2023-07-07 20:56:00 [INFO    ] research.main                            : Summary time elapsed: 49.90765190124512
+2023-07-07 20:56:01 [INFO    ] research.main                            : Number of documents mined: 313
+2023-07-07 20:56:46 [INFO    ] research.main                            : Summary time elapsed: 44.95376992225647
+2023-07-07 20:56:47 [INFO    ] research.main                            : Number of documents mined: 314
+2023-07-07 20:57:38 [INFO    ] research.main                            : Summary time elapsed: 51.543750047683716
+2023-07-07 20:57:39 [INFO    ] research.main                            : Number of documents mined: 315
+2023-07-07 20:58:25 [INFO    ] research.main                            : Summary time elapsed: 45.49797010421753
+2023-07-07 20:58:26 [INFO    ] research.main                            : Number of documents mined: 316
+2023-07-07 20:59:06 [INFO    ] research.main                            : Summary time elapsed: 40.55111265182495
+2023-07-07 20:59:07 [INFO    ] research.main                            : Number of documents mined: 317
+2023-07-07 21:00:00 [INFO    ] research.main                            : Summary time elapsed: 52.13299512863159
+2023-07-07 21:00:01 [INFO    ] research.main                            : Number of documents mined: 318
+2023-07-07 21:00:44 [INFO    ] research.main                            : Summary time elapsed: 43.00191926956177
+2023-07-07 21:00:44 [INFO    ] research.main                            : Number of documents mined: 319
+2023-07-07 21:01:32 [INFO    ] research.main                            : Summary time elapsed: 47.48324370384216
+2023-07-07 21:01:33 [INFO    ] research.main                            : Number of documents mined: 320
+2023-07-07 21:01:33 [INFO    ] research.main                            : last_timestamp=[1688680420889]
+2023-07-07 21:02:28 [INFO    ] research.main                            : Summary time elapsed: 55.07372188568115
+2023-07-07 21:02:29 [INFO    ] research.main                            : Number of documents mined: 321
+2023-07-07 21:03:23 [INFO    ] research.main                            : Summary time elapsed: 53.58799719810486
+2023-07-07 21:03:24 [INFO    ] research.main                            : Number of documents mined: 322
+2023-07-07 21:03:24 [INFO    ] research.main                            : Ignore doc with ID=11d68489669dacd6e1a67e9ae706f6d990e47276f6c5729e01f15c2e1e6d7428 - URL=https://etit.ruhr-uni-bochum.de/ptt/forschung/kooperationen/, reason: Document has not passed filter criteria
+2023-07-07 21:03:24 [INFO    ] research.main                            : Number of documents mined: 323
+2023-07-07 21:04:09 [INFO    ] research.main                            : Summary time elapsed: 45.122838735580444
+2023-07-07 21:04:10 [INFO    ] research.main                            : Number of documents mined: 324
+2023-07-07 21:05:14 [INFO    ] research.main                            : Summary time elapsed: 64.18466925621033
+2023-07-07 21:05:15 [INFO    ] research.main                            : Number of documents mined: 325
+2023-07-07 21:10:42 [INFO    ] research.main                            : Summary time elapsed: 326.56230449676514
+2023-07-07 21:10:43 [INFO    ] research.main                            : Number of documents mined: 326
+2023-07-07 21:11:31 [INFO    ] research.main                            : Summary time elapsed: 47.921364307403564
+2023-07-07 21:11:32 [INFO    ] research.main                            : Number of documents mined: 327
+2023-07-07 21:12:15 [INFO    ] research.main                            : Summary time elapsed: 42.86051917076111
+2023-07-07 21:12:16 [INFO    ] research.main                            : Number of documents mined: 328
+2023-07-07 21:12:59 [INFO    ] research.main                            : Summary time elapsed: 42.8960964679718
+2023-07-07 21:13:00 [INFO    ] research.main                            : Number of documents mined: 329
+2023-07-07 21:13:47 [INFO    ] research.main                            : Summary time elapsed: 47.708235025405884
+2023-07-07 21:13:48 [INFO    ] research.main                            : Number of documents mined: 330
+2023-07-07 21:13:48 [INFO    ] research.main                            : last_timestamp=[1688680464107]
+2023-07-07 21:14:36 [INFO    ] research.main                            : Summary time elapsed: 47.61090612411499
+2023-07-07 21:14:37 [INFO    ] research.main                            : Number of documents mined: 331
+2023-07-07 21:14:37 [INFO    ] research.main                            : Ignore doc with ID=ac6e937cc79afeffdf0649f53b75f5b13ce3c07e24851dedbe472a61599fa1fd - URL=https://etit.ruhr-uni-bochum.de/mst/forschung/kooperationen/, reason: Document has not passed filter criteria
+2023-07-07 21:14:37 [INFO    ] research.main                            : Number of documents mined: 332
+2023-07-07 21:15:57 [INFO    ] research.main                            : Summary time elapsed: 79.71222734451294
+2023-07-07 21:15:58 [INFO    ] research.main                            : Number of documents mined: 333
+2023-07-07 21:15:58 [INFO    ] research.main                            : Ignore doc with ID=f9e15929398a21add6f86b582d03593475e9648215564c6ef634c8000dbc34dc - URL=https://etit.ruhr-uni-bochum.de/fakultaet/professuren/lehrstuhlseiten/lehrstuhl-mikrosystemtechnik/forschung/schwerpunkte-im-ueberblick/optische-mikrosysteme/, reason: Document has not passed filter criteria
+2023-07-07 21:15:58 [INFO    ] research.main                            : Number of documents mined: 334
+2023-07-07 21:15:58 [INFO    ] research.main                            : Ignore doc with ID=f67d8ecfe00f9353e8984e408ca7270d7794dbee43104cf0082bf3caa2b990ae - URL=https://etit.ruhr-uni-bochum.de/fakultaet/professuren/lehrstuhlseiten/lehrstuhl-mikrosystemtechnik/forschung/schwerpunkte-im-ueberblick/mikro-nano-integration/, reason: Document has not passed filter criteria
+2023-07-07 21:15:58 [INFO    ] research.main                            : Number of documents mined: 335
+2023-07-07 21:15:58 [INFO    ] research.main                            : Ignore doc with ID=c0e86a9aecacc2f546a8349f1d70583c80772a3a7156de5b794efe25c9c0efdf - URL=https://etit.ruhr-uni-bochum.de/fakultaet/professuren/lehrstuhlseiten/lehrstuhl-mikrosystemtechnik/forschung/zweidimensionale-materialsysteme-fuer-elektronik-und-sensorik/, reason: Document has not passed filter criteria
+2023-07-07 21:15:58 [INFO    ] research.main                            : Number of documents mined: 336
+2023-07-07 21:15:58 [INFO    ] research.main                            : Ignore doc with ID=112355515371331c079f409fa5c856ad726206f647b56aaa038969698b9c8183 - URL=https://etit.ruhr-uni-bochum.de/fakultaet/professuren/lehrstuhlseiten/lehrstuhl-mikrosystemtechnik/forschung/energieautarke-mikrosensorik/, reason: Document has not passed filter criteria
+2023-07-07 21:15:58 [INFO    ] research.main                            : Number of documents mined: 337
+2023-07-07 21:15:58 [INFO    ] research.main                            : Ignore doc with ID=f4be9f330176bd156fb0cf9b4b2529f210d0467f687503d40221457d785603b5 - URL=https://etit.ruhr-uni-bochum.de/fakultaet/professuren/lehrstuhlseiten/lehrstuhl-mikrosystemtechnik/forschung/forschungsbereiche/mikroaktorik/, reason: Document has not passed filter criteria
+2023-07-07 21:15:58 [INFO    ] research.main                            : Number of documents mined: 338
+2023-07-07 21:16:47 [INFO    ] research.main                            : Summary time elapsed: 48.827306032180786
+2023-07-07 21:16:48 [INFO    ] research.main                            : Number of documents mined: 339
+2023-07-07 21:17:44 [INFO    ] research.main                            : Summary time elapsed: 55.76276755332947
+2023-07-07 21:17:45 [INFO    ] research.main                            : Number of documents mined: 340
+2023-07-07 21:17:45 [INFO    ] research.main                            : last_timestamp=[1688680486422]
+2023-07-07 21:18:31 [INFO    ] research.main                            : Summary time elapsed: 45.84734487533569
+2023-07-07 21:18:32 [INFO    ] research.main                            : Number of documents mined: 341
+2023-07-07 21:19:26 [INFO    ] research.main                            : Summary time elapsed: 54.10443830490112
+2023-07-07 21:19:27 [INFO    ] research.main                            : Number of documents mined: 342
+2023-07-07 21:20:21 [INFO    ] research.main                            : Summary time elapsed: 54.25687122344971
+2023-07-07 21:20:22 [INFO    ] research.main                            : Number of documents mined: 343
+2023-07-07 21:21:08 [INFO    ] research.main                            : Summary time elapsed: 45.225905895233154
+2023-07-07 21:21:09 [INFO    ] research.main                            : Number of documents mined: 344
+2023-07-07 21:21:51 [INFO    ] research.main                            : Summary time elapsed: 42.318597078323364
+2023-07-07 21:21:52 [INFO    ] research.main                            : Number of documents mined: 345
+2023-07-07 21:22:38 [INFO    ] research.main                            : Summary time elapsed: 45.49768805503845
+2023-07-07 21:22:39 [INFO    ] research.main                            : Number of documents mined: 346
+2023-07-07 21:23:29 [INFO    ] research.main                            : Summary time elapsed: 50.705230712890625
+2023-07-07 21:23:30 [INFO    ] research.main                            : Number of documents mined: 347
+2023-07-07 21:24:22 [INFO    ] research.main                            : Summary time elapsed: 51.67220664024353
+2023-07-07 21:24:23 [INFO    ] research.main                            : Number of documents mined: 348
+2023-07-07 21:25:13 [INFO    ] research.main                            : Summary time elapsed: 50.14684295654297
+2023-07-07 21:25:14 [INFO    ] research.main                            : Number of documents mined: 349
+2023-07-07 21:26:00 [INFO    ] research.main                            : Summary time elapsed: 46.228111028671265
+2023-07-07 21:26:01 [INFO    ] research.main                            : Number of documents mined: 350
+2023-07-07 21:26:01 [INFO    ] research.main                            : last_timestamp=[1688680510247]
+2023-07-07 21:26:48 [INFO    ] research.main                            : Summary time elapsed: 46.661940813064575
+2023-07-07 21:26:49 [INFO    ] research.main                            : Number of documents mined: 351
+2023-07-07 21:27:35 [INFO    ] research.main                            : Summary time elapsed: 45.667460441589355
+2023-07-07 21:27:36 [INFO    ] research.main                            : Number of documents mined: 352
+2023-07-07 21:28:25 [INFO    ] research.main                            : Summary time elapsed: 49.22879767417908
+2023-07-07 21:28:26 [INFO    ] research.main                            : Number of documents mined: 353
+2023-07-07 21:29:12 [INFO    ] research.main                            : Summary time elapsed: 45.89533996582031
+2023-07-07 21:29:13 [INFO    ] research.main                            : Number of documents mined: 354
+2023-07-07 21:30:12 [INFO    ] research.main                            : Summary time elapsed: 58.642643213272095
+2023-07-07 21:30:13 [INFO    ] research.main                            : Number of documents mined: 355
+2023-07-07 21:30:55 [INFO    ] research.main                            : Summary time elapsed: 42.22623586654663
+2023-07-07 21:30:56 [INFO    ] research.main                            : Number of documents mined: 356
+2023-07-07 21:31:42 [INFO    ] research.main                            : Summary time elapsed: 46.251049518585205
+2023-07-07 21:31:43 [INFO    ] research.main                            : Number of documents mined: 357
+2023-07-07 21:32:24 [INFO    ] research.main                            : Summary time elapsed: 41.14153075218201
+2023-07-07 21:32:25 [INFO    ] research.main                            : Number of documents mined: 358
+2023-07-07 21:33:07 [INFO    ] research.main                            : Summary time elapsed: 41.126282691955566
+2023-07-07 21:33:08 [INFO    ] research.main                            : Number of documents mined: 359
+2023-07-07 21:33:52 [INFO    ] research.main                            : Summary time elapsed: 44.29431748390198
+2023-07-07 21:33:53 [INFO    ] research.main                            : Number of documents mined: 360
+2023-07-07 21:33:53 [INFO    ] research.main                            : last_timestamp=[1688680532007]
+2023-07-07 21:34:45 [INFO    ] research.main                            : Summary time elapsed: 51.28939914703369
+2023-07-07 21:34:46 [INFO    ] research.main                            : Number of documents mined: 361
+2023-07-07 21:35:33 [INFO    ] research.main                            : Summary time elapsed: 47.589269399642944
+2023-07-07 21:35:34 [INFO    ] research.main                            : Number of documents mined: 362
+2023-07-07 21:36:24 [INFO    ] research.main                            : Summary time elapsed: 49.35388541221619
+2023-07-07 21:36:25 [INFO    ] research.main                            : Number of documents mined: 363
+2023-07-07 21:37:05 [INFO    ] research.main                            : Summary time elapsed: 40.09473466873169
+2023-07-07 21:37:06 [INFO    ] research.main                            : Number of documents mined: 364
+2023-07-07 21:37:50 [INFO    ] research.main                            : Summary time elapsed: 44.39110994338989
+2023-07-07 21:37:51 [INFO    ] research.main                            : Number of documents mined: 365
+2023-07-07 21:37:51 [INFO    ] research.main                            : Ignore doc with ID=d20bea16f5c2a267a93e2147d3360af217e9ad9e8382fa32ee73bb717e2e8326 - URL=https://etit.ruhr-uni-bochum.de/ais/forschung/kooperationen/, reason: Document has not passed filter criteria
+2023-07-07 21:37:51 [INFO    ] research.main                            : Number of documents mined: 366
+2023-07-07 21:38:37 [INFO    ] research.main                            : Summary time elapsed: 46.18652582168579
+2023-07-07 21:38:38 [INFO    ] research.main                            : Number of documents mined: 367
+2023-07-07 21:39:34 [INFO    ] research.main                            : Summary time elapsed: 55.35823369026184
+2023-07-07 21:39:35 [INFO    ] research.main                            : Number of documents mined: 368
+2023-07-07 21:40:24 [INFO    ] research.main                            : Summary time elapsed: 48.94475078582764
+2023-07-07 21:40:25 [INFO    ] research.main                            : Number of documents mined: 369
+2023-07-07 21:41:14 [INFO    ] research.main                            : Summary time elapsed: 49.63380408287048
+2023-07-07 21:41:15 [INFO    ] research.main                            : Number of documents mined: 370
+2023-07-07 21:41:15 [INFO    ] research.main                            : last_timestamp=[1688680590890]
+2023-07-07 21:42:02 [INFO    ] research.main                            : Summary time elapsed: 46.533549547195435
+2023-07-07 21:42:03 [INFO    ] research.main                            : Number of documents mined: 371
+2023-07-07 21:42:44 [INFO    ] research.main                            : Summary time elapsed: 40.82577681541443
+2023-07-07 21:42:45 [INFO    ] research.main                            : Number of documents mined: 372
+2023-07-07 21:43:32 [INFO    ] research.main                            : Summary time elapsed: 46.895933389663696
+2023-07-07 21:43:33 [INFO    ] research.main                            : Number of documents mined: 373
+2023-07-07 21:44:22 [INFO    ] research.main                            : Summary time elapsed: 49.191102266311646
+2023-07-07 21:44:23 [INFO    ] research.main                            : Number of documents mined: 374
+2023-07-07 21:45:12 [INFO    ] research.main                            : Summary time elapsed: 48.79704928398132
+2023-07-07 21:45:13 [INFO    ] research.main                            : Number of documents mined: 375
+2023-07-07 21:45:54 [INFO    ] research.main                            : Summary time elapsed: 40.75494122505188
+2023-07-07 21:45:55 [INFO    ] research.main                            : Number of documents mined: 376
+2023-07-07 21:47:00 [INFO    ] research.main                            : Summary time elapsed: 65.14482879638672
+2023-07-07 21:47:01 [INFO    ] research.main                            : Number of documents mined: 377
+2023-07-07 21:47:01 [INFO    ] research.main                            : Ignore doc with ID=5242d5af3f4012c17e380fd2feb2a6ba4b1f087dc03cb1a3e32ba1af657257cb - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-stefan-huber, reason: Document has not passed filter criteria
+2023-07-07 21:47:01 [INFO    ] research.main                            : Number of documents mined: 378
+2023-07-07 21:47:44 [INFO    ] research.main                            : Summary time elapsed: 42.81277823448181
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 379
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=882c302b40425085eb01619307014f8ea25d1be276f4cf55c2a2322538fb0647 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraegerin-prof-dr-elisabeth-de-boer, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 380
+2023-07-07 21:47:45 [INFO    ] research.main                            : last_timestamp=[1688680652035]
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=4a77bb41b07b73c5961898802e9c61d1ec1ff23c9b96a3dd8cdad40bf8f38b13 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraegerin-prof-dr-viktoria-daeschlein-gessner, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 381
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=a6e49cd1f0d1e2c5af5933904f3eada374804c3853d9922e52bc311654e8b162 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraegerin-prof-dr-clara-saraceno, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 382
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=c7d47992df63e8392dffc4a7468c36c6823dec89730fef5331e6cd8ac1182b50 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-lars-borchardt, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 383
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=ca6a7698b46265c7a9e0eb5c8b44646b2da7946fbf2aab0d4d30f69db35c783f - URL=https://forschung.ruhr-uni-bochum.de/de/preistraegerin-prof-dr-kristina-tschulik, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 384
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=b913c774651d2d87048585ca12b1765a71f3343a654bb4c8ffda1e2e60395550 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-hans-alves, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 385
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=034bbe6a0340718b3806aa4c6ce3f0d7c673f906a81dd249867dc2d5f2c4be42 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-suayb-uestuen, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 386
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=ff8eb5a8732bec7f33aa07484592eec33b1e0adbe7855bcad549a574a332f0c0 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-jonathan-bedford, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 387
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=c3fab9ca88e1e7c123619f9e743a1fa8db8fa02cd4b5da0562f678bed1e05d8d - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-michael-walter, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 388
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=cafa18cb7f11977796de670676e5ec2ca8f153e39972f6c14430e9b26c72347a - URL=https://forschung.ruhr-uni-bochum.de/de/preistraegerin-prof-dr-anna-boehmer, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 389
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=dc193f64699e80b10e6f1d437001cc7219857a281cc4b793e8a461b82f47ea98 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-eike-kiltz, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 390
+2023-07-07 21:47:45 [INFO    ] research.main                            : last_timestamp=[1688680658046]
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=f669e5d8e5e5665865a56b81eddedf6054e9ddec40b93ec106cb1df162d4d47a - URL=https://forschung.ruhr-uni-bochum.de/de/preistraegerin-prof-dr-alexandra-cuffel, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 391
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=fad05aedad721b5b19dcb915722c1e20e37cb871b89b9ffc4a6073b11697cf64 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraegerin-prof-dr-carmen-meinert, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 392
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=a0f087442b779c95aa6b46faace358292e1873aaf2fae60f0d183e5594bc1fd3 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-hendrik-hildebrandt, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 393
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=b695363b0135a215404f4286661c6dceefa776ffaafd177a52f7fdb25b28e376 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-nikolai-axmacher, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 394
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=a77f6d8125efcd89ed8fb565c49e15a74fdc05f8fe0c64b533afe90aea018ba0 - URL=https://forschung.ruhr-uni-bochum.de/de/mitantragstellerinnen-dr-barbara-roggema-und-prof-dr-alexandra-cuffel, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 395
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=9f13717896a29863216c947e256ee9a5ed99d3d5519a418a1addd33b82b11bae - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-johann-buessow, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 396
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=eda835a2e851063c1036a3dbb88343efdb9ea5906a248b9de16adbb36ed5265a - URL=https://forschung.ruhr-uni-bochum.de/de/preistraegerin-prof-dr-viktoria-daeschlein-gessner-0, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 397
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=9855dad9c976f35868c8357f2e4843194b1fb0acb4c66d7a20ecfef230f30fa6 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-ing-christof-paar, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 398
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=ccc0d8f29cf16c68133e1d65d449e29be024bccaf5b9957926496cd9e3953fb8 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraegerin-prof-dr-martina-havenith-newen, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 399
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=f7022c064957089078af04f6196396e90d61338109ba428aa400eb15f66246ab - URL=https://forschung.ruhr-uni-bochum.de/de/preistraegerin-prof-dr-ute-kraemer, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 400
+2023-07-07 21:47:45 [INFO    ] research.main                            : last_timestamp=[1688680661210]
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=4da32e0c1ce4726bef078b35b187176b44afc4b0fac2c2315a0389565c708348 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-wolfgang-schuhmann, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 401
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=0c904c195516d3344a2d93d06ade35b34c4f16b32318f8d02d6d6d3972eb1a86 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-evgeny-epelbaum, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 402
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=2582a15bac8a7454b7ed938a67c7ed009d53dd82f2a8063450f5062ea0e97bce - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-heinrich-wansing, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 403
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=d21d46c3103bda710b732dec141952db1446522db18944d6103c540609afdc7b - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-dr-h-c-onur-guentuerkuen, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 404
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=a3a91edd1ea89311f585e1054845c610b41197bafc0fd6c5821a129bfe171cf1 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-roland-span, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 405
+2023-07-07 21:47:45 [INFO    ] research.main                            : Ignore doc with ID=3fcd6aa135ab2ca9aafe227caf006359a446335fda7ac3ce08dd2027ac32b1ab - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-eike-kiltz-1, reason: Document has not passed filter criteria
+2023-07-07 21:47:45 [INFO    ] research.main                            : Number of documents mined: 406
+2023-07-07 21:48:22 [INFO    ] research.main                            : Summary time elapsed: 37.048325538635254
+2023-07-07 21:48:23 [INFO    ] research.main                            : Number of documents mined: 407
+2023-07-07 21:48:23 [INFO    ] research.main                            : Ignore doc with ID=e05e0b25d922bb05ca76dd0932f09abfc82a0ae04300ded0128e38bc430c1395 - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-gregor-leander, reason: Document has not passed filter criteria
+2023-07-07 21:48:23 [INFO    ] research.main                            : Number of documents mined: 408
+2023-07-07 21:48:23 [INFO    ] research.main                            : Ignore doc with ID=5f0bffd6a5743c40b21948f1cda0a1dec5025fe338914dd0e07bf10c7b7f034b - URL=https://forschung.ruhr-uni-bochum.de/de/preistraeger-prof-dr-frank-dickmann, reason: Document has not passed filter criteria
+2023-07-07 21:48:23 [INFO    ] research.main                            : Number of documents mined: 409
+2023-07-07 21:49:26 [INFO    ] research.main                            : Summary time elapsed: 62.21494746208191
+2023-07-07 21:49:27 [INFO    ] research.main                            : Number of documents mined: 410
+2023-07-07 21:49:27 [INFO    ] research.main                            : last_timestamp=[1688680668689]
+2023-07-07 21:50:05 [INFO    ] research.main                            : Summary time elapsed: 38.00738859176636
+2023-07-07 21:50:06 [INFO    ] research.main                            : Number of documents mined: 411
+2023-07-07 21:50:47 [INFO    ] research.main                            : Summary time elapsed: 41.059234619140625
+2023-07-07 21:50:48 [INFO    ] research.main                            : Number of documents mined: 412
+2023-07-07 21:51:41 [INFO    ] research.main                            : Summary time elapsed: 53.20023202896118
+2023-07-07 21:51:42 [INFO    ] research.main                            : Number of documents mined: 413
+2023-07-07 21:52:24 [INFO    ] research.main                            : Summary time elapsed: 41.74569845199585
+2023-07-07 21:52:25 [INFO    ] research.main                            : Number of documents mined: 414
+2023-07-07 21:53:11 [INFO    ] research.main                            : Summary time elapsed: 46.35521125793457
+2023-07-07 21:53:12 [INFO    ] research.main                            : Number of documents mined: 415
+2023-07-07 21:53:53 [INFO    ] research.main                            : Summary time elapsed: 41.13720917701721
+2023-07-07 21:53:54 [INFO    ] research.main                            : Number of documents mined: 416
+2023-07-07 21:54:32 [INFO    ] research.main                            : Summary time elapsed: 37.608126640319824
+2023-07-07 21:54:33 [INFO    ] research.main                            : Number of documents mined: 417
+2023-07-07 21:54:33 [INFO    ] research.main                            : Ignore doc with ID=4f9a385f43787f77db2e346180941034f64d4fc40419c24c28d98299bfaac463 - URL=https://www.komparatistik.ruhr-uni-bochum.de/projekte/publikationen/index.html.de, reason: Document has not passed filter criteria
+2023-07-07 21:54:33 [INFO    ] research.main                            : Number of documents mined: 418
+2023-07-07 21:56:37 [INFO    ] research.main                            : Summary time elapsed: 123.72517919540405
+2023-07-07 21:56:38 [INFO    ] research.main                            : Number of documents mined: 419
+2023-07-07 21:57:37 [INFO    ] research.main                            : Summary time elapsed: 59.12395119667053
+2023-07-07 21:57:38 [INFO    ] research.main                            : Number of documents mined: 420
+2023-07-07 21:57:38 [INFO    ] research.main                            : last_timestamp=[1688680677364]
+2023-07-07 21:57:38 [INFO    ] research.main                            : Ignore doc with ID=d0dd641c769defe1404eb584aa4e5c14183b08658b917326a429587666a89b52 - URL=https://www.komparatistik.ruhr-uni-bochum.de/forschung/promotionsprojekte/schmitz-emans.html.de, reason: Document has not passed filter criteria
+2023-07-07 21:57:38 [INFO    ] research.main                            : Number of documents mined: 421
+2023-07-07 21:58:18 [INFO    ] research.main                            : Summary time elapsed: 40.21123671531677
+2023-07-07 21:58:19 [INFO    ] research.main                            : Number of documents mined: 422
+2023-07-07 21:59:11 [INFO    ] research.main                            : Summary time elapsed: 51.564950466156006
+2023-07-07 21:59:12 [INFO    ] research.main                            : Number of documents mined: 423
+2023-07-07 22:02:45 [INFO    ] research.main                            : Summary time elapsed: 213.38339591026306
+2023-07-07 22:02:46 [INFO    ] research.main                            : Number of documents mined: 424
+2023-07-07 22:03:22 [INFO    ] research.main                            : Summary time elapsed: 36.08258318901062
+2023-07-07 22:03:23 [INFO    ] research.main                            : Number of documents mined: 425
+2023-07-07 22:04:10 [INFO    ] research.main                            : Summary time elapsed: 47.10414958000183
+2023-07-07 22:04:11 [INFO    ] research.main                            : Number of documents mined: 426
+2023-07-07 22:04:52 [INFO    ] research.main                            : Summary time elapsed: 41.21631097793579
+2023-07-07 22:04:53 [INFO    ] research.main                            : Number of documents mined: 427
+2023-07-07 22:20:14 [INFO    ] research.main                            : Summary time elapsed: 920.461541891098
+2023-07-07 22:20:15 [INFO    ] research.main                            : Number of documents mined: 428
+2023-07-07 22:20:51 [INFO    ] research.main                            : Summary time elapsed: 36.43595314025879
+2023-07-07 22:20:52 [INFO    ] research.main                            : Number of documents mined: 429
+2023-07-07 22:20:52 [INFO    ] research.main                            : Ignore doc with ID=36015330abe3c81926bb2af0aef7ce2dc1fabefb2bab092cd2e16907a6c6b7d4 - URL=https://einrichtungen.ruhr-uni-bochum.de/en/research-support-office, reason: Document has not passed filter criteria
+2023-07-07 22:20:52 [INFO    ] research.main                            : Number of documents mined: 430
+2023-07-07 22:20:52 [INFO    ] research.main                            : last_timestamp=[1688680702051]
+2023-07-07 22:21:33 [INFO    ] research.main                            : Summary time elapsed: 40.58483266830444
+2023-07-07 22:21:34 [INFO    ] research.main                            : Number of documents mined: 431
+2023-07-07 22:22:17 [INFO    ] research.main                            : Summary time elapsed: 43.20341968536377
+2023-07-07 22:22:18 [INFO    ] research.main                            : Number of documents mined: 432
+2023-07-07 22:23:05 [INFO    ] research.main                            : Summary time elapsed: 46.81498146057129
+2023-07-07 22:23:06 [INFO    ] research.main                            : Number of documents mined: 433
+2023-07-07 22:23:46 [INFO    ] research.main                            : Summary time elapsed: 39.680280447006226
+2023-07-07 22:23:47 [INFO    ] research.main                            : Number of documents mined: 434
+2023-07-07 22:24:33 [INFO    ] research.main                            : Summary time elapsed: 46.5062415599823
+2023-07-07 22:24:34 [INFO    ] research.main                            : Number of documents mined: 435
+2023-07-07 22:25:10 [INFO    ] research.main                            : Summary time elapsed: 36.42868709564209
+2023-07-07 22:25:11 [INFO    ] research.main                            : Number of documents mined: 436
+2023-07-07 22:25:50 [INFO    ] research.main                            : Summary time elapsed: 38.815468549728394
+2023-07-07 22:25:51 [INFO    ] research.main                            : Number of documents mined: 437
+2023-07-07 22:26:29 [INFO    ] research.main                            : Summary time elapsed: 37.859265089035034
+2023-07-07 22:26:30 [INFO    ] research.main                            : Number of documents mined: 438
+2023-07-07 22:27:20 [INFO    ] research.main                            : Summary time elapsed: 49.69432210922241
+2023-07-07 22:27:21 [INFO    ] research.main                            : Number of documents mined: 439
+2023-07-07 22:28:04 [INFO    ] research.main                            : Summary time elapsed: 43.459195613861084
+2023-07-07 22:28:05 [INFO    ] research.main                            : Number of documents mined: 440
+2023-07-07 22:28:05 [INFO    ] research.main                            : last_timestamp=[1688680727169]
+2023-07-07 22:31:39 [INFO    ] research.main                            : Summary time elapsed: 212.81209301948547
+2023-07-07 22:31:40 [INFO    ] research.main                            : Number of documents mined: 441
+2023-07-07 22:32:25 [INFO    ] research.main                            : Summary time elapsed: 45.141427755355835
+2023-07-07 22:32:26 [INFO    ] research.main                            : Number of documents mined: 442
+2023-07-07 22:33:09 [INFO    ] research.main                            : Summary time elapsed: 42.950324058532715
+2023-07-07 22:33:10 [INFO    ] research.main                            : Number of documents mined: 443
+2023-07-07 22:33:52 [INFO    ] research.main                            : Summary time elapsed: 42.739792823791504
+2023-07-07 22:33:53 [INFO    ] research.main                            : Number of documents mined: 444
+2023-07-07 22:34:40 [INFO    ] research.main                            : Summary time elapsed: 46.596384048461914
+2023-07-07 22:34:40 [INFO    ] research.main                            : Number of documents mined: 445
+2023-07-07 22:35:31 [INFO    ] research.main                            : Summary time elapsed: 50.338958501815796
+2023-07-07 22:35:32 [INFO    ] research.main                            : Number of documents mined: 446
+2023-07-07 22:36:12 [INFO    ] research.main                            : Summary time elapsed: 40.419721364974976
+2023-07-07 22:36:13 [INFO    ] research.main                            : Number of documents mined: 447
+2023-07-07 22:37:04 [INFO    ] research.main                            : Summary time elapsed: 50.70703101158142
+2023-07-07 22:37:05 [INFO    ] research.main                            : Number of documents mined: 448
+2023-07-07 22:37:47 [INFO    ] research.main                            : Summary time elapsed: 42.12092661857605
+2023-07-07 22:37:48 [INFO    ] research.main                            : Number of documents mined: 449
+2023-07-07 22:38:36 [INFO    ] research.main                            : Summary time elapsed: 47.91574192047119
+2023-07-07 22:38:37 [INFO    ] research.main                            : Number of documents mined: 450
+2023-07-07 22:38:37 [INFO    ] research.main                            : last_timestamp=[1688680763161]
+2023-07-07 22:39:37 [INFO    ] research.main                            : Summary time elapsed: 59.920695781707764
+2023-07-07 22:39:38 [INFO    ] research.main                            : Number of documents mined: 451
+2023-07-07 22:40:20 [INFO    ] research.main                            : Summary time elapsed: 42.456363916397095
+2023-07-07 22:40:21 [INFO    ] research.main                            : Number of documents mined: 452
+2023-07-07 22:41:05 [INFO    ] research.main                            : Summary time elapsed: 43.539828062057495
+2023-07-07 22:41:06 [INFO    ] research.main                            : Number of documents mined: 453
+2023-07-07 22:41:49 [INFO    ] research.main                            : Summary time elapsed: 42.834362745285034
+2023-07-07 22:41:50 [INFO    ] research.main                            : Number of documents mined: 454
+2023-07-07 22:42:38 [INFO    ] research.main                            : Summary time elapsed: 48.13753533363342
+2023-07-07 22:42:39 [INFO    ] research.main                            : Number of documents mined: 455
+2023-07-07 22:43:18 [INFO    ] research.main                            : Summary time elapsed: 39.654725790023804
+2023-07-07 22:43:19 [INFO    ] research.main                            : Number of documents mined: 456
+2023-07-07 22:44:06 [INFO    ] research.main                            : Summary time elapsed: 46.99462819099426
+2023-07-07 22:44:07 [INFO    ] research.main                            : Number of documents mined: 457
+2023-07-07 22:44:54 [INFO    ] research.main                            : Summary time elapsed: 46.898011445999146
+2023-07-07 22:44:55 [INFO    ] research.main                            : Number of documents mined: 458
+2023-07-07 22:45:33 [INFO    ] research.main                            : Summary time elapsed: 38.11650371551514
+2023-07-07 22:45:34 [INFO    ] research.main                            : Number of documents mined: 459
+2023-07-07 22:45:34 [INFO    ] research.main                            : Ignore doc with ID=31dc3d6a8f0da0e70b0dc76e51ea38da494f692fe8dc60de631efd5a4dcf122b - URL=https://www.pse.rub.de/forschung/promotionskolleg-ab-2018/, reason: Document has not passed filter criteria
+2023-07-07 22:45:34 [INFO    ] research.main                            : Number of documents mined: 460
+2023-07-07 22:45:34 [INFO    ] research.main                            : last_timestamp=[1688680774735]
+2023-07-07 22:46:18 [INFO    ] research.main                            : Summary time elapsed: 43.68981456756592
+2023-07-07 22:46:19 [INFO    ] research.main                            : Number of documents mined: 461
+2023-07-07 22:47:12 [INFO    ] research.main                            : Summary time elapsed: 53.06651830673218
+2023-07-07 22:47:13 [INFO    ] research.main                            : Number of documents mined: 462
+2023-07-07 22:47:13 [INFO    ] research.main                            : Ignore doc with ID=a083710c896cbfc4cb34fcb7cb3a965ff25b357b014b366bd9b88adffcefb25b - URL=https://www.pe.ruhr-uni-bochum.de/philosophie/i/forschung_kdp/kontakt.html.de, reason: Document has not passed filter criteria
+2023-07-07 22:47:13 [INFO    ] research.main                            : Number of documents mined: 463
+2023-07-07 22:47:13 [INFO    ] research.main                            : Ignore doc with ID=e03cc86f53ae6fcc69b92abe411e9180122dc479c3a8428a524bbe42d5bb9b90 - URL=https://www.pe.ruhr-uni-bochum.de/philosophie/i/forschung_kdp/nachrichten/archiv.html.de, reason: Document has not passed filter criteria
+2023-07-07 22:47:13 [INFO    ] research.main                            : Number of documents mined: 464
+2023-07-07 22:47:59 [INFO    ] research.main                            : Summary time elapsed: 46.466171741485596
+2023-07-07 22:48:00 [INFO    ] research.main                            : Number of documents mined: 465
+2023-07-07 22:48:00 [INFO    ] research.main                            : Ignore doc with ID=0de58d6f4a990d97f160a73d16b4cbd7cdd67de213c96474bd7e36fd0390c43a - URL=https://www.pe.ruhr-uni-bochum.de/philosophie/i/forschung_kdp/stipendien/archiv.html.de, reason: Document has not passed filter criteria
+2023-07-07 22:48:00 [INFO    ] research.main                            : Number of documents mined: 466
+2023-07-07 22:48:37 [INFO    ] research.main                            : Summary time elapsed: 36.876062631607056
+2023-07-07 22:48:38 [INFO    ] research.main                            : Number of documents mined: 467
+2023-07-07 22:49:24 [INFO    ] research.main                            : Summary time elapsed: 46.212098121643066
+2023-07-07 22:49:25 [INFO    ] research.main                            : Number of documents mined: 468
+2023-07-07 22:50:30 [INFO    ] research.main                            : Summary time elapsed: 65.34265041351318
+2023-07-07 22:50:31 [INFO    ] research.main                            : Number of documents mined: 469
+2023-07-07 22:51:11 [INFO    ] research.main                            : Summary time elapsed: 39.42827320098877
+2023-07-07 22:51:12 [INFO    ] research.main                            : Number of documents mined: 470
+2023-07-07 22:51:12 [INFO    ] research.main                            : last_timestamp=[1688680785826]
+2023-07-07 22:52:03 [INFO    ] research.main                            : Summary time elapsed: 50.71881890296936
+2023-07-07 22:52:04 [INFO    ] research.main                            : Number of documents mined: 471
+2023-07-07 22:55:46 [INFO    ] research.main                            : Summary time elapsed: 222.2741618156433
+2023-07-07 22:55:47 [INFO    ] research.main                            : Number of documents mined: 472
+2023-07-07 22:56:23 [INFO    ] research.main                            : Summary time elapsed: 36.2337589263916
+2023-07-07 22:56:24 [INFO    ] research.main                            : Number of documents mined: 473
+2023-07-07 22:57:22 [INFO    ] research.main                            : Summary time elapsed: 57.53263783454895
+2023-07-07 22:57:22 [INFO    ] research.main                            : Number of documents mined: 474
+2023-07-07 22:58:00 [INFO    ] research.main                            : Summary time elapsed: 37.28794574737549
+2023-07-07 22:58:01 [INFO    ] research.main                            : Number of documents mined: 475
+2023-07-07 22:58:01 [INFO    ] research.main                            : Ignore doc with ID=ebf8a15bbd53aa1515ebbd878ce88e71b518689943625b0b09b912f5af25bb49 - URL=https://www.pe.ruhr-uni-bochum.de/philosophie/i/forschung_kdp/veranstaltungen/hegel_vorlesungen_archiv.html.de, reason: Document has not passed filter criteria
+2023-07-07 22:58:01 [INFO    ] research.main                            : Number of documents mined: 476
+2023-07-07 22:58:44 [INFO    ] research.main                            : Summary time elapsed: 43.82007670402527
+2023-07-07 22:58:45 [INFO    ] research.main                            : Number of documents mined: 477
+2023-07-07 22:59:40 [INFO    ] research.main                            : Summary time elapsed: 54.35959434509277
+2023-07-07 22:59:41 [INFO    ] research.main                            : Number of documents mined: 478
+2023-07-07 22:59:41 [INFO    ] research.main                            : Ignore doc with ID=63f34cb3d08eb86f2aae9b57b505493adfd22d2145e24ff8ec7f4e460607109f - URL=https://www.pe.ruhr-uni-bochum.de/philosophie/i/forschung_kdp/organisation/kooperationen.html.de, reason: Document has not passed filter criteria
+2023-07-07 22:59:41 [INFO    ] research.main                            : Number of documents mined: 479
+2023-07-07 23:00:35 [INFO    ] research.main                            : Summary time elapsed: 53.6385452747345
+2023-07-07 23:00:36 [INFO    ] research.main                            : Number of documents mined: 480
+2023-07-07 23:00:36 [INFO    ] research.main                            : last_timestamp=[1688680798163]
+2023-07-07 23:01:25 [INFO    ] research.main                            : Summary time elapsed: 48.95099353790283
+2023-07-07 23:01:26 [INFO    ] research.main                            : Number of documents mined: 481
+2023-07-07 23:02:05 [INFO    ] research.main                            : Summary time elapsed: 39.518675804138184
+2023-07-07 23:02:06 [INFO    ] research.main                            : Number of documents mined: 482
+2023-07-07 23:02:06 [INFO    ] research.main                            : Ignore doc with ID=eab99afc5a7ed918f5d47d4cc600fcd21f8a4af49ec2b0ae4dc3b93f7b7bc9dc - URL=https://hgi.rub.de/news/newsarchiv/hgi/die-forschungsreise-moeglichmacher-macht-halt-in-bochum, reason: Document has not passed filter criteria
+2023-07-07 23:02:06 [INFO    ] research.main                            : Number of documents mined: 483
+2023-07-07 23:02:06 [INFO    ] research.main                            : Ignore doc with ID=690de1bc75e05fbabceda6dc4c3d5d80ed736fa918bb9cecea18a928fd7485f2 - URL=https://hgi.rub.de/news/newsarchiv/hgi/rueckblick-auf-die-sechuman-casa-spring-school-2023, reason: Document has not passed filter criteria
+2023-07-07 23:02:06 [INFO    ] research.main                            : Number of documents mined: 484
+2023-07-07 23:02:06 [INFO    ] research.main                            : Ignore doc with ID=cd05b902352364adf0111d241fe89e358d6a847553a307867ed6b871471bacd0 - URL=https://forschung.ruhr-uni-bochum.de/en/alexander-von-humboldt-professorship, reason: Document has not passed filter criteria
+2023-07-07 23:02:06 [INFO    ] research.main                            : Number of documents mined: 485
+2023-07-07 23:02:46 [INFO    ] research.main                            : Summary time elapsed: 39.801772117614746
+2023-07-07 23:02:47 [INFO    ] research.main                            : Number of documents mined: 486
+2023-07-07 23:03:32 [INFO    ] research.main                            : Summary time elapsed: 44.867242097854614
+2023-07-07 23:03:33 [INFO    ] research.main                            : Number of documents mined: 487
+2023-07-07 23:03:33 [INFO    ] research.main                            : Ignore doc with ID=b5954ce449eb53d4303bcb21a6625cf582ee4557c7cd1c61b2002747e5a18146 - URL=https://www.ruhr-uni-bochum.de/deutschlandforschung/IDF-Newsletter.htm, reason: Document has not passed filter criteria
+2023-07-07 23:03:33 [INFO    ] research.main                            : Number of documents mined: 488
+2023-07-07 23:03:33 [INFO    ] research.main                            : Ignore doc with ID=0a508eced07d6bc5398e62b1fe679fce0b15c3d17c135960faa562cea4e24d50 - URL=https://www.ruhr-uni-bochum.de/deutschlandforschung/Archiv_Ausstellungen.htm, reason: Document has not passed filter criteria
+2023-07-07 23:03:33 [INFO    ] research.main                            : Number of documents mined: 489
+2023-07-07 23:04:18 [INFO    ] research.main                            : Summary time elapsed: 44.761297941207886
+2023-07-07 23:04:19 [INFO    ] research.main                            : Number of documents mined: 490
+2023-07-07 23:04:19 [INFO    ] research.main                            : last_timestamp=[1688680823875]
+2023-07-07 23:05:05 [INFO    ] research.main                            : Summary time elapsed: 46.00036358833313
+2023-07-07 23:05:06 [INFO    ] research.main                            : Number of documents mined: 491
+2023-07-07 23:06:09 [INFO    ] research.main                            : Summary time elapsed: 63.04489326477051
+2023-07-07 23:06:10 [INFO    ] research.main                            : Number of documents mined: 492
+2023-07-07 23:07:01 [INFO    ] research.main                            : Summary time elapsed: 51.4507200717926
+2023-07-07 23:07:02 [INFO    ] research.main                            : Number of documents mined: 493
+2023-07-07 23:07:02 [INFO    ] research.main                            : Ignore doc with ID=9b1533c75ff0b91eff4fcb03a28c20b8276b43b4d8d3f2424a5631206cde3ad4 - URL=https://www.ruhr-uni-bochum.de/deutschlandforschung/Publikationen_IDF.htm, reason: Document has not passed filter criteria
+2023-07-07 23:07:02 [INFO    ] research.main                            : Number of documents mined: 494
+2023-07-07 23:07:02 [INFO    ] research.main                            : Ignore doc with ID=12de685becd9fa92dd30703e11c82cdea061e41acb1e4b091c91c2c3976fe0c8 - URL=https://www.ruhr-uni-bochum.de/deutschlandforschung/Publikationen_Neuerscheinungen.htm, reason: Document has not passed filter criteria
+2023-07-07 23:07:02 [INFO    ] research.main                            : Number of documents mined: 495
+2023-07-07 23:07:41 [INFO    ] research.main                            : Summary time elapsed: 39.29754066467285
+2023-07-07 23:07:42 [INFO    ] research.main                            : Number of documents mined: 496
+2023-07-07 23:08:20 [INFO    ] research.main                            : Summary time elapsed: 37.98226475715637
+2023-07-07 23:08:21 [INFO    ] research.main                            : Number of documents mined: 497
+2023-07-07 23:09:06 [INFO    ] research.main                            : Summary time elapsed: 45.0662784576416
+2023-07-07 23:09:07 [INFO    ] research.main                            : Number of documents mined: 498
+2023-07-07 23:10:13 [INFO    ] research.main                            : Summary time elapsed: 65.70475196838379
+2023-07-07 23:10:14 [INFO    ] research.main                            : Number of documents mined: 499
+2023-07-07 23:11:01 [INFO    ] research.main                            : Summary time elapsed: 46.860400676727295
+2023-07-07 23:11:02 [INFO    ] research.main                            : Number of documents mined: 500
+2023-07-07 23:11:02 [INFO    ] research.main                            : last_timestamp=[1688680830162]
+2023-07-07 23:11:49 [INFO    ] research.main                            : Summary time elapsed: 46.861812114715576
+2023-07-07 23:11:50 [INFO    ] research.main                            : Number of documents mined: 501
+2023-07-07 23:11:50 [INFO    ] research.main                            : Ignore doc with ID=384408d1e7013039c59e7a92c5548370ab163ec93d26790bb94fe02b491d43c8 - URL=https://www.zms.ruhr-uni-bochum.de/zms/forschung/index.html.en, reason: Document has not passed filter criteria
+2023-07-07 23:11:50 [INFO    ] research.main                            : Number of documents mined: 502
+2023-07-07 23:12:31 [INFO    ] research.main                            : Summary time elapsed: 40.642223596572876
+2023-07-07 23:12:32 [INFO    ] research.main                            : Number of documents mined: 503
+2023-07-07 23:12:32 [INFO    ] research.main                            : Ignore doc with ID=631db44ed9976145dabae9c1448228de0aba9f6b1b8947c7b2a50fb475d00530 - URL=https://www.ruhr-uni-bochum.de/deutschlandforschung/Institut_Personen.html, reason: Document has not passed filter criteria
+2023-07-07 23:12:32 [INFO    ] research.main                            : Number of documents mined: 504
+2023-07-07 23:13:13 [INFO    ] research.main                            : Summary time elapsed: 41.206480979919434
+2023-07-07 23:13:14 [INFO    ] research.main                            : Number of documents mined: 505
+2023-07-07 23:14:02 [INFO    ] research.main                            : Summary time elapsed: 48.04961395263672
+2023-07-07 23:14:03 [INFO    ] research.main                            : Number of documents mined: 506
+2023-07-07 23:14:43 [INFO    ] research.main                            : Summary time elapsed: 40.54287123680115
+2023-07-07 23:14:44 [INFO    ] research.main                            : Number of documents mined: 507
+2023-07-07 23:14:44 [INFO    ] research.main                            : Ignore doc with ID=432957a5b13140f13e500a3f8ab1d05cd064a96a7a42d06869bddd7e6191ad75 - URL=https://www.ruhr-uni-bochum.de/deutschlandforschung/Index.html, reason: Document has not passed filter criteria
+2023-07-07 23:14:44 [INFO    ] research.main                            : Number of documents mined: 508
+2023-07-07 23:15:25 [INFO    ] research.main                            : Summary time elapsed: 40.65459871292114
+2023-07-07 23:15:26 [INFO    ] research.main                            : Number of documents mined: 509
+2023-07-07 23:16:08 [INFO    ] research.main                            : Summary time elapsed: 41.97935175895691
+2023-07-07 23:16:09 [INFO    ] research.main                            : Number of documents mined: 510
+2023-07-07 23:16:09 [INFO    ] research.main                            : last_timestamp=[1688680841551]
+2023-07-07 23:16:57 [INFO    ] research.main                            : Summary time elapsed: 47.89775347709656
+2023-07-07 23:16:58 [INFO    ] research.main                            : Number of documents mined: 511
+2023-07-07 23:17:40 [INFO    ] research.main                            : Summary time elapsed: 41.54352641105652
+2023-07-07 23:17:40 [INFO    ] research.main                            : Number of documents mined: 512
+2023-07-07 23:18:25 [INFO    ] research.main                            : Summary time elapsed: 44.643149852752686
+2023-07-07 23:18:26 [INFO    ] research.main                            : Number of documents mined: 513
+2023-07-07 23:19:18 [INFO    ] research.main                            : Summary time elapsed: 51.60509371757507
+2023-07-07 23:19:19 [INFO    ] research.main                            : Number of documents mined: 514
+2023-07-07 23:19:19 [INFO    ] research.main                            : Ignore doc with ID=c94af95d556c6d5f43ba42013e9f91efe71a0392f3511ee3eb0a04bf31f653af - URL=https://www.mb.rub.de/forschung/professuren/, reason: Document has not passed filter criteria
+2023-07-07 23:19:19 [INFO    ] research.main                            : Number of documents mined: 515
+2023-07-07 23:20:07 [INFO    ] research.main                            : Summary time elapsed: 48.16631054878235
+2023-07-07 23:20:08 [INFO    ] research.main                            : Number of documents mined: 516
+2023-07-07 23:20:08 [INFO    ] research.main                            : Ignore doc with ID=1c4810ac2cb6603bcf6acee42ba80cb339199d7c115f9be0085e79a991910ef0 - URL=https://www.ifu.ruhr-uni-bochum.de/profil/forschung.html.en, reason: Document has not passed filter criteria
+2023-07-07 23:20:08 [INFO    ] research.main                            : Number of documents mined: 517
+2023-07-07 23:20:50 [INFO    ] research.main                            : Summary time elapsed: 42.3747444152832
+2023-07-07 23:20:51 [INFO    ] research.main                            : Number of documents mined: 518
+2023-07-07 23:20:51 [INFO    ] research.main                            : Ignore doc with ID=366837116e70088789d78b685034c52bad1eb6fd45927caca53956be63e97d86 - URL=https://mariejahodacenter.rub.de/category/gender-in-society/, reason: Document has not passed filter criteria
+2023-07-07 23:20:51 [INFO    ] research.main                            : Number of documents mined: 519
+2023-07-07 23:21:29 [INFO    ] research.main                            : Summary time elapsed: 38.12795400619507
+2023-07-07 23:21:30 [INFO    ] research.main                            : Number of documents mined: 520
+2023-07-07 23:21:30 [INFO    ] research.main                            : last_timestamp=[1688680905565]
+2023-07-07 23:21:31 [INFO    ] research.main                            : Ignore doc with ID=db17b35a7c407405bcfc802a3ab78dfc8a05722bfee1ede57afb773ce6c5553d - URL=https://ceres.rub.de/en/research/, reason: Document has not passed filter criteria
+2023-07-07 23:21:31 [INFO    ] research.main                            : Number of documents mined: 521
+2023-07-07 23:21:31 [INFO    ] research.main                            : Ignore doc with ID=e2c457477caed31e88d6a526cd1b9902d3322abfb24d73aeb82a47f09f2d90ce - URL=https://ceres.rub.de/en/research/publications/, reason: Document has not passed filter criteria
+2023-07-07 23:21:31 [INFO    ] research.main                            : Number of documents mined: 522
+2023-07-07 23:22:18 [INFO    ] research.main                            : Summary time elapsed: 47.57492160797119
+2023-07-07 23:22:19 [INFO    ] research.main                            : Number of documents mined: 523
+2023-07-07 23:23:06 [INFO    ] research.main                            : Summary time elapsed: 46.45053553581238
+2023-07-07 23:23:07 [INFO    ] research.main                            : Number of documents mined: 524
+2023-07-07 23:23:45 [INFO    ] research.main                            : Summary time elapsed: 38.921568155288696
+2023-07-07 23:23:46 [INFO    ] research.main                            : Number of documents mined: 525
+2023-07-07 23:23:46 [INFO    ] research.main                            : Ignore doc with ID=a0be25d23a77d7e77b322615e686d114e34455459ae383fb8a247da75f586d25 - URL=https://www.ruhr-uni-bochum.de/mrg/knowledge/units/index.html.en, reason: Document has not passed filter criteria
+2023-07-07 23:23:46 [INFO    ] research.main                            : Number of documents mined: 526
+2023-07-07 23:24:33 [INFO    ] research.main                            : Summary time elapsed: 46.796655893325806
+2023-07-07 23:24:34 [INFO    ] research.main                            : Number of documents mined: 527
+2023-07-07 23:25:20 [INFO    ] research.main                            : Summary time elapsed: 45.626694679260254
+2023-07-07 23:25:21 [INFO    ] research.main                            : Number of documents mined: 528
+2023-07-07 23:26:19 [INFO    ] research.main                            : Summary time elapsed: 58.76991844177246
+2023-07-07 23:26:20 [INFO    ] research.main                            : Number of documents mined: 529
+2023-07-07 23:26:20 [INFO    ] research.main                            : Ignore doc with ID=1ac2471ee2ca8539a0890fd1eaa8f5a2614931ae0bc6a4070acc30ee3fb4d80f - URL=https://www.medizin.ruhr-uni-bochum.de/forschung/foerderung.html.de, reason: Document has not passed filter criteria
+2023-07-07 23:26:20 [INFO    ] research.main                            : Number of documents mined: 530
+2023-07-07 23:26:20 [INFO    ] research.main                            : last_timestamp=[1688681032750]
+2023-07-07 23:27:04 [INFO    ] research.main                            : Summary time elapsed: 42.966304540634155
+2023-07-07 23:27:04 [INFO    ] research.main                            : Number of documents mined: 531
+2023-07-07 23:27:47 [INFO    ] research.main                            : Summary time elapsed: 42.548590421676636
+2023-07-07 23:27:48 [INFO    ] research.main                            : Number of documents mined: 532
+2023-07-07 23:28:35 [INFO    ] research.main                            : Summary time elapsed: 47.05929255485535
+2023-07-07 23:28:36 [INFO    ] research.main                            : Number of documents mined: 533
+2023-07-07 23:29:17 [INFO    ] research.main                            : Summary time elapsed: 40.81919717788696
+2023-07-07 23:29:18 [INFO    ] research.main                            : Number of documents mined: 534
+2023-07-07 23:29:56 [INFO    ] research.main                            : Summary time elapsed: 38.06900072097778
+2023-07-07 23:29:56 [INFO    ] research.main                            : Number of documents mined: 535
+2023-07-07 23:30:42 [INFO    ] research.main                            : Summary time elapsed: 45.806512117385864
+2023-07-07 23:30:43 [INFO    ] research.main                            : Number of documents mined: 536
+2023-07-07 23:31:30 [INFO    ] research.main                            : Summary time elapsed: 47.05713486671448
+2023-07-07 23:31:31 [INFO    ] research.main                            : Number of documents mined: 537
+2023-07-07 23:32:13 [INFO    ] research.main                            : Summary time elapsed: 41.90853571891785
+2023-07-07 23:32:14 [INFO    ] research.main                            : Number of documents mined: 538
+2023-07-07 23:33:02 [INFO    ] research.main                            : Summary time elapsed: 48.1325945854187
+2023-07-07 23:33:03 [INFO    ] research.main                            : Number of documents mined: 539
+2023-07-07 23:33:03 [INFO    ] research.main                            : Ignore doc with ID=720cc61e08bd41aa2d69877eeaa2528c6adbf5638928a1081950536da119207d - URL=https://kgi.ruhr-uni-bochum.de/symposiums-beitrag-campuskunstapp-ein-pilotprojekt-zur-hybriden-vermittlung-von-kunst-am-bau-an-der-ruhr-universitaet-bochum/, reason: Document has not passed filter criteria
+2023-07-07 23:33:03 [INFO    ] research.main                            : Number of documents mined: 540
+2023-07-07 23:33:03 [INFO    ] research.main                            : last_timestamp=[1688681069518]
+2023-07-07 23:33:04 [INFO    ] research.main                            : Ignore doc with ID=6892382272db73360465aa873c23c7f862a55fd78f062515496577cc20652df8 - URL=https://kgi.ruhr-uni-bochum.de/portfolio-item/lichtenberg-professur-kunstkritik-und-krisenrhetorik-modellfall-kunstschriftstellerei/, reason: Document has not passed filter criteria
+2023-07-07 23:33:04 [INFO    ] research.main                            : Number of documents mined: 541
+2023-07-07 23:33:04 [INFO    ] research.main                            : Ignore doc with ID=d51b3a3939d21909b420c3ab6ea215da6edf2ee3f3eb4ece740f9081c740a284 - URL=https://kgi.ruhr-uni-bochum.de/zwei-wissenschaftliche-mitarbeiterinnen-im-teilprojekt-c04-normative-bildraeume/, reason: Document has not passed filter criteria
+2023-07-07 23:33:04 [INFO    ] research.main                            : Number of documents mined: 542
+2023-07-07 23:34:20 [INFO    ] research.main                            : Summary time elapsed: 76.21834135055542
+2023-07-07 23:34:21 [INFO    ] research.main                            : Number of documents mined: 543
+2023-07-07 23:35:16 [INFO    ] research.main                            : Summary time elapsed: 55.257301807403564
+2023-07-07 23:35:17 [INFO    ] research.main                            : Number of documents mined: 544
+2023-07-07 23:35:17 [INFO    ] research.main                            : Ignore doc with ID=6ce85b2fc97bb7ad5fdb18279901e9d570b6996f548d2255b054fffa823e4cb8 - URL=https://kgi.ruhr-uni-bochum.de/forschung/publikationen/, reason: Document has not passed filter criteria
+2023-07-07 23:35:17 [INFO    ] research.main                            : Number of documents mined: 545
+2023-07-07 23:35:56 [INFO    ] research.main                            : Summary time elapsed: 39.30852198600769
+2023-07-07 23:35:57 [INFO    ] research.main                            : Number of documents mined: 546
+2023-07-07 23:36:43 [INFO    ] research.main                            : Summary time elapsed: 45.502352714538574
+2023-07-07 23:36:44 [INFO    ] research.main                            : Number of documents mined: 547
+2023-07-07 23:37:25 [INFO    ] research.main                            : Summary time elapsed: 40.7885468006134
+2023-07-07 23:37:26 [INFO    ] research.main                            : Number of documents mined: 548
+2023-07-07 23:38:33 [INFO    ] research.main                            : Summary time elapsed: 66.8665132522583
+2023-07-07 23:38:34 [INFO    ] research.main                            : Number of documents mined: 549
+2023-07-07 23:39:27 [INFO    ] research.main                            : Summary time elapsed: 52.9436776638031
+2023-07-07 23:39:28 [INFO    ] research.main                            : Number of documents mined: 550
+2023-07-07 23:39:28 [INFO    ] research.main                            : last_timestamp=[1688681109731]
+2023-07-07 23:40:09 [INFO    ] research.main                            : Summary time elapsed: 40.35100221633911
+2023-07-07 23:40:10 [INFO    ] research.main                            : Number of documents mined: 551
+2023-07-07 23:40:47 [INFO    ] research.main                            : Summary time elapsed: 37.14098119735718
+2023-07-07 23:40:48 [INFO    ] research.main                            : Number of documents mined: 552
+2023-07-07 23:41:40 [INFO    ] research.main                            : Summary time elapsed: 51.84581542015076
+2023-07-07 23:41:41 [INFO    ] research.main                            : Number of documents mined: 553
+2023-07-07 23:42:27 [INFO    ] research.main                            : Summary time elapsed: 46.38876986503601
+2023-07-07 23:42:28 [INFO    ] research.main                            : Number of documents mined: 554
+2023-07-07 23:42:28 [INFO    ] research.main                            : Ignore doc with ID=b54398f410da945b04b861f34cef3b33c7c3cecad6841f1debec0c3a10314ac5 - URL=https://www.linguistics.ruhr-uni-bochum.de/forschung/professuren/, reason: Document has not passed filter criteria
+2023-07-07 23:42:28 [INFO    ] research.main                            : Number of documents mined: 555
+2023-07-07 23:43:05 [INFO    ] research.main                            : Summary time elapsed: 36.552478551864624
+2023-07-07 23:43:06 [INFO    ] research.main                            : Number of documents mined: 556
+2023-07-07 23:43:55 [INFO    ] research.main                            : Summary time elapsed: 49.074639558792114
+2023-07-07 23:43:56 [INFO    ] research.main                            : Number of documents mined: 557
+2023-07-07 23:44:48 [INFO    ] research.main                            : Summary time elapsed: 52.181349992752075
+2023-07-07 23:44:49 [INFO    ] research.main                            : Number of documents mined: 558
+2023-07-07 23:44:49 [INFO    ] research.main                            : Ignore doc with ID=cc987b02f0f342eb5410fc135a9c47dcd01aa3de7713e823716266958531dca4 - URL=https://www.sowi.ruhr-uni-bochum.de/forschung/institute.html.de, reason: Document has not passed filter criteria
+2023-07-07 23:44:49 [INFO    ] research.main                            : Number of documents mined: 559
+2023-07-07 23:45:34 [INFO    ] research.main                            : Summary time elapsed: 45.0858051776886
+2023-07-07 23:45:35 [INFO    ] research.main                            : Number of documents mined: 560
+2023-07-07 23:45:35 [INFO    ] research.main                            : last_timestamp=[1688681154745]
+2023-07-07 23:46:22 [INFO    ] research.main                            : Summary time elapsed: 46.554492712020874
+2023-07-07 23:46:23 [INFO    ] research.main                            : Number of documents mined: 561
+2023-07-07 23:47:13 [INFO    ] research.main                            : Summary time elapsed: 49.58568620681763
+2023-07-07 23:47:14 [INFO    ] research.main                            : Number of documents mined: 562
+2023-07-07 23:48:04 [INFO    ] research.main                            : Summary time elapsed: 50.11638402938843
+2023-07-07 23:48:05 [INFO    ] research.main                            : Number of documents mined: 563
+2023-07-07 23:48:05 [INFO    ] research.main                            : Ignore doc with ID=7144506dc82a5287f2499490ae5b177e6e7b239959c6c705355addf6d7814c45 - URL=https://news.rub.de/english/press-releases/2022-01-13-materials-research-treasure-map-realm-electrocatalysts, reason: Document has not passed filter criteria
+2023-07-07 23:48:05 [INFO    ] research.main                            : Number of documents mined: 564
+2023-07-07 23:48:05 [INFO    ] research.main                            : Ignore doc with ID=ff645525d1774ab49a8a4e0db338ed9c70f234044a37f5b1aa745360463c2926 - URL=https://news.rub.de/english/press-releases/2023-01-16-materials-research-tens-thousands-feasible-catalysts-diameter-hair, reason: Document has not passed filter criteria
+2023-07-07 23:48:05 [INFO    ] research.main                            : Number of documents mined: 565
+2023-07-07 23:48:57 [INFO    ] research.main                            : Summary time elapsed: 51.7966513633728
+2023-07-07 23:48:58 [INFO    ] research.main                            : Number of documents mined: 566
+2023-07-07 23:48:58 [INFO    ] research.main                            : Ignore doc with ID=2f7b71c82753d87775a2a3d6e82704f9a8e048fdf729adf3a16a839e2454d133 - URL=http://ifm.rub.de/forschung-2/medien-denken/mediendenken-archiv/, reason: Document has not passed filter criteria
+2023-07-07 23:48:58 [INFO    ] research.main                            : Number of documents mined: 567
+2023-07-07 23:49:58 [INFO    ] research.main                            : Summary time elapsed: 59.80734348297119
+2023-07-07 23:49:59 [INFO    ] research.main                            : Number of documents mined: 568
+2023-07-07 23:50:41 [INFO    ] research.main                            : Summary time elapsed: 42.63977932929993
+2023-07-07 23:50:42 [INFO    ] research.main                            : Number of documents mined: 569
+2023-07-07 23:51:23 [INFO    ] research.main                            : Summary time elapsed: 40.53945517539978
+2023-07-07 23:51:24 [INFO    ] research.main                            : Number of documents mined: 570
+2023-07-07 23:51:24 [INFO    ] research.main                            : last_timestamp=[1688681186872]
+2023-07-07 23:51:24 [INFO    ] research.main                            : Ignore doc with ID=5141e2dcd830ae40fc61e2c9e7277c3e0bab58d04edb2cacd14ccd06d087c0ba - URL=https://uni.ruhr-uni-bochum.de/de/personalentwicklung-fuer-fuehrungskraefte-und-teams, reason: Document has not passed filter criteria
+2023-07-07 23:51:24 [INFO    ] research.main                            : Number of documents mined: 571
+2023-07-07 23:51:24 [INFO    ] research.main                            : Ignore doc with ID=f1e8393663262f65c88aec4ad3056f7a8bc4ded4392472142665d68d61ee91c8 - URL=http://www.zefir.ruhr-uni-bochum.de/archiv.html.de, reason: Document has not passed filter criteria
+2023-07-07 23:51:24 [INFO    ] research.main                            : Number of documents mined: 572
+2023-07-07 23:52:19 [INFO    ] research.main                            : Summary time elapsed: 54.31209921836853
+2023-07-07 23:52:19 [INFO    ] research.main                            : Number of documents mined: 573
+2023-07-07 23:53:19 [INFO    ] research.main                            : Summary time elapsed: 59.1911723613739
+2023-07-07 23:53:19 [INFO    ] research.main                            : Number of documents mined: 574
+2023-07-07 23:54:07 [INFO    ] research.main                            : Summary time elapsed: 47.64348220825195
+2023-07-07 23:54:08 [INFO    ] research.main                            : Number of documents mined: 575
+2023-07-07 23:54:51 [INFO    ] research.main                            : Summary time elapsed: 43.266716957092285
+2023-07-07 23:54:52 [INFO    ] research.main                            : Number of documents mined: 576
+2023-07-07 23:55:45 [INFO    ] research.main                            : Summary time elapsed: 52.557074308395386
+2023-07-07 23:55:46 [INFO    ] research.main                            : Number of documents mined: 577
+2023-07-07 23:55:46 [INFO    ] research.main                            : Ignore doc with ID=057fe8ca4c6b778ba8cdc4e63ee6e4769d615224784a61f7a5dbd89a2f48e9c5 - URL=https://forschung.ruhr-uni-bochum.de/de/lichtenberg-professuren, reason: Document has not passed filter criteria
+2023-07-07 23:55:46 [INFO    ] research.main                            : Number of documents mined: 578
+2023-07-07 23:56:32 [INFO    ] research.main                            : Summary time elapsed: 46.77151417732239
+2023-07-07 23:56:33 [INFO    ] research.main                            : Number of documents mined: 579
+2023-07-07 23:57:19 [INFO    ] research.main                            : Summary time elapsed: 45.11296081542969
+2023-07-07 23:57:20 [INFO    ] research.main                            : Number of documents mined: 580
+2023-07-07 23:57:20 [INFO    ] research.main                            : last_timestamp=[1688681207062]
+2023-07-07 23:58:08 [INFO    ] research.main                            : Summary time elapsed: 48.612091302871704
+2023-07-07 23:58:09 [INFO    ] research.main                            : Number of documents mined: 581
+2023-07-07 23:58:49 [INFO    ] research.main                            : Summary time elapsed: 39.167259216308594
+2023-07-07 23:58:50 [INFO    ] research.main                            : Number of documents mined: 582
+2023-07-07 23:59:29 [INFO    ] research.main                            : Summary time elapsed: 39.10765600204468
+2023-07-07 23:59:30 [INFO    ] research.main                            : Number of documents mined: 583

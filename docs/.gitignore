@@ -1,0 +1,7 @@
+# Exclude hidden files
+.*
+!.gitignore
+
+# Exclude the PDFs that were build from drawio
+*.pdf
+!*.drawio.pdf

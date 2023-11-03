@@ -1,0 +1,48 @@
+[crawler]
+entrypoint = "https://www.ruhr-uni-bochum.de/de"
+domains = [
+    "ruhr-uni-bochum.de",
+    "rub.de",
+    "l.rub.de",
+]
+deny-urls = [
+    'moodle\.(rub|ruhr-uni-bochum)\.de',
+    'online-exam\.(rub|ruhr-uni-bochum)\.de',
+    '(rub|ruhr-uni-bochum)\.de/ecampus/',
+    '(web)?mail\.(rub|ruhr-uni-bochum)\.de',
+    'vvz\.(rub|ruhr-uni-bochum)\.de',
+    'sso-ecampus\.(rub|ruhr-uni-bochum)\.de',
+    'lists\.(rub|ruhr-uni-bochum)\.de',
+    'ub\.(rub|ruhr-uni-bochum)\.de',
+    'gitlab\.(rub|ruhr-uni-bochum)\.de',
+    'wiki.*\.(rub|ruhr-uni-bochum)\.de',
+
+    # see http://linux.ruhr-uni-bochum.de/ for further exclusions
+    'linux\.(rz\.)?(rub|ruhr-uni-bochum)\.de',
+    'debian\.(rub|ruhr-uni-bochum)\.de',
+    'ubuntu\.(rub|ruhr-uni-bochum)\.de',
+    'www-cache\.rz\.(rub|ruhr-uni-bochum)\.de',
+    'ftp\.rz\.(rub|ruhr-uni-bochum)\.de',
+    'skillslabs\.(rub|ruhr-uni-bochum)\.de/(kurskalender|events)',
+    'open\.(rub|ruhr-uni-bochum)\.de',
+    'el\.(rub|ruhr-uni-bochum)\.de/.*mensa/',
+    'el\.(rub|ruhr-uni-bochum)\.de/.*corona/',
+    'akademie\.(rub|ruhr-uni-bochum)\.de',
+
+    'hochschulsport\.(rub|ruhr-uni-bochum)\.de',
+    'git\.noc\.(rub|ruhr-uni-bochum)\.de',
+    'nds\.(rub|ruhr-uni-bochum)\.de/research/publications/\?(tags|type|paginate)',
+    'er\.ceres\.(rub|ruhr-uni-bochum)\.de',
+    
+    'el\.(rub|ruhr-uni-bochum)\.de/wiki',
+    'bdr-prod\.sbr\.(rub|ruhr-uni-bochum)\.de',
+    'gitlab.*\.(rub|ruhr-uni-bochum)\.de', # Git, GitLab, ...
+    'rdpcidat\.(rub|ruhr-uni-bochum)\.de',
+
+    # MediaWiki
+    '/wiki/.*php',
+    'face\.(rub|ruhr-uni-bochum)\.de/veranstaltungen/',
+
+    'das-dokumentarische\.blogs\.(rub|ruhr-uni-bochum)\.de(/en)?/calendar/',
+    'das-dokumentarische\.blogs\.(rub|ruhr-uni-bochum)\.de.*post_type=tribe_events'
+]

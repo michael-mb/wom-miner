@@ -1,0 +1,48 @@
+Metric                                                 UDE Count      UDE %  RUB Count      RUB %
+-----------------------------------------------------  -----------  -------  -----------  -------
+Found Total                                            10043         100.00  10769         100.00
+Truth Total                                            13388         100.00  9260          100.00
+Truth Total (duplicates)                               793             5.92  65              0.70
+Truth Total invalid names                              942             7.48  128             1.39
+-----------------------------------------------------  -----------  -------  -----------  -------
+Total (by name) - Truth Total                          11653         100.00  9067          100.00
+Total (by name) - Found Total                          10043         100.00  10769         100.00
+True positive (Precision)                              3189           31.75  2524           23.44 <-- "Precision" über alle Mitarbeiter
+True positive (Recall)                                 3189           27.37  2524           27.84
+F1                                                                    29.40                 25.45
+-----------------------------------------------------  -----------  -------  -----------  -------
+Total (by mail) - Truth Total                          7049           60.49  4451           49.09
+Total (by mail) - Found Total                          3768           37.52  3266           30.33
+True positive (Precision)                              2031           53.90  845            25.87 <-- "Precision" über alle Mitarbeiter mit Email
+True positive (Recall)                                 2031           28.81  845            18.98
+F1                                                                    37.55                 21.90
+-----------------------------------------------------  -----------  -------  -----------  -------
+People from Truth with Emails (by name) - Truth Total  7049           60.49  4451           49.09
+People from Truth with Emails (by name) - Found Total  10043         100.00  10769         100.00
+True positive (Precision)                              2700           26.88  1790           16.62
+True positive (Recall)                                 2700           38.30  1790           40.22
+F1                                                                    31.59                 23.52
+-----------------------------------------------------  -----------  -------  -----------  -------
+minus Doctors - Truth Total                            6942           59.57  3835           42.30
+minus Doctors - Found Total                            10043         100.00  10769         100.00
+True positive (Precision)                              2683           26.72  1764           16.38
+True positive (Recall)                                 2683           38.65  1764           46.00
+F1                                                                    31.59                 24.16
+-----------------------------------------------------  -----------  -------  -----------  -------
+minus Verwaltung & Sachbearbeiter - Truth Total        6337           54.38  3457           38.13
+minus Verwaltung & Sachbearbeiter - Found Total        10043         100.00  10769         100.00
+True positive (Precision)                              2572           25.61  1653           15.35
+True positive (Recall)                                 2572           40.59  1653           47.82
+F1                                                                    31.40                 23.24
+-----------------------------------------------------  -----------  -------  -----------  -------
+minus externe Emails - Truth Total                     5444           46.72  3025           33.36
+minus externe Emails - Found Total                     10043         100.00  10769         100.00
+True positive (Precision)                              2456           24.45  1567           14.55
+True positive (Recall)                                 2456           45.11  1567           51.80
+F1                                                                    31.72                 22.72
+-----------------------------------------------------  -----------  -------  -----------  -------
+minus Bibliothek - Truth Total                         5292           45.41  2971           32.77
+minus Bibliothek - Found Total                         10043         100.00  10769         100.00
+True positive (Precision)                              2441           24.31  1559           14.48
+True positive (Recall)                                 2441           46.13  1559           52.47 <-- Gefundene Personen mit Email ohne Doktoren/Ärzte, Verwaltung/Sachbearbeiter,
+F1                                                                    31.84                 22.69     Externen (laut Email) und ohne Bibliothek

@@ -1,0 +1,6 @@
+2023-07-04 22:35:26 [INFO    ] womutils.elastic                         : Elasticsearch instance successfully connected
+2023-07-04 22:37:11 [INFO    ] womutils.elastic                         : Elasticsearch instance successfully connected
+2023-07-04 22:38:40 [INFO    ] womutils.elastic                         : Elasticsearch instance successfully connected
+2023-07-04 22:39:10 [INFO    ] research.main                            : Ignore doc with ID=5b35e88bd4aa09ee1d0516ca1b02f1dee009b68f3f75ac9b33cbd888e2be64d5, reason: Document has not passed filter criteria
+2023-07-04 22:39:10 [INFO    ] research.main                            : Ignore doc with ID=38d8b3a5b45642f89be37aed732020d0aa958c838f260c3d4e494039ae55d4fe, reason: Document has not passed filter criteria
+2023-07-04 22:39:10 [INFO    ] research.main                            : Ignore doc with ID=ca7d4405f7dc6d78d21a02797b42e517a36de296fe0b190601dea29d9aefc4b6, reason: Document has not passed filter criteria

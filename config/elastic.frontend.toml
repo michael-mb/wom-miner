@@ -1,0 +1,4 @@
+instance = "https://wom.handte.org:443/elastic/"
+username = "frontend"
+password = "ANY3_ch@NAvQVaGkZ!@hZyFVp5+uG8xcdbLZnAgg"
+disable_security = false

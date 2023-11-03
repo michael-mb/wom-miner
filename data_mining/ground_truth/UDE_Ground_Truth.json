@@ -1,0 +1,455 @@
+{
+  "use": {
+    "faculties": [
+      {
+        "name": "Fakultät für Geisteswissenschaften",
+        "link": "https://www.uni-due.de/geisteswissenschaften/",
+        "institut": [
+          {
+            "name": "Institut für Anglophone Studien",
+            "link": "https://www.uni-due.de/anglistik/",
+            "departments": [
+              {
+                "name": "EFL Education",
+                "link": "https://www.uni-due.de/anglistik/applied_linguistics_didactics/index",
+                "staff": [
+                  {
+                    "name": "Prof. Dr. Eva Wilden",
+                    "position": "Professor",
+                    "room": "R12 R04 A48",
+                    "​phone": "+49 201 183-4175",
+                    "e-mail": "eva.wilden@uni-due.de",
+                    "link": "https://www.uni-due.de/anglistik/applied_linguistics_didactics/wilden_eva.php"
+                  },
+                  {
+                    "name": "Prof. Dr. Thorsten Merse",
+                    "position": "Professor",
+                    "address": "Universitätsstraße 12 45141 Essen",
+                    "room": "R12 R04 A42",
+                    "​phone": "+49 201 183 3886",
+                    "e-mail": "thorsten.merse@uni-due.de",
+                    "link": "https://www.uni-due.de/anglistik/applied_linguistics_didactics/merse_thorsten.php",
+                  }
+                ]
+              },
+              {
+                "name": "English Linguistics",
+                "link": "https://www.uni-due.de/anglistik/linguistics/",
+                "staff": [
+                  {
+                    "name": "Prof. Dr. Isabelle Buchstaller",
+                    "position": "",
+                    "address": "Universitätsstr. 12 45141 Essen ",
+                    "room": "R12 S04 H76",
+                    "​phone": "+49 201 183 4712",
+                    "e-mail": "isabelle.buchstaller@uni-due.de",
+                    "link": "https://www.uni-due.de/anglistik/sociolinguistics_lab/buchstaller_isabelle.php",
+                    "office_hours": "Dienstags von 16-17:00 Uhr "
+                  }
+                ]
+              },
+              {
+                "name": "Language Practice Team",
+                "link": "https://www.uni-due.de/anglistik/language_practice_team.php",
+                "staff": [
+                  {
+                    "name": "B.A., MSc. Neil Deane ",
+                    "position": "",
+                    "address": "Universitätsstr. 12 45141 Essen",
+                    "room": "R12 R04 A32",
+                    "​phone": "+49 201 183 3447",
+                    "​fax": "+49 201 183 4225",
+                    "e-mail": "neil.deane@uni-due.de",
+                    "link": "https://www.uni-due.de/anglistik/applied_linguistics_didactics/deane_neil.php",
+                  },
+                  {
+                    "name": "Dr. Susan Dostert ",
+                    "position": "",
+                    "function": "Lektor/in, Anglistik: Britische und Anglophone Kultur- und Literaturwissenschaft - British and Anglophone Literature and Culture",
+                    "address": "",
+                    "room": "R12 S04 H19",
+                    "​phone": "+49 201 183 3464",
+                    "​fax": "",
+                    "e-mail": "susan.dostert@uni-due.de",
+                    "link": "https://www.uni-due.de/balc/dostert_susan.php",
+                    "office_hours": "Mi 11-12"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Institut für Deutsch als Zweit- und Fremdsprache",
+            "link": "https://www.uni-due.de/daz-daf/"
+          },
+          {
+            "name": "Institut für Geographie",
+            "link": "https://www.uni-due.de/geographie/",
+            "Lehrstühle": [
+              {
+                "name": "Lehrstuhl Wirtschaftsgeographie, Verkehr & Logistik",
+                "link": "https://www.uni-due.de/wigeo/"
+              },
+              {
+                "name": "Didaktik des Sachunterrichts, SP Gesellschaftswissenschaften",
+                "link": "https://www.uni-due.de/geographie/sachunterricht/"
+              }
+            ]
+          },
+          {
+            "name": "Institut für Germanistik",
+            "link": "https://www.uni-due.de/germanistik/"
+          },
+          {
+            "name": "Historisches Institut",
+            "link": "https://www.uni-due.de/geschichte/"
+          },
+          {
+            "name": "Institut für Kommunikationswissenschaft",
+            "link": "https://www.uni-due.de/kowi/"
+          },
+          {
+            "name": "Institut für Kunst und Kunstwissenschaft",
+            "link": "https://www.uni-due.de/kunst-kuwiss/kuk_home.shtml"
+          },
+          {
+            "name": "Abteilung für Niederlandistik",
+            "link": "https://www.uni-due.de/germanistik/niederlandistik/"
+          },
+          {
+            "name": "Institut für Philosophie",
+            "link": "https://www.uni-due.de/philosophie/"
+          },
+          {
+            "name": "Institut für Romanische Sprachen und Literaturen",
+            "link": "https://www.uni-due.de/romanistik/"
+          },
+          {
+            "name": "Evangelische Theologie",
+            "link": "https://www.uni-due.de/EvangelischeTheologie/"
+          },
+          {
+            "name": "Institut für Katholische Theologie",
+            "link": "https://www.uni-due.de/katheol/"
+          },
+          {
+            "name": "Institut für Turkistik",
+            "link": "https://www.uni-due.de/turkistik/"
+          },
+          {
+            "name": "Institut für niederrheinische Kulturgeschichte und Regionalentwicklung",
+            "link": "https://www.uni-due.de/inkur/"
+          },
+          {
+            "name": "Institut für Sachunterricht",
+            "link": "https://www.uni-due.de/isu/"
+          },
+          {
+            "name": "Institut für Sonderpädagogik",
+            "link": "https://www.uni-due.de/sonderpaedagogik/"
+          }
+        ]
+      },
+      {
+        "name": "Fakultät für Gesellschaftswissenschaften",
+        "link": "https://www.uni-due.de/gesellschaftswissenschaften",
+        "institut": [
+          {
+            "name": "Institut für Politikwissenschaft",
+            "link": "https://www.uni-due.de/politik/"
+          },
+          {
+            "name": "Institut für Soziologie",
+            "link": "https://www.uni-due.de/soziologie/"
+          },
+          {
+            "name": "Institut für Sozioökonomie",
+            "link": "https://www.uni-due.de/soziooekonomie/"
+          },
+          {
+            "name": "Institut für Entwicklung und Frieden",
+            "link": "https://www.uni-due.de/inef/"
+          },
+          {
+            "name": "Institut Arbeit und Qualifikation",
+            "link": "https://www.uni-due.de/iaq/"
+          },
+          {
+            "name": "Institut für Ostasienwissenschaften",
+            "link": "https://www.uni-due.de/in-east/"
+          }
+        ]
+      },
+      {
+        "name": "Fakultät für Bildungswissenschaften",
+        "link": "https://www.uni-due.de/biwi",
+        "institut": [
+          {
+            "name": "Institut für Berufs- und Weiterbildung",
+            "link": "https://www.uni-due.de/ibw/",
+            "departments": [
+              {
+                "name": "Allgemeine Erziehungswissenschaft mit Berücksichtigung der Genderperspektiven",
+                "link": "https://www.uni-due.de/ibw/erziehungswissenschaft_genderperspektive",
+                "staff": []
+              },
+              {
+                "name": "Berufliche Aus- und Weiterbildung",
+                "link": "https://www.uni-due.de/biwi/vet/",
+                "staff": []
+              },
+              {
+                "name": "Berufspädagogik / Berufsbildungsforschung ",
+                "link": "http://www.uni-due.de/berupaed/",
+                "staff": []
+              },
+              {
+                "name": "Erwachsenenbildung",
+                "link": "https://www.uni-due.de/biwi/eb/index.php",
+                "staff": []
+              },
+              {
+                "name": "Erwachsenenbildung / Politische Bildung",
+                "link": "http://www.uni-due.de/politische-bildung",
+                "staff": []
+              },
+              {
+                "name": "Pädagogische Psychologie und Entwicklungspsychologie  ",
+                "link": "https://www.uni-due.de/bw-pp/",
+                "staff": []
+              }
+            ]
+          },
+          {
+            "name": "Institut für Erziehungswissenschaft",
+            "link": "https://www.uni-due.de/biwi/erziehungswissenschaft",
+            "departments": [
+              {
+                "name": "Allgemeine Didaktik",
+                "link": "https://www.uni-due.de/allgemeine-didaktik/",
+                "staff": []
+              },
+              {
+                "name": "Bildungsforschung",
+                "link": "https://www.uni-due.de/bifo/",
+                "staff": []
+              },
+              {
+                "name": "Inklusive Pädagogik und Diversität",
+                "link": "https://www.uni-due.de/biwi/inklusive_paedagogik/index",
+                "staff": []
+              },
+              {
+                "name": "Jugend- und Schulforschung",
+                "link": "https://www.uni-due.de/biwi/jugend-und-schulforschung/",
+                "staff": []
+              },
+              {
+                "name": "Kindheitsforschung",
+                "link": "https://www.uni-due.de/biwi/kindheitsforschung/",
+                "staff": []
+              },
+              {
+                "name": "Migrations- und geschlechtsspezifische Bildungsprozesse",
+                "link": "https://www.uni-due.de/biwi/ipaed_personen?id=62361",
+                "staff": []
+              },
+              {
+                "name": "Migrations- und Ungleichheitsforschung",
+                "link": "https://www.uni-due.de/biwi/migrations-ungleichheitsforschung/",
+                "staff": []
+              },
+              {
+                "name": "Pädagogische Professionsforschung",
+                "link": "https://www.uni-due.de/biwi/paedagogik/professionsforschung/",
+                "staff": []
+              },
+              {
+                "name": "Schule und Jugendhilfe",
+                "link": "https://www.uni-due.de/schule_und_jugendhilfe/",
+                "staff": []
+              },
+              {
+                "name": "Schulforschung K-7",
+                "link": "https://www.uni-due.de/biwi/schulforschung/",
+                "staff": []
+              },
+              {
+                "name": "Schulpädagogik",
+                "link": "https://www.uni-due.de/edu-research/index.php",
+                "staff": []
+              },
+              {
+                "name": "Sozialisationsforschung",
+                "link": "https://www.uni-due.de/biwi/koenig/start.php",
+                "staff": []
+              },
+              {
+                "name": "Unterrichtsentwicklung",
+                "link": "https://www.uni-due.de/unterrichtsentwicklung/index.php",
+                "staff": []
+              },
+              {
+                "name": "Unterrichtsforschung",
+                "link": "https://www.uni-due.de/ufo/",
+                "staff": []
+              }
+            ]
+          },
+          {
+            "name": "Institut für Psychologie",
+            "link": "https://www.uni-due.de/biwi/psychologie/"
+          },
+          {
+            "name": "Institut für Soziale Arbeit und Sozialpolitik",
+            "link": "https://www.uni-due.de/biwi/isp/"
+          },
+          {
+            "name": "Institut für Sport- und Bewegungswissenschaften",
+            "link": "https://www.uni-due.de/sport-und-bewegungswissenschaften/"
+          }
+        ]
+      },
+      {
+        "name": "Fakultät für Wirtschaftswissenschaften",
+        "link": "https://www.wiwi.uni-due.de/homepage/",
+        "institut": [
+          {
+            "name": "Paluno",
+            "link": "https://paluno.uni-due.de/"
+          },
+          {
+            "name": "IBES Institut für Betriebswirtschaft und Volkswirtschaft",
+            "link": "https://www.wiwi.uni-due.de/organisation/institute/ibes/"
+          },
+          {
+            "name": "ICB Institut für Informatik und Wirtschaftsinformatik",
+            "link": "https://www.icb.wiwi.uni-due.de/"
+          },
+          {
+            "name": "CINCH Zentrum für gesundheitsökonomische Forschung",
+            "link": "https://www.wiwi.uni-due.de/forschung/forschungsbereiche/cinch/"
+          },
+          {
+            "name": "HEMF House of Energy Markets and Finance",
+            "link": "https://www.hemf.wiwi.uni-due.de/"
+          },
+          {
+            "name": "elfe Essener Labor für Experimentelle Wirtschaftsforschung",
+            "link": "https://www.elfe.wiwi.uni-due.de/aktuelles/"
+          }
+        ]
+      },
+      {
+        "name": "Mercator School of Management (Fakultät für Betriebswirtschaftslehre)",
+        "link": "https://www.msm.uni-due.de/mercator-school-of-management/"
+      },
+      {
+        "name": "Fakultät für Mathematik",
+        "link": "https://www.uni-due.de/mathematik/",
+        "institut": [
+          {
+            "name": "IEM, Institut für experimentelle Mathematik",
+            "link": "https://www.uni-due.de/mathematik/mathematik_iem.php"
+          },
+          {
+            "name": "ruhr.paD UA Ruhr Zentrum für partielle Differentialgleichungen",
+            "link": "https://www.uni-due.de/mathematik/ruhrpad/ruhr.pad"
+          }
+        ]
+      },
+      {
+        "name": "Fakultät für Physik",
+        "link": "https://www.uni-due.de/physik/",
+        "institut": [
+        ]
+      },
+      {
+        "name": "Fakultät für Chemie",
+        "link": "https://www.uni-due.de/chemie/",
+        "institut": [
+          
+          
+        ]
+      },
+      {
+        "name": "Fakultät für Biologie",
+        "link": "https://www.uni-due.de/biologie/",
+        "institut": [
+          {
+            "name": "IZfB Interdisziplinäres Zentrum für Bildungsforschung",
+            "link": "https://www.uni-due.de/izfb/"
+          }
+        ]
+      },
+      {
+        "name": "Fakultät für Ingenieurwissenschaften",
+        "link": "https://www.uni-due.de/iw/de/",
+        "institut": [
+          {
+            "name": "NETZ NanoEnergieTechnikZentrum",
+            "link": "https://www.uni-due.de/cenide/netz/"
+          },
+          {
+            "name": "ICAN Interdisciplinary Center for Analytics on the Nanoscale",
+            "link": "https://www.uni-due.de/cenide/ican/"
+          },
+          {
+            "name": "CCSS Center for Computational Sciences and Simulation",
+            "link": "https://www.uni-due.de/css/"
+          },
+          {
+            "name": "CER.UDE Center for Energy Research",
+            "link": "https://www.uni-due.de/cerude/"
+          },
+          {
+            "name": "Zentrum für Logistik und Verkehr (ZLV)",
+            "link": "https://www.uni-due.de/zlv/"
+          },
+          {
+            "name": "CENIDE Center for Nanointegration Duisburg-Essen",
+            "link": "https://www.uni-due.de/cenide/de/"
+          }
+        ]
+      },
+      {
+        "name": "Medizinische Fakultät",
+        "link": "https://www.uni-due.de/med/",
+        "institut": [
+          {
+            "name": "Institute for Experimental Immunology and Imaging",
+            "link": "https://www.uni-due.de/experimental-immunology/"
+          },
+          {
+            "name": "Institut für Pharmakogenetik",
+            "link": "https://www.uni-due.de/med/pharmakogenetik/"
+          },
+          {
+            "name": "Institut für Physiologie",
+            "link": "https://www.uni-due.de/physiologie/"
+          },
+          {
+            "name": "Institut für Pathophysiologie",
+            "link": "https://www.uni-due.de/pathophysio/"
+          },
+          {
+            "name": "Institute of Pharmacology",
+            "link": "https://www.uni-due.de/pharmakologie/"
+          },
+          {
+            "name": "Institut für Molekularbiologie",
+            "link": "https://www.uni-due.de/institut-fuer-molekularbiologie/"
+          },
+          {
+            "name": "Institut für Virologie",
+            "link": "https://www.uni-due.de/virologie/"
+          },
+          {
+            "name": "Institut für Anatomie II",
+            "link": "https://www.uni-due.de/neuroanatomie/ag_duenker/startseite"
+          }
+        ]
+      }
+    ]
+  }
+}
